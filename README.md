@@ -131,12 +131,6 @@ StageAI/
 │   ├── test_impact_reporter.py
 │   └── test_pilot_analysis.py
 │
-├── docs/
-│   ├── technical_discussion_guide.md   # Answers to all 7 oral evaluation questions
-│   ├── assignment.pdf                  # Challenge specification
-│   ├── Assignment_reference.pdf        # Architecture reference guide
-│   └── one_user_one_agent_pack/        # Official data pack (profiles, replay, pilot)
-│
 └── sample_run/                         # Fully executed evaluation artifacts
     ├── decisions.jsonl                 # 2,769 chronological decision records
     ├── actions.jsonl                   # 1,156 verified actions (0 policy violations)
