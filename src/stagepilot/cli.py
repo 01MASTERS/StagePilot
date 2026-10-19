@@ -174,6 +174,12 @@ def main() -> None:
         action="store_true",
         help="Skip running pytest suite at the end.",
     )
+    all_parser.add_argument(
+        "--max-triggers",
+        type=int,
+        default=None,
+        help="Limit number of replay triggers to process (useful for live LLM benchmarking).",
+    )
 
     args = parser.parse_args()
 
@@ -333,7 +339,7 @@ def main() -> None:
         )
         harness.setup()
         harness.prepopulate_history()
-        replay_summary = harness.run()
+        replay_summary = harness.run(max_triggers=args.max_triggers)
         print(
             f"[OK] Replay completed: {replay_summary['triggers_processed']:,} triggers, "
             f"{replay_summary['actions_published']:,} actions published, "

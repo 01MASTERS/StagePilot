@@ -237,6 +237,14 @@ class ReplayHarness:
                     else:
                         vetoed_decisions += 1
 
+                    log_interval = 10 if getattr(self.pipeline.model_provider, "provider_name", "") != "mock" else 250
+                    if total_triggers % log_interval == 0:
+                        print(
+                            f"      [Replay Progress] Processed {total_triggers:,} triggers "
+                            f"({published_actions:,} published, {vetoed_decisions:,} vetoed)...",
+                            flush=True,
+                        )
+
                     if max_triggers and total_triggers >= max_triggers:
                         break
 
