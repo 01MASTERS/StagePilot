@@ -1,0 +1,99 @@
+{
+  "user_id": "U-02695",
+  "profile": {
+    "user_id": "U-02695",
+    "signup_at": "2026-09-29T01:06:04.422Z",
+    "subscription_status": "trial_active",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:09:14.758Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-29T01:06:04.422000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-29T01:06:04.422Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "trial_active",
+      "source": "profile",
+      "observed_at": "2026-09-29T01:06:04.422Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-29T01:06:04.422Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-29T01:06:04.422Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T09:16:10.655Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G04",
+      "name": "trial_to_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T06:01:14.194Z",
+      "deadline": "2026-10-08T06:01:14.194Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T06:01:14.194Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "8bb73a51-9d51-4795-abaa-b2872198902c"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-29T01:07:40.663Z",
+  "last_play_by_slug": {
+    "naniri-teha-d5": "2026-09-29T01:07:40.663Z"
+  },
+  "last_app_open_at": "2026-09-30T09:15:59.841Z",
+  "active_days_ist": [
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0f13fb6b-2ae5-4f83-a73e-01c62c4cd309",
+    "11d4df76-1709-4ad9-837a-d856ce364bc2",
+    "21e5f693-c04a-4185-8712-605daf0a30b5",
+    "2bc56118-f690-4a81-9cd0-3a293d2c0df9",
+    "9d342700-dcbf-4127-b526-6d34bbca1355",
+    "a75bd2dd-08a3-44ab-b7e9-a83e67dd49cd",
+    "d430700f-2940-4e39-b5c6-e2c6010594b9",
+    "e2247ed2-4364-4034-a29a-a707f33962ca"
+  ],
+  "updated_at": "2026-10-08T06:01:14.194Z"
+}

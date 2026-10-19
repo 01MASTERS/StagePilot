@@ -1,0 +1,122 @@
+{
+  "user_id": "U-03081",
+  "profile": {
+    "user_id": "U-03081",
+    "signup_at": "2026-04-01T19:35:34.992Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:19:18.016Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-04-01T19:35:34.992000+00:00",
+      "source": "profile",
+      "observed_at": "2026-04-01T19:35:34.992Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-09T10:52:09.133Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T10:52:09.133Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T10:52:09.133Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:45:58.102Z",
+      "deadline": "2026-10-08T04:45:58.102Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:45:58.102Z"
+    }
+  ],
+  "completed_episodes": [
+    "hama-chudibha-d1-s1e1",
+    "molo-d2-s1e1"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e1",
+    "hama-chudibha-d1": "hama-chudibha-d1-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Romance": 1,
+    "Comedy": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "0938cb0f-d9e5-4680-baa5-b91f8a4222ff",
+    "92bfc1a0-f257-4b04-8940-810d98d09526"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-20T02:31:02.892Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-09-09T10:54:38.906Z",
+    "hama-chudibha-d1": "2026-09-20T02:31:02.892Z"
+  },
+  "last_app_open_at": "2026-09-21T13:54:05.506Z",
+  "active_days_ist": [
+    "2026-09-09",
+    "2026-09-14",
+    "2026-09-20",
+    "2026-09-21"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "01339eb9-2848-49d4-8afa-f27eb0b17477",
+    "1d6187e0-c580-41ec-b4e1-2101a43c0abb",
+    "1de5a089-ad37-4ca6-9b21-1305b43026d7",
+    "1e355123-b670-4faa-9a7e-cf282aeda8dc",
+    "22550f6d-2aee-48a6-b0a0-e9b7e66455cf",
+    "24796174-28ec-49d7-ab68-0d3b269cca50",
+    "39396f89-b33d-44cd-9036-114db36c6eb0",
+    "6d4ca2a2-c9c5-40ff-af18-483c23a6ec94",
+    "7624dc12-be7c-49d1-8cd5-4d24001c9b5d",
+    "7be05d94-1411-4985-8845-1ce5ab59f587",
+    "818b602c-fb18-4439-bb5a-dc07996a62a4",
+    "849725dd-a107-4979-a642-75b3fa04ba5d",
+    "8cbe3093-0f83-4474-946e-89b77a6c5031",
+    "9e105dfa-d38f-403a-a177-4f566682d140",
+    "a30e6013-42f7-49f8-bf2f-b71b36c7652c",
+    "ade5f7fb-ca31-46fc-b397-ba6f5845abfe",
+    "bf8f3dae-9f9a-44d6-b9fa-3302cf6c5c8d",
+    "bfa6a78c-7b21-4486-bac4-dc5fbbdb5206",
+    "c12f0853-7056-41b8-940a-122690d8fd1d",
+    "ca02270b-d981-4321-9177-b2bd25396a4c",
+    "ce3e77e1-f4d8-4501-a4e4-0c0ed05b3fc7",
+    "d1ad35c6-df20-47a4-a8c4-29ad394af59d",
+    "d7626d8e-c1cb-4e2b-8389-a557ef58f38f",
+    "ec3f2191-f5d3-4b7e-b1fd-bbf324465447",
+    "ece2bb88-df14-4845-a05b-39b7d105d31c"
+  ],
+  "updated_at": "2026-10-08T04:45:58.102Z"
+}

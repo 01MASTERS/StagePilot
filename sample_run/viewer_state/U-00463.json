@@ -1,0 +1,103 @@
+{
+  "user_id": "U-00463",
+  "profile": {
+    "user_id": "U-00463",
+    "signup_at": "2026-09-20T03:32:23.183Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T16:10:23.358Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-20T03:32:23.183000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-20T03:32:23.183Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-20T03:32:23.183Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-20T03:32:23.183Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-20T03:32:23.183Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T05:52:14.470Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T14:30:51.894Z",
+      "deadline": "2026-10-08T14:30:51.894Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T14:30:51.894Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Action": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "f18f2455-b235-4f40-aec0-72f1b38cae54"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-20T03:35:16.942Z",
+  "last_play_by_slug": {
+    "pima-pana-d3": "2026-09-20T03:35:16.942Z"
+  },
+  "last_app_open_at": "2026-09-29T05:51:59.819Z",
+  "active_days_ist": [
+    "2026-09-20",
+    "2026-09-24",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "00f298dc-7c2a-40b7-bf54-a4d3923779fa",
+    "02ab4212-2b8c-4814-8842-5a133bfd2868",
+    "225e774c-11a3-4edf-9244-c73edf25f28a",
+    "262f3794-c0df-4b02-b0f3-24b9af62ca94",
+    "3c7f27e8-c6cc-4b57-9e9f-74fd56efc1bc",
+    "42ed90f7-36e7-4521-98ff-4f2be3f5c50a",
+    "920d1a76-a587-41fc-a002-952f11150425",
+    "93cd8880-eb5a-4296-a815-1a2864a3e3fb",
+    "a45304a3-8a17-4ce0-83ff-b67991503c56",
+    "db1fe6ec-9bc3-4ca8-b334-4aaee1726fa1",
+    "f8d766fe-44c5-4c78-b261-c8022d0e306a"
+  ],
+  "updated_at": "2026-10-08T14:30:51.894Z"
+}

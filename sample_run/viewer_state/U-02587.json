@@ -1,0 +1,99 @@
+{
+  "user_id": "U-02587",
+  "profile": {
+    "user_id": "U-02587",
+    "signup_at": "2026-09-23T18:34:01.437Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-23T18:36:21.094Z",
+    "plan_ends_at": "2026-10-23T18:36:21.094Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T14:12:28.201Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-23T18:34:01.437000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-23T18:34:01.437Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-23T18:36:21.094Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-23T18:34:01.437Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-23T18:34:01.437Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-23T18:34:01.437Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-24T14:40:13.879Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Family": 2,
+    "Romance": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "53c28f2a-e0b5-4577-a0b6-adeafcc76d79",
+    "81f2dfe3-6ee2-468b-abae-0f6c5193b2d2"
+  ],
+  "total_plays": 2,
+  "total_completes": 0,
+  "last_play_at": "2026-09-24T14:38:44.479Z",
+  "last_play_by_slug": {
+    "pavachu-kona-d4": "2026-09-24T03:39:05.959Z",
+    "moka-d4": "2026-09-24T14:38:44.479Z"
+  },
+  "last_app_open_at": "2026-09-24T14:35:47.771Z",
+  "active_days_ist": [
+    "2026-09-24"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "3328a066-bc3a-4516-9809-6bd447867283",
+    "3fb04e31-5910-4e85-96fd-0795127ac0b3",
+    "51cf1033-828d-4466-add9-0741883c0bd8",
+    "525b0603-d7d0-4d69-8f2e-e656d6738499",
+    "551259ab-82e1-4f64-b273-027910f84fa3",
+    "5cd43e3d-8f59-495f-b44b-5890496bdef9",
+    "91c2d4ba-f442-4840-ba56-2ef0ea92458e",
+    "a30dc128-2514-4697-b5a9-54818aec471c",
+    "ae1f0aad-f60b-42ed-8e63-17e41b23d0e1",
+    "c06ead97-85ce-4a51-9a86-33e45e8f4f83",
+    "c253acf0-ffae-4bea-ac7e-da214d77016f",
+    "cf2bdde9-5e79-4a3a-9463-a71e553cbac1",
+    "d70a6e71-a284-4851-92dd-935b4894ab17",
+    "e530f916-4357-44bf-aa7c-a8d9878e4408",
+    "e77e207e-5b63-4732-a4c3-e445f5a4be17"
+  ],
+  "updated_at": "2026-09-24T14:40:13.879Z"
+}

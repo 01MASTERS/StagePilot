@@ -1,0 +1,99 @@
+{
+  "user_id": "U-01522",
+  "profile": {
+    "user_id": "U-01522",
+    "signup_at": "2025-09-27T00:46:07.817Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T04:14:45.685Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-09-27T00:46:07.817000+00:00",
+      "source": "profile",
+      "observed_at": "2025-09-27T00:46:07.817Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-05T08:36:09.664Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-05T08:36:09.664Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-05T08:36:09.664Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T08:36:09.664Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-05T12:41:26.630Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d5",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-05T08:36:09.664Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "rava-baya-d1-s1e1"
+  ],
+  "slug_progress": {
+    "rava-baya-d1": "rava-baya-d1-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "004e0e6e-31d1-4f4b-9694-aa569e9a9ee9"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-05T10:51:01.583Z",
+  "last_play_by_slug": {
+    "rava-baya-d1": "2026-09-05T10:51:01.583Z"
+  },
+  "last_app_open_at": "2026-09-05T10:49:18.252Z",
+  "active_days_ist": [
+    "2026-09-05"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "2fdde997-b7e5-41b7-acae-c3b33090a7b0",
+    "39c49b9b-c870-43a8-b6de-9f95b623d17f",
+    "528fe588-145a-44d1-91b7-cf93716544f4",
+    "79c00aa6-d2a8-426a-bba8-2d37d972dd4c",
+    "bf78b6c2-b1ce-448d-bfd9-4c8f02f0e024",
+    "ce56c33e-440f-4406-a74d-1112fc06478f",
+    "d8f31462-6076-4a39-a9eb-e4d86e21f908",
+    "ed5aa87a-dbe4-44ba-a090-8b5aaf1199dc"
+  ],
+  "updated_at": "2026-09-05T12:41:26.630Z"
+}

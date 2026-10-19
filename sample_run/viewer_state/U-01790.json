@@ -1,0 +1,134 @@
+{
+  "user_id": "U-01790",
+  "profile": {
+    "user_id": "U-01790",
+    "signup_at": "2025-02-21T12:17:43.353Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T00:40:23.287Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-21T12:17:43.353000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-21T12:17:43.353Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T12:02:44.536Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-04T12:02:44.536Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T12:02:44.536Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T12:02:44.536Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T16:24:41.033Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T18:24:39.769Z",
+      "deadline": "2026-10-08T18:24:39.769Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T18:24:39.769Z"
+    }
+  ],
+  "completed_episodes": [
+    "gite-d2-s1e1",
+    "guka-kosusa-d2-s1e1"
+  ],
+  "slug_progress": {
+    "guka-kosusa-d2": "guka-kosusa-d2-s1e1",
+    "gite-d2": "gite-d2-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Devotional": 2,
+    "Action": 1
+  },
+  "play_sessions": [
+    "70275228-d117-466a-9030-918ec0e6aac2",
+    "df750393-242f-450e-9432-f33f90f174a5"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-06T20:13:08.370Z",
+  "last_play_by_slug": {
+    "guka-kosusa-d2": "2026-09-04T12:04:53.958Z",
+    "gite-d2": "2026-09-06T20:13:08.370Z"
+  },
+  "last_app_open_at": "2026-09-27T16:24:30.638Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-07",
+    "2026-09-20",
+    "2026-09-23",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "054fa072-1cef-45dd-8c56-196251a5964f",
+    "0d9f5cd2-15fe-434e-a484-902e2752f765",
+    "0efa838f-fda8-41cd-9a00-6aadf8d102ad",
+    "160b14fb-13d5-4ccf-a35a-30c6fcc70784",
+    "3287a194-91f8-43a2-a874-81bd3bbf14c4",
+    "3d430123-1d99-49e0-8cf2-acd6a0387bb7",
+    "3fe854a1-29c0-4b95-b98c-467a0197e19f",
+    "40785235-cf28-4ab6-9218-0bcb059ac0a9",
+    "6866fd85-1e6f-4e93-8f31-47f8c5d097f7",
+    "6b82f435-5b48-4b51-9bda-ca621540822b",
+    "717dc6ca-782c-42df-a86b-afbac5664a3f",
+    "71b24d64-9b7b-4ac2-baad-247802430b2a",
+    "815c61a7-e78c-46c9-85b1-b9bb0712a92f",
+    "9079f218-fa31-4d6f-b981-7ad64ffaa742",
+    "90ce7f3e-fba6-42c9-b134-38ea366cfbe3",
+    "94ced6e1-7d12-4033-9471-4b7d54dad131",
+    "986356a0-bdc7-4938-abd2-c3cce49d754c",
+    "9bd52c88-e50d-4a78-9049-ea81467ff06c",
+    "a85a9306-38b9-4739-b480-519def056eb7",
+    "ae33721a-ac72-4651-af00-6ff45813d264",
+    "bd41110c-25d2-4a9b-ad32-ad3e1085747a",
+    "e36aa4dc-a53c-49cf-a604-544c529fea62",
+    "fbfe9fe6-57de-4ff1-bf7e-92612d072637",
+    "fcd5c495-6c22-49e5-afa3-f3cb26648517",
+    "feb4cd4d-5012-44db-86ed-8f38aa3d83ee"
+  ],
+  "updated_at": "2026-10-08T18:24:39.769Z"
+}

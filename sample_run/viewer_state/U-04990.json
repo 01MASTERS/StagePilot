@@ -1,0 +1,114 @@
+{
+  "user_id": "U-04990",
+  "profile": {
+    "user_id": "U-04990",
+    "signup_at": "2025-09-25T08:23:36.843Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T15:24:07.631Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-09-25T08:23:36.843000+00:00",
+      "source": "profile",
+      "observed_at": "2025-09-25T08:23:36.843Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-17T03:26:09.146Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-17T03:26:09.146Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-17T03:26:09.146Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-17T03:26:09.146Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T11:12:12.084Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:47:32.399Z",
+      "deadline": "2026-10-08T04:47:32.399Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:47:32.399Z"
+    }
+  ],
+  "completed_episodes": [
+    "jamo-hasa-d5-s1e1"
+  ],
+  "slug_progress": {
+    "jamo-hasa-d5": "jamo-hasa-d5-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "f277b69c-dcb1-4f6e-af7a-e872180ebafb"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-27T11:09:25.983Z",
+  "last_play_by_slug": {
+    "jamo-hasa-d5": "2026-09-27T11:09:25.983Z"
+  },
+  "last_app_open_at": "2026-09-27T11:08:22.158Z",
+  "active_days_ist": [
+    "2026-09-17",
+    "2026-09-21",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "078ee60b-21a9-4b6b-b0f7-b571ca2346bd",
+    "3c6c93e7-ef58-452a-8bc2-b293d2331213",
+    "51d58e69-385a-4e71-a6bf-b1ab87d1f42e",
+    "778334a9-6957-4bc4-8dfe-1bf615544671",
+    "8304e5d9-fe57-4c24-ab60-98efb2e705eb",
+    "84ee2dc4-3977-48eb-9d96-c45eb6969cd3",
+    "a560aee8-9c33-48da-8a49-873aacf4032b",
+    "b0bd4f01-0c4b-4bfb-b024-427b4117a03e",
+    "b560dff4-a44c-4162-af6d-8df436f3cd21",
+    "b598ed11-a06f-4d78-a6ce-e7fc78cbdef3",
+    "b749075d-0b63-4ca9-93eb-61cc5092dc12",
+    "bc18b024-739c-433c-8cde-2a02bc80fee5"
+  ],
+  "updated_at": "2026-10-08T04:47:32.399Z"
+}

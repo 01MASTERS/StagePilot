@@ -1,0 +1,184 @@
+{
+  "user_id": "U-03602",
+  "profile": {
+    "user_id": "U-03602",
+    "signup_at": "2025-07-07T05:46:17.094Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-23T06:10:03.186Z",
+    "plan_ends_at": "2026-10-23T06:10:03.186Z",
+    "preferred_dialect": "d6",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T23:32:07.578Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-07-07T05:46:17.094000+00:00",
+      "source": "profile",
+      "observed_at": "2025-07-07T05:46:17.094Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-23T06:10:03.186Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d6",
+      "source": "profile",
+      "observed_at": "2026-09-01T15:24:29.554Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T15:24:29.554Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-01T15:24:29.554Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T00:34:58.554Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d6",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-24T15:37:08.689Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G07",
+      "name": "resume_series_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T08:58:53.252Z",
+      "deadline": "2026-10-04T08:58:53.252Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "same content_slug as the unfinished series",
+      "target_content_slug": "gumosu-dhakoko-d6",
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T08:58:53.252Z"
+    }
+  ],
+  "completed_episodes": [
+    "piri-jama-d6-s1e1",
+    "rasuya-moni-d6-s1e1"
+  ],
+  "slug_progress": {
+    "piri-jama-d6": "piri-jama-d6-s1e1",
+    "rasuya-moni-d6": "rasuya-moni-d6-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 1,
+    "Family": 1,
+    "Comedy": 3,
+    "Romance": 3,
+    "Devotional": 2,
+    "Thriller": 2
+  },
+  "play_sessions": [
+    "1bf468d1-e65f-4847-b511-719904553bb1",
+    "2d677c77-c1f2-46a7-b3d3-4ae1dbed3bf9",
+    "918e12b7-7421-40bf-93bd-afee8386baca",
+    "b3f7efa5-208e-49e0-978e-8bf63a8fca87",
+    "cfa4d52a-de47-4e66-9074-f5fc5c285b71",
+    "ed9da6b0-c811-49c4-9c35-b14d8b55994a"
+  ],
+  "total_plays": 6,
+  "total_completes": 4,
+  "last_play_at": "2026-09-29T00:05:32.836Z",
+  "last_play_by_slug": {
+    "gumosu-dhakoko-d6": "2026-09-03T16:51:42.414Z",
+    "piri-jama-d6": "2026-09-22T07:01:30.651Z",
+    "rasuya-moni-d6": "2026-09-29T00:05:32.836Z"
+  },
+  "last_app_open_at": "2026-09-29T00:04:38.182Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-03",
+    "2026-09-08",
+    "2026-09-10",
+    "2026-09-16",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-24",
+    "2026-09-26",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0045f99a-fdec-4b12-b7c6-1e1d77035bf2",
+    "089f36bd-1668-4bfa-870c-7edeb1ac0dc6",
+    "0fcbe7df-658c-43d7-b7f0-631f4422003b",
+    "19ae3b51-9ad7-4628-a4f0-fa645ba9e8fd",
+    "1a019b34-1a00-4960-b3f1-fcbf122460ce",
+    "1aeb9b6b-e97c-45c9-a310-576bad992192",
+    "1f511a75-b672-4823-8163-5cf047abf5fe",
+    "30556879-60b8-4a2f-bd60-1c253c25b8e8",
+    "315117e7-99f1-4e40-9182-13f1ff43eff7",
+    "3a922f09-35e7-425a-9265-50665ea54a6b",
+    "3c4bc394-1f6a-44de-af4c-43353295dd3f",
+    "45029938-bae8-4d1a-bce2-a878ac0280c4",
+    "48a1b768-ab6a-4c91-a80f-3bf41e6e1872",
+    "4dff9d19-00c2-49af-8c53-5f4ebacb57dd",
+    "60e13b1b-670f-4d32-b08c-418283159c80",
+    "60eedf0f-355a-4ff8-9f7f-2e48664ff39c",
+    "60fa4e61-78f4-4c4e-9ef7-25ada30b9351",
+    "676b5a71-8f7a-4a32-a665-d39602a4791d",
+    "6812bd5c-de54-4b52-89a3-cf258db32cc2",
+    "6d1ce3a4-740b-4036-8d0c-bf3a4404d7db",
+    "72ff0223-c096-4600-8f3d-99a5d81b5451",
+    "73ef6dc6-0d05-43d7-a0a2-99f605ffe210",
+    "7608ba3d-e234-4bda-b04f-38bf72bfaa69",
+    "7a05f9d8-7f9e-4926-bbec-ccb5616c6540",
+    "7b02e900-e9e7-4c02-8872-ab4bbc89d13d",
+    "803647b4-731d-4b9a-8bfb-6a812c69e577",
+    "82f62aa2-d69e-4931-a719-0ce12cab789c",
+    "858c2e26-045c-4419-9b01-d5375fa96cd0",
+    "891953bf-b23e-4ad7-8700-7dd3cca43802",
+    "89fcd522-1ffb-4d2a-8da7-5714bb37e6ec",
+    "8ea03807-d3a9-407c-bbfd-7ccd81c8d112",
+    "9352c75c-525e-404d-9bc0-385da40dd6ce",
+    "973dd041-f6b6-4714-af89-f796fb74ad83",
+    "9b68733e-f017-4e94-88f0-6b26940bafeb",
+    "9c322cc5-9bb0-4088-9dff-ca7eb3bf724f",
+    "9fbf236a-3ca7-452d-bd4e-8cc62556e2c6",
+    "a238bc78-e2c7-4837-b62e-6f4535ec3204",
+    "acde07b7-20d0-49d2-ab15-aa17d978ec8c",
+    "af594554-03b5-4290-8617-285438244eac",
+    "b035e99b-5128-4201-b2d8-157a69957142",
+    "b2eeea63-db15-4a67-8f79-96c1c49bfa28",
+    "b6939fb0-8a57-458c-8683-75be1b2e349c",
+    "bd9a2701-b38c-499d-9920-42bfc05e39e2",
+    "c4f128ad-05e2-48a9-9abf-1ffd03aa26dd",
+    "d004bd34-0383-4eaa-8c84-96eb46826ac6",
+    "d758c319-9043-4040-bceb-1a2aff4449c4",
+    "dc5ea42b-0b45-4428-aaab-3e2a2b1d52a3",
+    "de598744-c47d-4f51-9598-1c7eb775e888",
+    "dff7425a-b832-492d-9321-34c0990fada6",
+    "e16e7864-7698-4d99-8d88-e3f90a394a15",
+    "e19658bb-d129-45d3-977a-2d8e8587f65f",
+    "f14fbf89-e0eb-4409-b80e-4b7f115df264",
+    "f4cf5d47-f858-4bc9-8d5c-452c7fdaa03e",
+    "f60d4ad7-f13b-48e5-ab82-48497eb4a1f5",
+    "f9fa907a-4d52-48fc-ac04-d1934b00d7a7",
+    "fbbebfab-faf3-4d04-b0b6-8412836502cb"
+  ],
+  "updated_at": "2026-10-04T08:58:53.252Z"
+}

@@ -1,0 +1,111 @@
+{
+  "user_id": "U-03702",
+  "profile": {
+    "user_id": "U-03702",
+    "signup_at": "2026-09-08T00:33:11.595Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-08T00:41:22.950Z",
+    "plan_ends_at": "2026-10-08T00:41:22.950Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T12:45:07.528Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-08T00:33:11.595000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-08T00:33:11.595Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-08T00:41:22.950Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-08T00:33:11.595Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-08T00:33:11.595Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-08T00:33:11.595Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-21T17:35:25.979Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G07",
+      "name": "resume_series_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T10:35:20.664Z",
+      "deadline": "2026-10-04T10:35:20.664Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "same content_slug as the unfinished series",
+      "target_content_slug": "yaka-naka-d5",
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T10:35:20.664Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "2d4f7e1e-6416-45f4-b296-c9bc0fcb9614"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-18T18:44:11.088Z",
+  "last_play_by_slug": {
+    "yaka-naka-d5": "2026-09-18T18:44:11.088Z"
+  },
+  "last_app_open_at": "2026-09-21T17:32:57.862Z",
+  "active_days_ist": [
+    "2026-09-08",
+    "2026-09-19",
+    "2026-09-21"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "14dd839b-9080-4fe6-a176-f1df0df6c94f",
+    "34c05039-ce23-4b69-b27a-4f7022255ace",
+    "394fc22f-a1b6-474c-8f17-4707c92048e6",
+    "4123edd6-d46a-40ed-8ea3-f0cc0f330192",
+    "501aeb8e-8108-44f0-96f0-14d5bf89a26f",
+    "53dcb633-6a2c-4f4f-9516-c56fb46a2212",
+    "7861f3b9-6801-4486-ba4d-d40b86f0e136",
+    "8f4229e0-418b-4838-af07-024c4f111a1f",
+    "95d40e09-4ddc-4d39-aa8b-e9cf2fcd68fa",
+    "a2b7f457-28e8-4003-93a6-36af010cfe27",
+    "a3d254b8-a3e3-4307-97e3-c87fe4310184",
+    "b0d03683-0924-4cd2-87e5-90eac78b1ec6",
+    "f1316b47-408e-477f-b113-1833b3be7295",
+    "fc193766-0e44-4920-87c6-575ffd86ffe0"
+  ],
+  "updated_at": "2026-10-04T10:35:20.664Z"
+}

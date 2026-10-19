@@ -1,0 +1,114 @@
+{
+  "user_id": "U-00262",
+  "profile": {
+    "user_id": "U-00262",
+    "signup_at": "2026-03-03T17:41:43.200Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T20:24:43.672Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-03T17:41:43.200000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-03T17:41:43.200Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-08T04:10:43.481Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-08T04:10:43.481Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-08T04:10:43.481Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-08T04:10:43.481Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T11:08:18.989Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "raloja-d1-s1e1"
+  ],
+  "slug_progress": {
+    "raloja-d1": "raloja-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 2,
+    "Action": 2,
+    "Drama": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "48da8dff-3b20-4c3b-aeeb-a9d4040b5479",
+    "be5e5260-9f91-444e-82c1-cfb5e6c128d7",
+    "e174db5f-cf46-437c-8967-4cf57420fea7"
+  ],
+  "total_plays": 3,
+  "total_completes": 1,
+  "last_play_at": "2026-09-29T10:38:17.779Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-15T05:09:47.882Z",
+    "rava-baya-d1": "2026-09-29T10:38:17.779Z"
+  },
+  "last_app_open_at": "2026-09-29T10:36:27.674Z",
+  "active_days_ist": [
+    "2026-09-08",
+    "2026-09-11",
+    "2026-09-15",
+    "2026-09-21",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "02d4f822-0604-4fcc-b095-183d4008f178",
+    "22ac361b-f15d-4ff1-a8f7-ad5a8982ae41",
+    "2678e075-ff6b-46ce-9467-f87f8b928d33",
+    "2a7e10d2-1837-479b-bd37-3b6a3b43b983",
+    "30146ef6-b750-48c6-9d91-3c2571b84b53",
+    "3432ca1f-8cce-44c3-9b7f-7402cb3c6812",
+    "47cd1ff8-a32a-4250-9890-73d98bbd1df5",
+    "68069def-e755-401b-a052-7571e636312f",
+    "86afd99f-870b-4a0c-8943-dfd1b04d68df",
+    "929518f6-d5a5-4c98-8d2d-b72bd717148c",
+    "b1e81b06-c4f3-464e-b96a-9c3bc3d9830f",
+    "b432bff9-d85d-4297-bce9-783db9feb64d",
+    "b725ba6e-e38d-425a-9330-57dccfdbedb1",
+    "bf271671-cd60-4c12-87e4-bb8458969c96",
+    "c4ad9131-16fe-4f96-b2bd-4f1a2a7e6a6d",
+    "d61ad594-a432-4af2-a57a-b0f93ae9074c",
+    "e33ee929-658f-4b8d-a4da-0449810118e2",
+    "ed03c5d8-be5e-4456-872e-7948f2682c13",
+    "f78d325b-3fb4-419f-b2a6-2dafbcc5d2f6",
+    "f9439a7e-1594-4eb6-817b-9812d6fc1cb6"
+  ],
+  "updated_at": "2026-09-29T11:08:18.989Z"
+}

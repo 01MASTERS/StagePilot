@@ -1,0 +1,111 @@
+{
+  "user_id": "U-01224",
+  "profile": {
+    "user_id": "U-01224",
+    "signup_at": "2026-01-10T07:50:15.058Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T16:01:01.574Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-01-10T07:50:15.058000+00:00",
+      "source": "profile",
+      "observed_at": "2026-01-10T07:50:15.058Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-02T07:40:56.483Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-02T07:40:56.483Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T07:40:56.483Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T07:40:56.483Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T09:04:59.448Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-12T15:45:00.925Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "labha-pako-d5-s1e1"
+  ],
+  "slug_progress": {
+    "labha-pako-d5": "labha-pako-d5-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "62c37dae-382c-4d1c-91fc-5f0e1f086369"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-12T15:45:39.453Z",
+  "last_play_by_slug": {
+    "labha-pako-d5": "2026-09-12T15:45:39.453Z"
+  },
+  "last_app_open_at": "2026-09-27T09:04:52.644Z",
+  "active_days_ist": [
+    "2026-09-02",
+    "2026-09-12",
+    "2026-09-24",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0829c03d-c5c5-4d0c-89d7-2034718bd401",
+    "167609bf-b049-4b1a-b64a-d55f13e75de9",
+    "24f5ba46-ae85-431a-b39b-848885d15c21",
+    "2bf4b230-3d67-4e95-bb0f-2a100010c07a",
+    "2db8eb0c-b3bd-499e-bb23-2014d6d2a6ea",
+    "3d45f851-7e28-4d72-b34f-3e407338adb3",
+    "5608d8e4-2033-409e-882a-1ce9afc7bc7b",
+    "65ed3a6f-1c9b-4c7d-9421-c19e708e210f",
+    "66b9e223-d0c1-4fa7-bf1f-c696df802754",
+    "8cb83941-ba28-40e7-b533-b16b4a3ff157",
+    "a8828ae1-af2b-4657-93f8-a5c101762340",
+    "aca16a5e-b540-4965-985e-03272ca4c550",
+    "b0928a2a-f957-4870-8791-29d684004fd8",
+    "d81c0aea-4e22-4831-b6d5-4186259245ef",
+    "db0f5d1d-7775-41f9-a03f-a8fcd15feb7b",
+    "e41618dc-2afe-46db-85fe-949af3a08133",
+    "eacae5a3-cd01-4539-950a-5cf6d75b7c74"
+  ],
+  "updated_at": "2026-09-27T09:04:59.448Z"
+}

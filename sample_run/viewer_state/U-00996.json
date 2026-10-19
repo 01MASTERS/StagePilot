@@ -1,0 +1,111 @@
+{
+  "user_id": "U-00996",
+  "profile": {
+    "user_id": "U-00996",
+    "signup_at": "2026-07-16T01:25:29.750Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T17:37:14.931Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-07-16T01:25:29.750000+00:00",
+      "source": "profile",
+      "observed_at": "2026-07-16T01:25:29.750Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "events",
+      "observed_at": "2026-09-22T16:04:34.155Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-07T11:29:29.918Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-07T11:29:29.918Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-07T11:29:29.918Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-23T08:29:47.411Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G06",
+      "name": "reactivate_lapsed_14d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:46:32.187Z",
+      "deadline": "2026-10-15T04:46:32.187Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "any paid plan",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-15T04:46:32.187Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Romance": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "06de9d2c-1ac2-40bc-8ef3-d1003e6cbd94"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-07T11:31:11.543Z",
+  "last_play_by_slug": {
+    "dari-guko-d1": "2026-09-07T11:31:11.543Z"
+  },
+  "last_app_open_at": "2026-09-23T08:28:01.971Z",
+  "active_days_ist": [
+    "2026-09-07",
+    "2026-09-15",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "024e7b55-f41d-40cb-8429-7d2fd1a9ec57",
+    "08fa1c36-148a-46d4-9b42-00c86387aa6a",
+    "3c651cec-c044-4dbf-a1bf-33f1cb2a917e",
+    "3fc56249-ec3e-47c2-ae4c-fd4f536f6264",
+    "42a1086e-f4c5-4f99-bdaf-dbff406f4678",
+    "5d8dba6a-506d-4b7f-a764-e0951d300256",
+    "6058283b-989c-4422-a471-ac6061df1a5b",
+    "6ddd1280-74ca-49ff-9a0c-61d0e4054fe9",
+    "76289f75-b61f-485d-922a-1e71e2b61d25",
+    "882cd102-7eba-4b8e-a1f1-8d2244b380d9",
+    "b1c7608e-8a83-4383-adc9-e87e2aba9f42",
+    "bcffa6b5-15a7-4ffd-800a-20cc3c880af8",
+    "d6d404f1-a09e-44f3-8418-bd0e5bb979e2"
+  ],
+  "updated_at": "2026-10-15T04:46:32.187Z"
+}

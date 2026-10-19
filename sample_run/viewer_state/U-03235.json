@@ -1,0 +1,131 @@
+{
+  "user_id": "U-03235",
+  "profile": {
+    "user_id": "U-03235",
+    "signup_at": "2025-11-06T16:17:06.317Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T17:31:08.669Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-11-06T16:17:06.317000+00:00",
+      "source": "profile",
+      "observed_at": "2025-11-06T16:17:06.317Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-03T07:20:03.575Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-03T07:20:03.575Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T07:20:03.575Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T07:20:03.575Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T07:50:42.885Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-27T13:59:36.665Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:47:28.566Z",
+      "deadline": "2026-10-08T04:47:28.566Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:47:28.566Z"
+    }
+  ],
+  "completed_episodes": [
+    "molo-d2-s1e1",
+    "molo-d2-s1e2"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e2"
+  },
+  "genre_plays": {
+    "Action": 2,
+    "Romance": 2
+  },
+  "play_sessions": [
+    "472715ab-234e-4d7c-9a61-121e990a9517",
+    "ab594ff5-0110-42ce-a81e-39943169a123"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-28T07:24:59.503Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-09-28T07:24:59.503Z"
+  },
+  "last_app_open_at": "2026-09-28T07:23:15.349Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-11",
+    "2026-09-27",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "15115a0c-86c1-418b-ada2-28387a6e130a",
+    "1efc7365-8238-40e9-b4e2-9ba1189f67f5",
+    "2ab2f662-b8fb-4f57-b570-f75c4504492d",
+    "2f560a8a-3612-4ee3-a0d9-6e03f4d90bff",
+    "34601be2-65e1-44d4-957d-f8d97ffbc816",
+    "37711a02-837e-4bec-b867-007c40045275",
+    "3d658070-0937-49ac-92c6-188b27e11448",
+    "3ea538e1-5557-419e-8da4-642981586dd6",
+    "64b95975-3cd5-44fd-b43c-e2a61a9077de",
+    "68eef903-2265-4ba9-b757-3247fc4eef2c",
+    "8378c246-87a0-415b-b698-a434f92ffbd6",
+    "8b9dc381-4842-45f0-b0b3-bac7bd6e7908",
+    "c12895a0-c2df-432a-b00b-199c66a7e1f1",
+    "cb92c92e-dd4d-4ba0-9b68-630aea0fb290",
+    "d8dc9787-f2c9-48c5-9abb-1f5798142dca",
+    "e30227c9-a23b-4cba-b249-88ff0ad56f83",
+    "e66d0b67-06c0-453d-a34a-bd46f66c89d1",
+    "ea2170db-6c97-492f-9b5d-433a1055fdab",
+    "f9346372-31ef-4079-9661-74c6bdbdf234",
+    "fcd127c1-bd5f-42ab-b47f-754eafbc8f78"
+  ],
+  "updated_at": "2026-10-08T04:47:28.566Z"
+}

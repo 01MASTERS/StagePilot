@@ -1,0 +1,118 @@
+{
+  "user_id": "U-00825",
+  "profile": {
+    "user_id": "U-00825",
+    "signup_at": "2026-03-14T07:18:15.079Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-20T19:47:15.904Z",
+    "plan_ends_at": "2026-10-20T19:47:15.904Z",
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-28T21:52:14.783Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-14T07:18:15.079000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-14T07:18:15.079Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-20T19:47:15.904Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-20T11:42:37.139Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-20T11:42:37.139Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-20T11:42:37.139Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T13:03:48.849Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-20T17:53:16.252Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "rate-java-d3-s1e1"
+  ],
+  "slug_progress": {
+    "rate-java-d3": "rate-java-d3-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 2,
+    "Comedy": 2
+  },
+  "play_sessions": [
+    "38330dcb-4c5a-4df5-99eb-be730a33c5d0",
+    "b598b380-12cc-445d-b80c-a907135874ca"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-29T11:22:35.532Z",
+  "last_play_by_slug": {
+    "rate-java-d3": "2026-09-29T11:22:35.532Z"
+  },
+  "last_app_open_at": "2026-09-29T11:21:37.207Z",
+  "active_days_ist": [
+    "2026-09-20",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0d56bcec-acc2-4d70-b2ad-3e5478c77d30",
+    "14f77b7f-8d49-4790-b09f-b2cc480cf211",
+    "164fc8e9-4e3e-4ab1-9897-169a31daae79",
+    "1ea3e5a5-e1bb-4772-8163-1ed1c283a87a",
+    "2fc8bb54-78de-49ea-b606-3d63b16bf5a2",
+    "3e86b8c6-79b6-4db9-a61d-60ceff42fa99",
+    "517ca88c-75c5-48cb-85e9-146f72542e20",
+    "5624c946-63a2-44e5-894e-bcba2596be88",
+    "6201be82-1754-4d21-85b6-80e1c74a067f",
+    "7e0a09fa-dd8c-4c2f-8260-8bfe7ec9b2fb",
+    "817663c1-cb2d-494f-b21d-69181953e090",
+    "88b0f559-ba98-4e38-80bd-a70222ab2d4a",
+    "9214a171-cfa7-4e42-b98a-50427b4a87a7",
+    "96429512-902a-4550-a50a-75fc6a5f79d0",
+    "b18799f6-0687-4fae-b958-22b1f10d6465",
+    "b4c87586-07d7-47b1-b762-f646b37088c7",
+    "b66a7a1e-1a87-476c-afca-ff9313450e36",
+    "b8a511d3-e206-431a-971b-46042cf9b6c0",
+    "bc091ff8-e6b3-48a6-9650-aba30f8f2664",
+    "d3fe0c2b-c0d8-4279-b5c2-808008fc3c57",
+    "d654656c-afb6-4bce-a83b-02861c0b4d09",
+    "dd32e3a0-fccd-4b9d-b0f4-11d39c441500",
+    "e0cb1484-134f-47dc-b5cf-795fa2f7936f",
+    "e6e507c6-f24d-490a-bf91-147093e848cf",
+    "ffe99724-023f-4302-b9a9-a35ac75168af"
+  ],
+  "updated_at": "2026-09-29T13:03:48.849Z"
+}

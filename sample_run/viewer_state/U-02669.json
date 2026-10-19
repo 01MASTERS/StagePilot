@@ -1,0 +1,134 @@
+{
+  "user_id": "U-02669",
+  "profile": {
+    "user_id": "U-02669",
+    "signup_at": "2024-11-22T10:55:36.588Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-07T13:41:47.553Z",
+    "plan_ends_at": "2026-10-07T13:41:47.553Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T05:47:06.389Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-11-22T10:55:36.588000+00:00",
+      "source": "profile",
+      "observed_at": "2024-11-22T10:55:36.588Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-07T13:41:47.553Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-02T14:27:08.478Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T14:27:08.478Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T14:27:08.478Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-20T12:21:10.235Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G07",
+      "name": "resume_series_3d",
+      "status": "FAILED",
+      "started_at": "2026-09-30T23:55:50.384Z",
+      "deadline": "2026-10-03T23:55:50.384Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "same content_slug as the unfinished series",
+      "target_content_slug": "hapibha-d1",
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-03T23:55:50.384Z"
+    }
+  ],
+  "completed_episodes": [
+    "hapibha-d1-s1e1"
+  ],
+  "slug_progress": {
+    "hapibha-d1": "hapibha-d1-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 2,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "4cadea8f-4185-4509-9fab-a62fa9fe58eb",
+    "fd02ace3-ba43-487a-ac4e-4a1030e2a95a"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-15T14:54:50.073Z",
+  "last_play_by_slug": {
+    "hapibha-d1": "2026-09-08T14:23:06.123Z",
+    "rava-baya-d1": "2026-09-15T14:54:50.073Z"
+  },
+  "last_app_open_at": "2026-09-20T12:20:42.209Z",
+  "active_days_ist": [
+    "2026-09-02",
+    "2026-09-08",
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-20"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-03T19:27:09.361000+00:00",
+      "ist_day": "2026-09-04"
+    }
+  ],
+  "idempotency_keys": [
+    "1740a673-4d38-4303-a7a5-a1e5f556fe70",
+    "198e7f0b-c60e-421c-b79d-5334fa6f2e17",
+    "1b97eed2-0103-4ffa-89c1-a9e7922eb6bf",
+    "1dd2c04e-4d4d-4f7b-a467-829bc129ffbe",
+    "2257a8a8-ba82-4197-b455-ddb04d3b1539",
+    "3e5cf8a3-4fce-4bbb-984f-933cd3d3d41f",
+    "43ef7089-71d4-46e4-996e-543f271a8285",
+    "4db061a2-be69-402b-a202-db878d9c444e",
+    "4f88ac4d-4832-4966-b66d-6f0b7c0b3095",
+    "65ac33c8-57b9-43f9-94a5-eac397ffc4b0",
+    "6c1be537-49d7-4026-8c35-b14197803b9a",
+    "7249c92f-e0dc-4cac-b060-ae63700554d0",
+    "7fc62328-9b38-4b6a-8ee9-d0816a7aba32",
+    "8937f243-7d4e-4114-8d7b-c8a4a3407595",
+    "b47618c1-bba4-485b-99e0-70100f5214d0",
+    "b6a3b152-24b9-4a53-af30-a8dbff01fab9",
+    "b79dea54-1cb9-4bc2-b959-fa30135ad26a",
+    "c4a15c69-d513-48b3-970f-71ac5cecd32b",
+    "c5b2243c-e491-4a0e-9635-bff89b256946",
+    "eac68119-cc43-44c0-8d99-f9567927f6a0",
+    "fea3e70c-7b81-4ab8-b79a-9634d850171d"
+  ],
+  "updated_at": "2026-10-03T23:55:50.384Z"
+}

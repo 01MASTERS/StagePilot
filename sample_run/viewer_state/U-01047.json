@@ -1,0 +1,127 @@
+{
+  "user_id": "U-01047",
+  "profile": {
+    "user_id": "U-01047",
+    "signup_at": "2026-09-16T05:54:36.100Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d6",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T15:01:28.297Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-16T05:54:36.100000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-16T05:54:36.100Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-16T05:54:36.100Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d6",
+      "source": "profile",
+      "observed_at": "2026-09-16T05:54:36.100Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-16T05:54:36.100Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-16T05:54:36.100Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T17:37:36.132Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d6",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-16T05:55:07.900Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T13:46:17.397Z",
+      "deadline": "2026-10-08T13:46:17.397Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T13:46:17.397Z"
+    }
+  ],
+  "completed_episodes": [
+    "rasuya-moni-d6-s1e1"
+  ],
+  "slug_progress": {
+    "rasuya-moni-d6": "rasuya-moni-d6-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "d504d5d3-b45c-40c9-90f1-c0cc90c3425f"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-18T13:45:11.971Z",
+  "last_play_by_slug": {
+    "rasuya-moni-d6": "2026-09-18T13:45:11.971Z"
+  },
+  "last_app_open_at": "2026-09-29T17:37:22.176Z",
+  "active_days_ist": [
+    "2026-09-16",
+    "2026-09-18",
+    "2026-09-23",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0c59791b-4043-41f0-846f-b4c1509278de",
+    "1a3b0d78-b73b-4855-a1a9-91b7878f8e05",
+    "3767cc3a-2f8a-405d-8803-4d731b2b6e83",
+    "4336ce20-bf8a-4969-a01d-90fff41c7337",
+    "50d3b578-f329-44ce-9db4-6c3a2a48482e",
+    "55695681-664f-44d3-8fb0-ba508f95ef4e",
+    "56384341-dafc-4144-b7a3-ce0bde23ffe2",
+    "5d8b8963-bc8a-42b8-addb-e3a9ca50cc5d",
+    "78d26081-f41d-4ee4-9c0f-f141de1d4bcb",
+    "8d3d78a4-1ac6-4e7e-afab-dbfb35d93103",
+    "8e29da3a-4774-4318-a8e9-2b9b846a6adc",
+    "aedac587-25de-487b-9f3f-f00b0b203411",
+    "c0044dac-7a14-4ca7-b7a8-abb59747a96d",
+    "d68e6cb6-99f0-4f9a-ad87-594a7f3f0095",
+    "e495ce41-5ff3-41ef-b6d7-2d7ea2e2dacf",
+    "e945f013-02c7-4cdd-a34c-286f815c052f",
+    "eabe7fe3-99c9-483e-bfe5-78d8a6f61382",
+    "f7c2aff4-cefc-4f88-a652-71bf0e90a5b8"
+  ],
+  "updated_at": "2026-10-08T13:46:17.397Z"
+}

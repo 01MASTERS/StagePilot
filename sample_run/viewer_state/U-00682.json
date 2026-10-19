@@ -1,0 +1,133 @@
+{
+  "user_id": "U-00682",
+  "profile": {
+    "user_id": "U-00682",
+    "signup_at": "2025-09-29T17:18:12.872Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:20:50.060Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-09-29T17:18:12.872000+00:00",
+      "source": "profile",
+      "observed_at": "2025-09-29T17:18:12.872Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-08T13:10:47.480Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-08T13:10:47.480Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-08T13:10:47.480Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-08T13:10:47.480Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T17:23:18.893Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:46:30.069Z",
+      "deadline": "2026-10-08T04:46:30.069Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:46:30.069Z"
+    }
+  ],
+  "completed_episodes": [
+    "molo-d2-s1e1",
+    "molo-d2-s1e2"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e2"
+  },
+  "genre_plays": {
+    "Action": 2,
+    "Romance": 2
+  },
+  "play_sessions": [
+    "1138573d-dbad-4132-a089-6272d3c93013",
+    "d7672de5-42b8-47bb-93aa-261b722f49df"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-29T16:57:31.744Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-09-29T16:57:31.744Z"
+  },
+  "last_app_open_at": "2026-09-29T16:56:12.275Z",
+  "active_days_ist": [
+    "2026-09-08",
+    "2026-09-10",
+    "2026-09-21",
+    "2026-09-26",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "09cf004c-b55d-4486-8ca9-c230129e57c9",
+    "100cb8a6-0f98-4c9a-98d3-e311587d9fb9",
+    "13014436-e27a-48e1-b20a-f519b0e2fcd5",
+    "22299eb5-5ffd-4f46-a0bc-00370113a20b",
+    "2516e66b-b990-4fd6-ad19-58c31889fd7d",
+    "277a8c89-1dfa-4d99-a94c-88333357e9f3",
+    "43e39d5b-2ae5-42a5-bc0b-d382ba57c67b",
+    "47eeaebb-c16b-4294-8a9d-0ef55a87035a",
+    "4d2ead64-2f94-467b-bc1a-06f8e0530de4",
+    "51ac7ac4-35f4-482b-a948-d3032bd1e9ab",
+    "81f50470-2a83-4f3b-93d4-cff63998cd95",
+    "87520d48-266b-4d17-98bc-945a6c8d1b9c",
+    "8b9eece4-cdb4-4c27-98a0-a5ffdb721739",
+    "993dab40-9aa0-45c0-8890-0a7deff39b2a",
+    "999cf4e5-0c8b-4b76-a410-712863a1d340",
+    "9bee73f3-967c-448e-9137-d8d0719000a6",
+    "a52ab7a4-dea5-445b-93d2-732458893490",
+    "aa9f216d-7530-44c8-a1d8-75af1f038ef1",
+    "aff2c45c-ede9-4407-9ad0-b34c9c14cd9d",
+    "b4718012-166f-431b-a39d-b16d4c3f7f57",
+    "bac631fb-8afc-4cd9-971c-49c0d3899a53",
+    "c879b41a-0931-4901-8750-58274f9d7d73",
+    "d82601e9-d398-4ee0-9c75-cd1ba7b47d36",
+    "d85985e6-a01b-4725-b6b8-3dfb113cc78c",
+    "dae4ae73-a755-454d-84bb-b08c6a38e8b8",
+    "e9d3ce09-525c-4d95-bdad-3461a6f90a81",
+    "eee449aa-ccd2-4178-aac0-bce26552dd86"
+  ],
+  "updated_at": "2026-10-08T04:46:30.069Z"
+}

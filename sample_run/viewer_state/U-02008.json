@@ -1,0 +1,88 @@
+{
+  "user_id": "U-02008",
+  "profile": {
+    "user_id": "U-02008",
+    "signup_at": "2026-09-17T06:59:56.980Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T06:20:03.784Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-17T06:59:56.980000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-17T06:59:56.980Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-17T06:59:56.980Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-17T06:59:56.980Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-17T06:59:56.980Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T12:19:43.617Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Romance": 1
+  },
+  "play_sessions": [
+    "6321bab2-52a3-450b-b4fe-0641c806c616"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-17T15:39:00.795Z",
+  "last_play_by_slug": {
+    "bagi-baya-d4": "2026-09-17T15:39:00.795Z"
+  },
+  "last_app_open_at": "2026-09-28T12:19:18.360Z",
+  "active_days_ist": [
+    "2026-09-17",
+    "2026-09-26",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0c91e51c-f775-4e0d-a27b-feccba917889",
+    "35e5c96a-743d-4ff8-9d5b-ca17a8527196",
+    "390a170f-c6d4-4aa3-9d38-38e6d6aa5a84",
+    "5dc1ebd9-db22-420c-b979-db730069bedd",
+    "610c196c-38a2-451c-aeb7-db297f972503",
+    "731b791c-0ec6-43ca-8743-69d7716669ff",
+    "7a6ba1dd-ccf4-4d82-a765-3756b4645ba2",
+    "833b1283-c7e6-4505-9465-45812be5738b",
+    "c1830bb3-2858-4dd2-8471-2be111e97994",
+    "cad52e7f-88ed-429f-922f-444915813a83",
+    "ee5e48ff-1e63-433a-b5ce-712528bad328",
+    "f77cc89d-bed5-497d-a43b-f68547ca68e1"
+  ],
+  "updated_at": "2026-09-28T12:19:43.617Z"
+}

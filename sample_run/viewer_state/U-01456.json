@@ -1,0 +1,110 @@
+{
+  "user_id": "U-01456",
+  "profile": {
+    "user_id": "U-01456",
+    "signup_at": "2026-09-03T23:03:32.030Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:16:20.768Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-03T23:03:32.030000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-03T23:03:32.030Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-03T23:03:32.030Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T23:03:32.030Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T23:03:32.030Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T12:31:41.938Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T05:09:12.011Z",
+      "deadline": "2026-10-08T05:09:12.011Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T05:09:12.011Z"
+    }
+  ],
+  "completed_episodes": [
+    "yatite-roloda-d3-s1e1"
+  ],
+  "slug_progress": {
+    "yatite-roloda-d3": "yatite-roloda-d3-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1
+  },
+  "play_sessions": [
+    "0855f087-e4cb-4b01-b922-42fdd4ffee68"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-15T07:44:00.975Z",
+  "last_play_by_slug": {
+    "yatite-roloda-d3": "2026-09-15T07:44:00.975Z"
+  },
+  "last_app_open_at": "2026-09-27T12:31:32.558Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-15",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "06ca5353-152e-48a5-9af1-fdc8075031cd",
+    "07085fb7-88ba-434d-b304-64bfea809533",
+    "0a1c2cc0-df16-44c6-a910-3989b1afe729",
+    "144cf0ed-5a85-4450-88ba-e4200ab483d1",
+    "20257958-64e2-4466-a9a4-1697ee5da51e",
+    "42d54691-5512-4a4f-beee-be77720166ad",
+    "6351ea83-aed6-4801-9b01-a925f25cee2d",
+    "84134bfe-9d85-4271-9d62-2ed931d6f5e3",
+    "a9528a59-aa05-406e-8e04-4d1dd86fd9b3",
+    "bb53ed7c-3bc2-4e14-b647-d9b783b3010b",
+    "da46d2bc-670c-480f-a70a-3272224eeb41",
+    "dcac1eb8-524b-441b-9ea7-77314a8b2685",
+    "e40767e8-bf12-4d92-8480-c2f55f332fd7",
+    "ebba032f-d027-422e-968c-2c2309caac05",
+    "fa7d6980-ec3b-4a8b-b195-82de8602424a"
+  ],
+  "updated_at": "2026-10-08T05:09:12.011Z"
+}

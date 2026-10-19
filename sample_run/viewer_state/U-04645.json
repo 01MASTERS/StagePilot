@@ -1,0 +1,154 @@
+{
+  "user_id": "U-04645",
+  "profile": {
+    "user_id": "U-04645",
+    "signup_at": "2024-11-25T14:56:28.026Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d6",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T10:32:40.859Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-11-25T14:56:28.026000+00:00",
+      "source": "profile",
+      "observed_at": "2024-11-25T14:56:28.026Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T15:55:21.252Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d6",
+      "source": "profile",
+      "observed_at": "2026-09-04T15:55:21.252Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-04T15:55:21.252Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-04T15:55:21.252Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T20:01:09.990Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T06:02:01.306Z",
+      "deadline": "2026-10-08T06:02:01.306Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T06:02:01.306Z"
+    }
+  ],
+  "completed_episodes": [
+    "bagi-baya-d4-s1e1",
+    "hane-d4-s1e1"
+  ],
+  "slug_progress": {
+    "hane-d4": "hane-d4-s1e1",
+    "bagi-baya-d4": "bagi-baya-d4-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 3
+  },
+  "play_sessions": [
+    "0d8fbb68-b808-4bc9-a94d-af80cc35add1",
+    "5ea40763-c932-42a6-8c51-44f3bcf39591",
+    "c140a08d-a950-4c2b-9da2-335855eb8088"
+  ],
+  "total_plays": 3,
+  "total_completes": 3,
+  "last_play_at": "2026-09-21T14:56:36.027Z",
+  "last_play_by_slug": {
+    "hane-d4": "2026-09-19T14:42:22.737Z",
+    "bagi-baya-d4": "2026-09-21T14:56:36.027Z"
+  },
+  "last_app_open_at": "2026-09-29T20:00:15.089Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-15",
+    "2026-09-19",
+    "2026-09-21",
+    "2026-09-26",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0be72c27-a593-4fa4-87f8-f86a6d12cffc",
+    "112ddd5f-4287-41ef-9a6b-671e432e5afc",
+    "1223ac05-f233-47e0-ab2f-36e8a0570d77",
+    "14acdaca-9299-46f1-a40f-238f04de6485",
+    "156d3c49-77da-4b51-a7a6-2e449bdfb19c",
+    "16a299f7-34a9-4646-9ea2-d2a45b714e89",
+    "1aadf8d2-6427-425b-af06-7cde9b7ceedd",
+    "1b103bd7-8ab8-43c0-b29d-29a5979dd538",
+    "23904653-58bf-4330-9c33-94748df4a9c4",
+    "37953164-0f7a-4d15-b614-210fad6f2c5c",
+    "3d1a9199-b375-4e63-a61d-2a68474fb54c",
+    "447d598e-bc22-4428-a074-caa5abd1584b",
+    "44bae23b-7b11-4b08-b600-f3134f4a00b2",
+    "4cc14e3d-1481-45e9-9323-6f3928df9000",
+    "59cf837a-2ea2-4484-8e89-3a7d816430bc",
+    "600824f2-2f72-4ff1-87af-2d755a4a0a73",
+    "718fc453-d43c-41eb-8dce-d677981b8e39",
+    "72a6fa49-c45a-4842-8587-6cd0f71c1098",
+    "72f04245-7f05-4f74-a4e8-686b8c45d5ea",
+    "849d8fed-a442-4c4c-a56e-cec06484eb2c",
+    "8a2d6758-08ed-4ace-808b-8d2df4bb50be",
+    "a18a8bf1-1a1a-4140-8eb8-e7542259459a",
+    "ae1961ef-edd1-4218-838a-eacd229394e6",
+    "b8f2e351-f991-4075-a95e-bd03433c05d7",
+    "ba733785-bb0a-4a96-b321-37cd626d36bb",
+    "bc50e535-527f-4a8d-bb0a-0f6a92a7c060",
+    "c46f4e25-862c-4583-beef-4978abb594ae",
+    "ccaf722f-f32b-4e2c-9bf7-24eb565e3801",
+    "cd25bfec-a242-49db-bcee-e9326e6d67da",
+    "d0c4eb1a-47d6-4f5c-8826-eba5e7786594",
+    "d158907b-c38c-4fb1-867b-2d977c446a91",
+    "d6994f10-379e-42fc-9886-d95449d21c85",
+    "d76060b0-0a92-48e4-9a44-9f527726ca75",
+    "d94e2f7f-769e-4151-9358-c1bc65a61355",
+    "e0d4f683-dffc-4c86-b5aa-899e8440f9c6",
+    "e1190581-3b8e-46ed-9981-dc573c637f24",
+    "ef1217b1-6a39-43f3-ae8c-868e5ae6cd7f",
+    "f54a5728-d78e-4275-8660-a28217be1072",
+    "f692bfae-0d49-402c-9a9f-941885eda11e",
+    "f79faf1c-b227-4f5d-9ad3-0cbd4207f8ef",
+    "f85afdbe-911a-4ef7-ac3d-36f19860af50",
+    "fdc6be81-b07e-44c7-a048-39e18f4ae19b",
+    "ff43d242-f0f4-44eb-83cc-009880d26ce2"
+  ],
+  "updated_at": "2026-10-08T06:02:01.306Z"
+}

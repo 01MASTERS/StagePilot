@@ -1,0 +1,130 @@
+{
+  "user_id": "U-02653",
+  "profile": {
+    "user_id": "U-02653",
+    "signup_at": "2026-02-14T08:28:14.754Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:50:53.644Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-02-14T08:28:14.754000+00:00",
+      "source": "profile",
+      "observed_at": "2026-02-14T08:28:14.754Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T08:58:37.879Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-04T08:58:37.879Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T08:58:37.879Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-04T08:58:37.879Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T19:20:57.601Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T02:34:04.662Z",
+      "deadline": "2026-10-08T02:34:04.662Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T02:34:04.662Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "b2c5a236-a9a3-447c-9b00-1c6871d85be3"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-04T09:02:30.807Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-04T09:02:30.807Z"
+  },
+  "last_app_open_at": "2026-09-29T19:20:48.057Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "10c50e3a-09d3-4623-8900-e2a8c0b0718b",
+    "123e5501-4e45-479f-92f4-20bb9aa8a5f4",
+    "24946a5a-e599-4674-860e-8db705f43d7c",
+    "2933bcd5-b29c-41bb-8161-6513f180cf06",
+    "32648788-2bb8-4b3b-aff8-97386df243f2",
+    "39e57946-1afa-4ce1-af6f-0c665e4d923b",
+    "4a85c042-4e45-4946-a84d-eed3404f6811",
+    "51d25bcf-ebd4-4926-94a6-9759ff3df0cb",
+    "5363bfc9-a459-4625-b353-8de37c2901a6",
+    "5a920ead-470c-4f5f-87ca-c77fa70413af",
+    "5cfd97db-bc68-4f2b-9b31-6b0fd2a5f835",
+    "6492e86d-b4ca-40b8-b391-964b4e39ce8b",
+    "64a42c09-8272-4499-853e-f043d07650f4",
+    "65d55a9b-4c15-4c69-8be3-edcc6a8e45ed",
+    "69104082-a15a-4940-b1ef-cb47a3006e46",
+    "78b4666b-3646-4c84-9862-db197ce411cf",
+    "812b303b-6c06-4e6e-9987-afb4aec437b6",
+    "8344839c-d06c-4c25-aa0d-51716ea3c138",
+    "8704f399-e72d-4afe-bba2-9dd9020fe449",
+    "8a23ce04-5381-4562-bbea-f88d91273a05",
+    "aa2b01f9-5b50-4a0a-b936-36342ce2a856",
+    "b28b0090-66d4-461d-94f0-5996dc6b84c9",
+    "b508acd2-d437-49f1-9218-b5384444621b",
+    "d24201ab-8ca8-4823-9ba1-4fdd629646ee",
+    "dda48f78-a28a-4618-8015-72b93e2c0c70",
+    "e08f3783-6fdd-4a01-8f4a-c10570027ec8",
+    "f5416a7d-fde8-453a-b3dc-b2dd9327c496",
+    "fbf63483-0d9f-49ed-b1a4-c4786311e540",
+    "fda36cc1-fa06-4680-9f85-702c5e86b63a"
+  ],
+  "updated_at": "2026-10-08T02:34:04.662Z"
+}

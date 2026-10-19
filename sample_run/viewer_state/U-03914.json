@@ -1,0 +1,91 @@
+{
+  "user_id": "U-03914",
+  "profile": {
+    "user_id": "U-03914",
+    "signup_at": "2026-04-17T03:36:57.630Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T06:18:32.553Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-04-17T03:36:57.630000+00:00",
+      "source": "profile",
+      "observed_at": "2026-04-17T03:36:57.630Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-10T14:44:03.333Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-10T14:44:03.333Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T14:44:03.333Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T14:44:03.333Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-10T14:46:49.787Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d5",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-10T14:44:03.333Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Action": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "cfe81825-ace6-418d-9b6e-8da8f5d3042a"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-10T14:45:50.681Z",
+  "last_play_by_slug": {
+    "diti-kochu-d5": "2026-09-10T14:45:50.681Z"
+  },
+  "last_app_open_at": "2026-09-10T14:44:03.333Z",
+  "active_days_ist": [
+    "2026-09-10"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "43479f16-c7c7-4e02-950f-10457c892d65",
+    "bd475d4d-3933-4000-beda-075cb61c3dbe",
+    "e48e4c7f-c53d-472f-b25e-b2b50f526dd2",
+    "ecae9508-1659-4320-ba92-5bb7537b51a3"
+  ],
+  "updated_at": "2026-09-10T14:46:49.787Z"
+}

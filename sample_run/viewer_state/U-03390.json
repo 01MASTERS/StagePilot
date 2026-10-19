@@ -1,0 +1,111 @@
+{
+  "user_id": "U-03390",
+  "profile": {
+    "user_id": "U-03390",
+    "signup_at": "2025-02-02T06:57:55.754Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T06:38:38.177Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-02T06:57:55.754000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-02T06:57:55.754Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-20T11:18:03.106Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-20T11:18:03.106Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-20T11:18:03.106Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-20T11:18:03.106Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T09:13:44.202Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T11:47:05.509Z",
+      "deadline": "2026-10-08T11:47:05.509Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T11:47:05.509Z"
+    }
+  ],
+  "completed_episodes": [
+    "tiko-subava-d4-s1e1"
+  ],
+  "slug_progress": {
+    "tiko-subava-d4": "tiko-subava-d4-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "818f64e4-68d8-4fe0-aa54-3b73e0c5d213"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-20T11:18:44.898Z",
+  "last_play_by_slug": {
+    "tiko-subava-d4": "2026-09-20T11:18:44.898Z"
+  },
+  "last_app_open_at": "2026-09-30T09:13:22.908Z",
+  "active_days_ist": [
+    "2026-09-20",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "35ca7cc6-277d-4553-9564-13f156bfb83c",
+    "472bd771-af0a-4ccb-8633-f0261f038bfb",
+    "6143605b-5ae7-433d-ab57-ec99ec6cf2a6",
+    "67483521-0400-4859-92ee-2bafda5619e1",
+    "75c1e534-dab0-4b1d-ba28-53f0d2ba8993",
+    "8505d939-d12a-4eea-b6cd-1d5d6a3d00d2",
+    "aa813a52-f5ba-4b88-a1a8-8b997c80b3d2",
+    "b3e92304-2a08-4b48-94ff-00639c5899e5",
+    "ed21dfa0-14c1-4736-a307-567f2afba1a5",
+    "fe0843a7-1ce7-438d-b4d9-d45076ceabd4"
+  ],
+  "updated_at": "2026-10-08T11:47:05.509Z"
+}

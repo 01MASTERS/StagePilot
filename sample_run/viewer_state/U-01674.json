@@ -1,0 +1,100 @@
+{
+  "user_id": "U-01674",
+  "profile": {
+    "user_id": "U-01674",
+    "signup_at": "2025-02-23T03:14:27.157Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T00:34:22.391Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-23T03:14:27.157000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-23T03:14:27.157Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T12:27:17.739Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T12:27:17.739Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T12:27:17.739Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T00:35:18.624Z",
+      "deadline": "2026-10-08T00:35:18.624Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T00:35:18.624Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-30T16:51:13.046Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-11",
+    "2026-09-19",
+    "2026-09-26",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "244eb29d-23e6-4856-9c99-c5976054e62c",
+    "2bec9400-0d18-48e1-a942-f7eb5cc7ad49",
+    "3295e0fe-7bda-45d3-b93b-19c3aa83bfbb",
+    "38f4a3b9-46bc-47da-af36-dc6d46dcd194",
+    "404fd507-e34d-4157-9aa7-442ed2733291",
+    "4b12b77a-3b93-4ec0-94ee-2d027cf75618",
+    "4d7ee4aa-3e23-4cb2-843f-53b56e29c5ba",
+    "5266fa9c-fc62-4a62-96a0-01cad2c2e12a",
+    "57c3f845-742c-410f-93cd-706b9364f012",
+    "59f027ad-a05d-475a-b554-932deda3bae8",
+    "72a56767-b043-4ac1-9ed7-7e625926f904",
+    "7556e2c2-d371-4349-b7e2-8c14e5165dc1",
+    "790885c7-53e8-4642-966d-39d656ff8af5",
+    "a20f3cf6-fda2-4879-9b82-fac931ec8c12",
+    "a4b25447-4bf7-4521-a22d-eaedd19fb32d",
+    "a969f4e6-64d3-4e53-81f1-e459d6887fef",
+    "dcdc6a8a-eea4-4701-b024-05f16b39a4f2",
+    "e5affcbf-51bd-4f4f-8f9f-bc8f45b9c424",
+    "eb528ddd-4e8d-4bbb-9a4f-9a1f72459259"
+  ],
+  "updated_at": "2026-10-08T00:35:18.624Z"
+}

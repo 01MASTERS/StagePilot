@@ -1,0 +1,129 @@
+{
+  "user_id": "U-03395",
+  "profile": {
+    "user_id": "U-03395",
+    "signup_at": "2026-09-12T10:15:32.218Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T18:41:58.951Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-12T10:15:32.218000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-12T10:15:32.218Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-12T10:15:32.218Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-12T10:15:32.218Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-12T10:15:32.218Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-12T10:15:32.218Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T10:55:51.708Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T16:18:11.068Z",
+      "deadline": "2026-10-08T16:18:11.068Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T16:18:11.068Z"
+    }
+  ],
+  "completed_episodes": [
+    "nimo-tima-d5-s1e1",
+    "yaka-naka-d5-s1e1"
+  ],
+  "slug_progress": {
+    "yaka-naka-d5": "yaka-naka-d5-s1e1",
+    "nimo-tima-d5": "nimo-tima-d5-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Family": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "b7872a55-ae23-4004-8c2a-96254b664e99",
+    "bfbc09e8-06e8-451a-ab48-f2a141984918"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-24T14:48:52.932Z",
+  "last_play_by_slug": {
+    "yaka-naka-d5": "2026-09-12T10:18:07.515Z",
+    "nimo-tima-d5": "2026-09-24T14:48:52.932Z"
+  },
+  "last_app_open_at": "2026-09-29T10:55:39.882Z",
+  "active_days_ist": [
+    "2026-09-12",
+    "2026-09-24",
+    "2026-09-28",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0ce4a405-6bf9-4445-aeb5-fb76dd85a668",
+    "13b8177a-7758-4177-91e9-8c27089b1b01",
+    "1cb6173e-bcfc-4c96-9bef-c66185e2f979",
+    "22b0da9e-be43-4955-a9f9-be8fb6e0fe57",
+    "29421dca-2e83-4adf-ac0c-7093ad667c75",
+    "3316a3be-21eb-45ab-a368-b41e7841cbcb",
+    "3fe87cae-0314-4c39-987c-3525a50257ba",
+    "492da821-92d1-4644-a2de-5895df767c2d",
+    "4c07720b-84eb-44be-874c-1d0066b351f8",
+    "537219ea-72af-49c2-8226-ca5943e8ac22",
+    "618d9a0e-0da1-46b1-9b15-89a464896410",
+    "6ba081a6-8df8-476d-a46f-7d812feef908",
+    "7b87f7d5-7e3e-4742-934d-0bb6f6d0358a",
+    "87f499f7-7374-452e-902d-603ea5e29087",
+    "911c9840-9a5f-414a-8449-41ec942ad30d",
+    "973a4813-d8a1-405b-a150-a1df3647513e",
+    "ae8f5000-bf8c-4b29-aa84-15fcb9dc1e29",
+    "b17ee8ce-b33b-4c48-b972-82e81bc51aec",
+    "c0d203c6-0a05-4035-8b8e-ca663ab3f6c6",
+    "f0e4b57c-3060-4539-8522-3746c4a62f87",
+    "fd348741-39cb-4474-933d-ac569c631fc6"
+  ],
+  "updated_at": "2026-10-08T16:18:11.068Z"
+}

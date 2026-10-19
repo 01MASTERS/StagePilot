@@ -1,0 +1,80 @@
+{
+  "user_id": "U-02027",
+  "profile": {
+    "user_id": "U-02027",
+    "signup_at": "2026-09-18T16:55:49.976Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T17:02:16.314Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-18T16:55:49.976000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-18T16:55:49.976Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-18T16:55:49.976Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-18T16:55:49.976Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-18T16:55:49.976Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-18T16:57:42.436Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "96199887-bf4e-45b7-90a5-c1c58275a265"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-18T16:57:42.436Z",
+  "last_play_by_slug": {
+    "roti-d1": "2026-09-18T16:57:42.436Z"
+  },
+  "last_app_open_at": "2026-09-18T16:56:09.134Z",
+  "active_days_ist": [
+    "2026-09-18"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "3fc5f6a8-5780-4e1d-8259-ce5272c65cb6",
+    "b3097f0f-396a-41ec-a1e1-a44d8c2388eb",
+    "bafd5a50-4d7e-45f2-901c-1f0b2f6f0076",
+    "da24bd8c-131b-4e76-815e-83272c865cab",
+    "db55218a-8b09-41cb-91f8-e1eedb6b5cdb"
+  ],
+  "updated_at": "2026-09-18T16:57:42.436Z"
+}

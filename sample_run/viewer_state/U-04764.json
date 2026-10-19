@@ -1,0 +1,133 @@
+{
+  "user_id": "U-04764",
+  "profile": {
+    "user_id": "U-04764",
+    "signup_at": "2026-07-25T10:20:46.711Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T00:05:17.767Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-07-25T10:20:46.711000+00:00",
+      "source": "profile",
+      "observed_at": "2026-07-25T10:20:46.711Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-01T02:42:55.017Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-01T02:42:55.017Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T02:42:55.017Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-01T02:42:55.017Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-10-01T14:26:40.819Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:06:22.771Z",
+      "deadline": "2026-10-08T15:06:22.771Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T15:06:22.771Z"
+    }
+  ],
+  "completed_episodes": [
+    "molo-d2-s1e1",
+    "nane-yayaja-d2-s1e1"
+  ],
+  "slug_progress": {
+    "nane-yayaja-d2": "nane-yayaja-d2-s1e1",
+    "molo-d2": "molo-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 3,
+    "Romance": 3,
+    "Family": 1
+  },
+  "play_sessions": [
+    "613b9a87-d670-48fc-a841-ced547869781",
+    "63e77b77-47c8-4f43-9ffc-46f485638608",
+    "7a5049f2-4ad3-4fad-b649-99499d50f692",
+    "7ae29a43-c9f5-4bf3-b030-e0af1008c811"
+  ],
+  "total_plays": 4,
+  "total_completes": 2,
+  "last_play_at": "2026-10-01T14:26:40.819Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-10-01T14:26:40.819Z",
+    "nane-yayaja-d2": "2026-09-25T07:24:01.226Z"
+  },
+  "last_app_open_at": "2026-10-01T14:25:40.373Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-25",
+    "2026-09-27",
+    "2026-10-01"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "00fb9888-9222-46c5-b749-eccf989a121c",
+    "0a422568-3ee1-43f4-9064-d36dcca6282e",
+    "3203b956-430a-43bd-93cd-936bec33b72e",
+    "46352d69-6b9a-484f-8c7f-775f7ad9e933",
+    "470e67fa-b231-45f0-a087-a619a131d3c4",
+    "5b1f0545-f9b5-4141-84f9-42bea37fd9b3",
+    "5d4d94f7-1930-4685-aee7-e0809cac11c6",
+    "62ddff0e-7635-4dba-ad48-535eb632bf02",
+    "6fe4ddf4-7232-4fbb-8d43-a9c0f5fe347f",
+    "71d94956-099e-43b0-abfb-9db62104422a",
+    "7b79c403-0fbc-41fa-bfc5-178359769a35",
+    "8b369abe-7f1f-4ac0-81f9-cd4830a113e4",
+    "9a62691e-6dc9-45e3-8c72-8905134a9723",
+    "b21282c2-dfc8-413f-ba66-cf5c239b1d1c",
+    "b7dd5442-46b5-429f-b157-e33d0c304e09",
+    "ba916129-f6b3-4346-b849-d294dd2204c0",
+    "bece3e1d-31b3-405e-aa52-b6bb1f328215",
+    "c5938960-cedd-45e0-9bdf-d85b803c054c",
+    "d0a35ab8-f28a-4bff-a8f7-532b939381b0",
+    "e30e9c83-e504-46e1-8fc0-69b4971c602b",
+    "e57f5f54-7d1f-450f-a5e5-faeb4326bffe",
+    "f7cbe30f-213d-42ce-be77-dd26d0ea2ab7",
+    "ff3a7c2f-1566-4629-afa0-ee0a22f009e2"
+  ],
+  "updated_at": "2026-10-08T15:06:22.771Z"
+}

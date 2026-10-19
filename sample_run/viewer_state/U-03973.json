@@ -1,0 +1,126 @@
+{
+  "user_id": "U-03973",
+  "profile": {
+    "user_id": "U-03973",
+    "signup_at": "2024-11-16T11:50:24.505Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-27T06:32:00.596Z",
+    "plan_ends_at": "2026-10-27T06:32:00.596Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T01:16:12.931Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-11-16T11:50:24.505000+00:00",
+      "source": "profile",
+      "observed_at": "2024-11-16T11:50:24.505Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-27T06:32:00.596Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-06T05:16:27.918Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-06T05:16:27.918Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T05:16:27.918Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T06:32:00.596Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G07",
+      "name": "resume_series_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:01:15.822Z",
+      "deadline": "2026-10-04T04:01:15.822Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "same content_slug as the unfinished series",
+      "target_content_slug": "chusuma-yapimo-d5",
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T04:01:15.822Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Drama": 1,
+    "Action": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "aa1594d6-6930-424c-a5df-9bb9b642210a",
+    "c37a920b-1695-4a7a-ab97-057c71d7ceaa"
+  ],
+  "total_plays": 2,
+  "total_completes": 0,
+  "last_play_at": "2026-09-12T09:33:57.640Z",
+  "last_play_by_slug": {
+    "chusuma-yapimo-d5": "2026-09-06T23:27:21.088Z",
+    "yaka-naka-d5": "2026-09-12T09:33:57.640Z"
+  },
+  "last_app_open_at": "2026-09-16T16:44:19.719Z",
+  "active_days_ist": [
+    "2026-09-06",
+    "2026-09-07",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-12",
+    "2026-09-16"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "01b3e77f-8b29-4d99-91e7-b3b6560e1e6f",
+    "070ef475-2a71-4e04-aad4-43ff0e670dfb",
+    "19c45d0b-2a91-4aee-89f5-861bead8ce24",
+    "20752f6d-472d-4859-9a92-bbce25e49d5e",
+    "23a2eafe-0f26-4db6-9714-e931deffab05",
+    "3280d9a6-400f-4238-a0bb-1f06be5460bf",
+    "3f1b3cd1-91d8-4aa0-8ad9-22b02f71dff2",
+    "45889f15-67b1-42ce-8d7b-56c68ba6adbc",
+    "54570d41-8a1d-4867-8629-628259a1da77",
+    "55d63d6b-dc5e-4f6d-b3b9-2ea452be6d9f",
+    "759e9f14-7004-4849-b543-d442f8c89d49",
+    "7a87d77d-5905-4caf-88a3-eb96c21f659e",
+    "7b928b9c-88a3-4e81-aea8-9ee8f76116a5",
+    "8730171c-f2a6-4d2e-a834-8bb1f8d3795a",
+    "a9a9f42c-ea72-4836-a732-336a043fd127",
+    "ac72c51a-ad22-4f55-88df-fe0d8391c581",
+    "b39815cd-7c66-4b6a-8e3d-d352f5c90bd1",
+    "d2a18b2c-aec8-48ce-95e4-33e88bed0dd6",
+    "d45c370a-1811-4719-ac40-98db1139f29b",
+    "d98843e5-e696-4591-a5c6-9725f4ba38c0",
+    "efbb617a-a720-4cf1-8d47-b44cff04ecfe",
+    "f8d05604-f4d6-474a-96a3-d19a1406593f"
+  ],
+  "updated_at": "2026-10-04T04:01:15.822Z"
+}

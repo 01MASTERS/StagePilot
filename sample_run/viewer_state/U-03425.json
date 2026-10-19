@@ -1,0 +1,124 @@
+{
+  "user_id": "U-03425",
+  "profile": {
+    "user_id": "U-03425",
+    "signup_at": "2026-06-24T19:30:18.266Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:18:38.091Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-06-24T19:30:18.266000+00:00",
+      "source": "profile",
+      "observed_at": "2026-06-24T19:30:18.266Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-17T20:58:20.650Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-17T20:58:20.650Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-17T20:58:20.650Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-17T20:58:20.650Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T14:46:12.439Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-17T20:58:20.650Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:45:10.730Z",
+      "deadline": "2026-10-08T04:45:10.730Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:45:10.730Z"
+    }
+  ],
+  "completed_episodes": [
+    "ginava-chusu-d2-s1e1"
+  ],
+  "slug_progress": {
+    "ginava-chusu-d2": "ginava-chusu-d2-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "e837bd6d-f5a4-4bb9-a523-3e853d9f8c81"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-17T21:00:41.990Z",
+  "last_play_by_slug": {
+    "ginava-chusu-d2": "2026-09-17T21:00:41.990Z"
+  },
+  "last_app_open_at": "2026-09-30T14:45:45.859Z",
+  "active_days_ist": [
+    "2026-09-18",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0b3ba4fe-74ad-4082-93f6-b294f9b5a00d",
+    "25c1fb6e-1df3-44ab-b15c-b128630d9c21",
+    "3078277f-92c8-4a69-a486-fd3a7d8408c9",
+    "45ac6654-e3cc-4475-b788-92b36feca6fd",
+    "593fd1fc-4b17-49f9-a280-62931ba1399c",
+    "62b38b48-e01d-4e5d-9b0f-c83b6e4f6e7a",
+    "658ab3e7-5297-4c3f-ace4-e2297d79028b",
+    "72211376-2ad1-4c47-a8c4-6c229bc24a6c",
+    "9c876c65-f35c-49cd-9344-a2aa23930007",
+    "ab2d7197-80b3-4400-8faa-fe561de4a657",
+    "c02c4e9d-eb2d-41dc-90bd-05679149838e",
+    "d2e6c5cf-afb2-40e4-9d48-35e16b3fb7db",
+    "d5dc3c14-6c3f-4731-bbff-410e8da017a7",
+    "dfa463d1-c4c9-40c0-923d-1a7d0c63c228",
+    "ebd60b30-87f9-49e1-83f7-54d67f7d9253"
+  ],
+  "updated_at": "2026-10-08T04:45:10.730Z"
+}

@@ -1,0 +1,133 @@
+{
+  "user_id": "U-01198",
+  "profile": {
+    "user_id": "U-01198",
+    "signup_at": "2025-02-12T02:26:38.417Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T11:38:44.388Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-12T02:26:38.417000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-12T02:26:38.417Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-05T07:06:17.145Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-05T07:06:17.145Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T07:06:17.145Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-05T07:06:17.145Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T13:42:08.043Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-26T13:41:59.545Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "rava-baya-d1-s1e1",
+    "tidha-dakachu-d1-s1e1"
+  ],
+  "slug_progress": {
+    "tidha-dakachu-d1": "tidha-dakachu-d1-s1e1",
+    "rava-baya-d1": "rava-baya-d1-s1e1"
+  },
+  "genre_plays": {
+    "Comedy": 1,
+    "Family": 2,
+    "Action": 1,
+    "Drama": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "85e0aa9c-e803-4e8e-8e1c-9ec38915c95a",
+    "8b4c171b-0dd0-4442-b5f6-018457e85e33",
+    "b28f198d-b626-46d5-839d-47e37a0152f7"
+  ],
+  "total_plays": 3,
+  "total_completes": 2,
+  "last_play_at": "2026-09-25T13:18:00.564Z",
+  "last_play_by_slug": {
+    "roti-d1": "2026-09-05T07:07:13.560Z",
+    "tidha-dakachu-d1": "2026-09-11T23:47:56.720Z",
+    "rava-baya-d1": "2026-09-25T13:18:00.564Z"
+  },
+  "last_app_open_at": "2026-09-26T13:41:59.545Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-12",
+    "2026-09-20",
+    "2026-09-25",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0fc15f0b-c748-42d8-8929-e4b4daeba59b",
+    "129b04aa-3104-4317-8e7e-bf2a93bd59a5",
+    "1be6ea63-35ef-49d9-8373-4e2b086b86fb",
+    "268be65d-998a-4e8e-8d0d-db067e4fa8d9",
+    "28b70859-2608-477f-a600-1f2fb49c2510",
+    "2cca2351-84fd-4a7e-8a6d-7b0584997d96",
+    "2e2a6726-07b1-4272-b348-93b6694ee6e1",
+    "373785a1-4b83-4d9b-a127-03079905a6aa",
+    "40c16221-08e9-44bb-9b70-e99ddb2e4489",
+    "459b81da-1fce-456e-a00c-8459b3515fa9",
+    "4fc61979-61a3-4921-9c3e-af1b16182975",
+    "55f97212-9531-450e-82ec-62a9ed5025ec",
+    "7d27fa25-7d4e-4530-a165-298b040634e7",
+    "868a642f-bd9a-4dd6-aa21-2ac89661a151",
+    "8c1822f9-a8b1-44a6-a570-23140f396308",
+    "a1acaf57-3f01-4e9d-90ba-48591422259b",
+    "a79183bb-9657-4212-bf56-1bebe73f6a78",
+    "a881ecc1-7f83-4763-a5d8-ce83fea94c88",
+    "a9410831-493f-4e18-b06f-96c15e5fcf07",
+    "aa92fc65-0db7-4080-8299-78002bfc94c0",
+    "ac172343-a87f-49c6-abc3-47bef3fc95ed",
+    "ae3c1555-0310-43f6-970e-cd0aa3c532df",
+    "bb815611-c8db-4222-88d0-f09cf62b65c5",
+    "c25be520-9d07-47ae-83f4-e2b23496b26f",
+    "c33d4a65-3cd9-4003-a06f-25d725b97e6a",
+    "ca890cf7-945c-4063-8a8b-5645018520a5",
+    "cbe4db48-6be4-4755-8bed-1f21f2e52139",
+    "eb8a7d9e-a38c-4372-a7b4-c9130a2a7143",
+    "f077e9dc-8d69-4322-9c4f-8ede2a114214"
+  ],
+  "updated_at": "2026-09-26T13:42:08.043Z"
+}

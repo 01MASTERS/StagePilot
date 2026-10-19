@@ -1,0 +1,110 @@
+{
+  "user_id": "U-01022",
+  "profile": {
+    "user_id": "U-01022",
+    "signup_at": "2025-01-06T13:39:30.597Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T23:23:20.218Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-01-06T13:39:30.597000+00:00",
+      "source": "profile",
+      "observed_at": "2025-01-06T13:39:30.597Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-10T13:02:50.860Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-10T13:02:50.860Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T13:02:50.860Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-10T13:02:50.860Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-24T10:11:46.323Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-14T10:54:39.429Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "molo-d2-s1e1"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "4c557c56-0938-4e35-8ecc-2c1f7d5be717"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-22T16:19:14.227Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-09-22T16:19:14.227Z"
+  },
+  "last_app_open_at": "2026-09-24T10:10:01.472Z",
+  "active_days_ist": [
+    "2026-09-10",
+    "2026-09-14",
+    "2026-09-22",
+    "2026-09-24"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0af1e87e-70a7-4e42-a1fc-9922bd73d87f",
+    "0dbb879d-ea93-413f-a013-d8f545683a79",
+    "11c81988-1062-4128-adb2-229949d96f7b",
+    "1eb83007-48ba-4f02-ac97-6469acc5eb38",
+    "23647c9c-0eca-4795-9820-c6e5a3e4d45b",
+    "28aed1f1-5b53-4fe5-82e0-c84a50a94620",
+    "4b68d975-c8bc-4b66-af58-c68e1170ccca",
+    "4b729224-6683-468f-bade-3d764b1da392",
+    "52e025d3-dcfa-4249-bf78-2a2b36247c7e",
+    "633d8c92-970d-4bbe-914e-bbcae426ef8c",
+    "8f878f5d-83b2-4f39-af60-841bff57ba95",
+    "9d92adb6-14e3-4aec-8d36-0c21fc415c33",
+    "c5b5c2cf-2459-46a4-84f8-8cb6338730d1",
+    "cef85965-c113-4414-b3f1-c88e421f1907",
+    "dc0ba256-3f82-4911-b0b7-69e0c46db133",
+    "ea699f86-01ce-4511-a496-6aa9d5ef585a"
+  ],
+  "updated_at": "2026-09-24T10:11:46.323Z"
+}

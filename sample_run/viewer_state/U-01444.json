@@ -1,0 +1,103 @@
+{
+  "user_id": "U-01444",
+  "profile": {
+    "user_id": "U-01444",
+    "signup_at": "2026-09-17T19:21:34.847Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-17T19:34:02.013Z",
+    "plan_ends_at": "2026-10-17T19:34:02.013Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:57:11.652Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-17T19:21:34.847000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-17T19:21:34.847Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-17T19:34:02.013Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-17T19:21:34.847Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-17T19:21:34.847Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-17T19:21:34.847Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-25T17:58:33.946Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "tiya-bhamaro-d1-s1e1"
+  ],
+  "slug_progress": {
+    "tiya-bhamaro-d1": "tiya-bhamaro-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 2,
+    "Action": 2
+  },
+  "play_sessions": [
+    "0bb80207-78d7-434d-b76b-802c3358c68f",
+    "3c36b4d2-01df-4561-934d-86ff5659506b"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-25T17:57:46.477Z",
+  "last_play_by_slug": {
+    "tiya-bhamaro-d1": "2026-09-25T17:57:46.477Z"
+  },
+  "last_app_open_at": "2026-09-25T17:56:46.442Z",
+  "active_days_ist": [
+    "2026-09-18",
+    "2026-09-20",
+    "2026-09-25"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "031c334e-660e-4b9e-9ae8-f53900a254b3",
+    "0abf89a4-60a7-47a9-a703-b0221de201cf",
+    "2f96dc27-77a9-4fdc-8afe-4c46bd6fae01",
+    "34752b06-2b03-4b5c-80d2-32fe809c67b2",
+    "4615f8c7-5a84-4ddb-bca0-7d83b72c30e5",
+    "58f88061-1f98-445e-b3bc-ae7e38e7f16e",
+    "605a3c66-5baa-4178-9c35-e5ee97914078",
+    "61b2b414-3ffd-4822-ba8f-34e62b6e2c83",
+    "96396f96-964e-4555-8eaa-7477bbb0b131",
+    "978f2f60-80b7-4843-94f2-317d78de7691",
+    "d166280e-b92d-45c9-8f5a-456e5328434c",
+    "e0f37acc-d9d2-49d7-a6c0-e84f2429b300",
+    "e4f407cc-88a7-4d96-b246-3179f1b2a0a1",
+    "e7c7cc69-dbee-41d7-89d6-e0e26045c2dd",
+    "fd6012ab-3bee-4f4f-9ab9-c077d3bd23f8"
+  ],
+  "updated_at": "2026-09-25T17:58:33.946Z"
+}

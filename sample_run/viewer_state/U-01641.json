@@ -1,0 +1,90 @@
+{
+  "user_id": "U-01641",
+  "profile": {
+    "user_id": "U-01641",
+    "signup_at": "2026-09-29T07:40:46.438Z",
+    "subscription_status": "trial_active",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T02:35:57.629Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-29T07:40:46.438000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-29T07:40:46.438Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "trial_active",
+      "source": "profile",
+      "observed_at": "2026-09-29T07:40:46.438Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-29T07:40:46.438Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-29T07:40:46.438Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-29T07:40:46.438Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T11:10:22.424Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Action": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "dfda8844-5614-490a-b078-e8bd02d33013"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-29T07:42:08.980Z",
+  "last_play_by_slug": {
+    "diti-kochu-d5": "2026-09-29T07:42:08.980Z"
+  },
+  "last_app_open_at": "2026-09-29T11:09:51.927Z",
+  "active_days_ist": [
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "02f9472f-a79d-46d2-a919-fffb30188ce3",
+    "28dba7ac-d7aa-447d-88c7-9147b7e27a22",
+    "49b5a3cd-f425-4063-a323-dd725a453a4d",
+    "57b7feb5-6718-4b2e-8f41-8855674c22cb",
+    "5816a032-7d28-403d-8275-3fba575204da",
+    "91933dd6-01ab-4ce7-a025-16b077613d8b",
+    "cbee1971-4780-4e14-b112-419289b99ccd",
+    "d644af05-bf0b-4d7e-9a53-5b2c5f1a5b3c",
+    "f742adf3-ccd4-4c35-8227-ae766004ee65"
+  ],
+  "updated_at": "2026-09-29T11:10:22.424Z"
+}

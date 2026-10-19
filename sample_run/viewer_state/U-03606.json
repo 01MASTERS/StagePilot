@@ -1,0 +1,109 @@
+{
+  "user_id": "U-03606",
+  "profile": {
+    "user_id": "U-03606",
+    "signup_at": "2026-09-15T19:30:17.604Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T04:45:10.060Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-15T19:30:17.604000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-15T19:30:17.604Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-11T00:55:53.211Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-11T00:55:53.211Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-11T00:55:53.211Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-11T00:55:53.211Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-22T01:06:57.558Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d6",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-15T19:30:52.011Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "rasuya-moni-d6-s1e1"
+  ],
+  "slug_progress": {
+    "rasuya-moni-d6": "rasuya-moni-d6-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "dc31dbb5-ee87-4763-b82b-00ca393f479b"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-15T19:32:21.082Z",
+  "last_play_by_slug": {
+    "rasuya-moni-d6": "2026-09-15T19:32:21.082Z"
+  },
+  "last_app_open_at": "2026-09-22T01:06:35.494Z",
+  "active_days_ist": [
+    "2026-09-11",
+    "2026-09-16",
+    "2026-09-22"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "21e87759-62ff-40ab-9fd8-ebdcdb2cd790",
+    "590eec3e-e6bb-467d-8187-750f344ca908",
+    "673b9501-1c40-43e9-83eb-ab05766f1bd3",
+    "7003591d-6e4e-4a2c-b69e-9a24ef2ed587",
+    "74d2e705-f96c-409f-a1c8-50c13ee1d1b8",
+    "7a476b34-c2c4-406e-b0b4-bbc76cc11626",
+    "7b57e392-f5df-41c5-bf59-68a120ce885e",
+    "97170801-369a-4008-99b0-9e04ec29d408",
+    "a57758ad-7803-4788-903f-c7b3e4b9cff7",
+    "b1074952-fc7c-462e-9f53-9fcdeb80a94f",
+    "b6bb4268-8973-4593-b208-c80fbf58ddb5",
+    "c1be31c0-9038-46c1-b9e4-0f282474444c",
+    "d26265d9-432e-40b8-9b02-9fdfd3d19856",
+    "d9de360c-3dc6-406f-bbe0-bcdcded42452",
+    "db6db9a0-19e1-46a7-8e59-89aad14b4561",
+    "f8236890-0428-4854-89df-11ecf17149c9"
+  ],
+  "updated_at": "2026-09-22T01:06:57.558Z"
+}

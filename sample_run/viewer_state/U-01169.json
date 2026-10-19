@@ -1,0 +1,134 @@
+{
+  "user_id": "U-01169",
+  "profile": {
+    "user_id": "U-01169",
+    "signup_at": "2025-05-26T17:08:48.427Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-07T00:12:33.491Z",
+    "plan_ends_at": "2026-10-07T00:12:33.491Z",
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T07:25:56.376Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-26T17:08:48.427000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-26T17:08:48.427Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-07T00:12:33.491Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-04T10:27:53.833Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T10:27:53.833Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T10:27:53.833Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T18:07:40.296Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-07T15:12:35.875Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Family": 2,
+    "Thriller": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "c97099fc-3aed-48ff-b66a-382e60d38ab5",
+    "cd64e9eb-25c0-4379-ac05-c21723f5bdd5",
+    "e96898a2-3598-4eaf-96d3-365eae599367"
+  ],
+  "total_plays": 3,
+  "total_completes": 0,
+  "last_play_at": "2026-09-27T18:07:12.621Z",
+  "last_play_by_slug": {
+    "dhapipa-gini-d2": "2026-09-07T15:13:44.935Z",
+    "bhaja-moguba-d2": "2026-09-27T09:09:29.799Z",
+    "hako-d2": "2026-09-27T18:07:12.621Z"
+  },
+  "last_app_open_at": "2026-09-27T18:06:33.308Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-07",
+    "2026-09-10",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-19",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "06119357-ceec-48db-a297-b0ba30b62e35",
+    "06f41691-1b7b-40b0-9c11-c7425b093c11",
+    "165f56da-3440-4b00-9274-2f59728e7724",
+    "1cab8de3-a16f-4041-b12f-6e68a4d2c479",
+    "2490b45d-f6aa-47b7-9716-8c39c7dc34c0",
+    "30fb6764-ace7-4c6b-aec6-3d2a39b7f22f",
+    "3216316d-829f-466d-9900-6977aefe2b26",
+    "34fd1a71-fbfa-4965-bb03-d77ca77df331",
+    "3766a714-1d6a-4217-93a4-1d39a61a8be6",
+    "3779aa80-62b3-432e-ac68-404f0426f084",
+    "38c039be-448b-4451-bb77-dc699dd35156",
+    "39e763d3-d6af-4089-a402-ef9270d9b244",
+    "548f746b-3465-4762-a6ca-bfb907e16c56",
+    "583ad513-fe2a-448e-96c7-4bdd887e5e38",
+    "72b2081d-d584-4270-bba2-b8d8b655d8be",
+    "73b73b2a-1f44-455c-b625-494f6e5e5279",
+    "75999d8e-de37-45d6-9e3e-1ed843e8c2be",
+    "80772622-5b7e-4ae0-8bd3-242fd63dcf40",
+    "8575c57c-c0c9-4542-8c3b-c1da0ba0b409",
+    "86225c46-417b-4183-95d1-bed3b2571a75",
+    "8af231f7-cb81-403d-8bb8-b8ad2f0272b4",
+    "8e172154-4d57-4e32-b3ca-75d430381b06",
+    "9c2ed21c-f497-4017-824d-69e2e62c198f",
+    "a17b71b3-92fa-4b3c-9757-52c0b9cb1c0e",
+    "abf57916-3dc1-4a96-9ae4-31fe34a45082",
+    "b3ca80aa-c148-4e4a-b454-2a661e643c81",
+    "ca071d95-16a7-4710-994c-07d942024b18",
+    "cb3d4fb9-e282-431b-ad02-809385b9b2c3",
+    "d588d468-ffc3-499f-9536-2b66a1741c75",
+    "d63b0350-a2d9-4078-92f7-2ebe829e4904",
+    "e24ba9a7-4588-40ec-8729-3ab12cf92584",
+    "e442ac0d-9964-435f-9677-f4f59c4a7ffd",
+    "ee1318f0-aa52-49a3-8d9f-4c10c57f8cdd",
+    "fd45e98d-84c1-4f5d-b844-b2f7a7165e51"
+  ],
+  "updated_at": "2026-09-27T18:07:40.296Z"
+}

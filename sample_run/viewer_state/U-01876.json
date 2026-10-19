@@ -1,0 +1,182 @@
+{
+  "user_id": "U-01876",
+  "profile": {
+    "user_id": "U-01876",
+    "signup_at": "2025-12-29T12:07:02.093Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T18:13:01.021Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-12-29T12:07:02.093000+00:00",
+      "source": "profile",
+      "observed_at": "2025-12-29T12:07:02.093Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-02T04:25:08.833Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-02T04:25:08.833Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T04:25:08.833Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T04:25:08.833Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-23T10:12:36.667Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-05T09:07:41.217Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T13:41:36.673Z",
+      "deadline": "2026-10-08T13:41:36.673Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T13:41:36.673Z"
+    }
+  ],
+  "completed_episodes": [
+    "jakasa-dapi-d3-s1e1",
+    "jakasa-dapi-d3-s1e2",
+    "lomobha-moni-d3-s1e1"
+  ],
+  "slug_progress": {
+    "lomobha-moni-d3": "lomobha-moni-d3-s1e1",
+    "jakasa-dapi-d3": "jakasa-dapi-d3-s1e2"
+  },
+  "genre_plays": {
+    "Thriller": 3,
+    "Action": 2,
+    "Crime": 4
+  },
+  "play_sessions": [
+    "00df69ab-d111-4b68-9841-d65378a4ce18",
+    "96f5ed4f-a807-458c-85e4-807f6c718b42",
+    "97800e47-ceca-4cac-958f-d90e6cbaad92",
+    "9ddb0f2b-0d76-4873-ae80-1af73561c1b2",
+    "aefc9246-9648-45ad-9da6-21c7293640b8",
+    "ebcd21e0-3d50-4f0b-be6c-9cfe2854a890"
+  ],
+  "total_plays": 6,
+  "total_completes": 3,
+  "last_play_at": "2026-09-23T10:12:36.667Z",
+  "last_play_by_slug": {
+    "lomobha-moni-d3": "2026-09-23T10:12:36.667Z",
+    "jakasa-dapi-d3": "2026-09-18T13:54:05.180Z",
+    "yane-tegi-d3": "2026-09-17T15:03:15.132Z"
+  },
+  "last_app_open_at": "2026-09-23T10:09:02.825Z",
+  "active_days_ist": [
+    "2026-09-02",
+    "2026-09-05",
+    "2026-09-07",
+    "2026-09-10",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-20",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "08f47362-def9-420b-8abe-659b94fdbcd6",
+    "10975d56-95ee-4c9b-b5ef-b7f25951e8bf",
+    "151ad02a-c72d-4989-9832-50b3e3c97262",
+    "15627a31-66e7-4c99-a779-3fe02dff5a14",
+    "15afd552-7987-413f-83ea-e989b8af9e99",
+    "194424f8-e33d-44f0-b5dd-26a73e837156",
+    "2781fa63-fea5-4e68-95d3-810c717e81a1",
+    "2bb188a6-054a-4e63-825f-7aa051a1386d",
+    "2e20eb50-5de1-4164-9522-e2783f649999",
+    "347f0666-4fe9-4587-b9dd-c119e5c4eab0",
+    "392cc6eb-6590-4441-a829-acacd2d38f90",
+    "420260f7-9243-454c-85cc-c7e3b7be146f",
+    "46f38044-feb0-4a38-9f27-1f9a3aa95566",
+    "491ba8d5-7bbe-4d07-8f9e-57d2798c40e5",
+    "52d546b2-a177-4508-be50-05848a943e60",
+    "56fd4a8a-c1e5-46a1-a9c8-1df334484b5d",
+    "5c13814b-8cb5-49b4-b7f5-965ba8d5db3a",
+    "652e3f6a-f160-4914-9641-0ca03f3d6827",
+    "6f24e96e-e152-4120-9fcd-538f5bf085c6",
+    "7059e60b-afdb-4af2-8b87-4647a26a7f87",
+    "7243dc92-fc0b-448c-ace3-41f95750c49b",
+    "750cff22-005f-4614-8bfc-1be3199a66f5",
+    "77ee141b-cd03-4aae-b8ed-adb7c21bc926",
+    "7a7423b0-a8c5-46a8-b5ee-8afb2dcbdef0",
+    "7f316ba2-3dfd-4472-a83b-339541aebfe6",
+    "7f392e39-24f8-4775-aef2-689aa613cee0",
+    "81de6377-1884-4d7f-bb4f-4e316e380714",
+    "81fbe229-da83-4fe7-a9cf-4de5c00f9845",
+    "8805abad-a0ca-4ce1-9663-7be49ce95387",
+    "8c8f3966-80fc-49df-a860-c32917e0adc5",
+    "8dd279ee-de8b-4a54-ac2d-2252fe44c738",
+    "9088578c-9398-43e6-942a-17062bee9bfc",
+    "932c2c23-775e-4eb3-a4b5-5eeb10adc2ce",
+    "94ec4cac-584c-47de-8307-350a2552351c",
+    "950f9784-4313-47ea-96a5-61644853c799",
+    "9be73400-6391-4e75-88f5-47c3cd4fcaed",
+    "a1ae96e7-b1a6-4474-a09f-46b434ce875b",
+    "a63e86d1-3d25-4438-a624-bcbad3928aeb",
+    "a94951bc-905f-4d87-a6a5-3bc9e1264ae8",
+    "b5401948-c58e-4425-84e9-859f3cdc380c",
+    "b5424996-9ef6-4c1a-9bc3-84e75fce257a",
+    "b7bf6271-e511-4b70-aa42-82cd42a2edf7",
+    "b7db9a37-7889-4c42-baf7-1c8e9d7f659c",
+    "c2bab690-03d7-4d04-959c-fc168149cc3f",
+    "c3526cda-0aec-4f57-a268-10f5fcd02d2e",
+    "d68f77b1-a668-423d-9d1f-d50f7648f20f",
+    "d703d05c-b350-464f-8dbe-51ca13c1ccf9",
+    "d9cdd3b7-4b52-4ede-b810-028e71c26889",
+    "e1729100-a75e-4ac8-a240-ed5a5f0628e3",
+    "e3db8abd-6f0a-4cc3-a774-3ec1182d8722",
+    "e764234b-12b5-43e8-aa2f-1b202bb2af0b",
+    "e99521dc-102e-4310-8f06-585b152e203f",
+    "ea4d9d8d-0042-40e2-b45c-c467c2adc64e",
+    "efb1defc-0cfe-4202-ad85-64db1faea380",
+    "f35737da-97a8-4117-bdf7-23937068d158",
+    "f64d128c-f917-4c69-b8a6-4ec70449bcf4",
+    "f6d87f69-8a63-4e43-a9c6-40bb556ff6b8",
+    "f6fc978b-1987-44de-a42b-7c58d8fe9871"
+  ],
+  "updated_at": "2026-10-08T13:41:36.673Z"
+}

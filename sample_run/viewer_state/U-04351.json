@@ -1,0 +1,130 @@
+{
+  "user_id": "U-04351",
+  "profile": {
+    "user_id": "U-04351",
+    "signup_at": "2026-03-09T13:47:28.908Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-19T15:08:27.404Z",
+    "plan_ends_at": "2026-10-19T15:08:27.404Z",
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T20:01:13.277Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-09T13:47:28.908000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-09T13:47:28.908Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-19T15:04:48.745Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-05T01:40:33.535Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T01:40:33.535Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-05T01:40:33.535Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-25T05:16:10.227Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-17T12:27:59.931Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "dhapipa-gini-d2-s1e1"
+  ],
+  "slug_progress": {
+    "dhapipa-gini-d2": "dhapipa-gini-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 2,
+    "Comedy": 1,
+    "Romance": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "8055a8c9-61e7-44ed-9b1c-7875942c95c1",
+    "8a5b22b7-b1d2-4ba7-8300-47f0406676a2",
+    "9f456ff6-0838-443e-8adb-2cdf33d7ab40"
+  ],
+  "total_plays": 3,
+  "total_completes": 1,
+  "last_play_at": "2026-09-19T15:22:13.161Z",
+  "last_play_by_slug": {
+    "rigu-dhadi-d2": "2026-09-05T01:41:37.167Z",
+    "molo-d2": "2026-09-05T14:41:54.211Z",
+    "dhapipa-gini-d2": "2026-09-19T15:22:13.161Z"
+  },
+  "last_app_open_at": "2026-09-25T05:15:00.225Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-07",
+    "2026-09-10",
+    "2026-09-17",
+    "2026-09-19",
+    "2026-09-25"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "061aca5e-495e-4b29-b5a5-956c7b33b4d6",
+    "19b28560-1bce-4621-a6f4-a426901c574c",
+    "1aaf15a8-b475-48bf-849d-3b749ae60931",
+    "26c93aac-7a95-48e8-9d38-7e07a9dec4db",
+    "2990b414-961f-440d-a54e-b47a429aac4b",
+    "3285c8fc-5cdb-4ef6-bfc1-9e7797a3dced",
+    "3b43045d-29a1-4585-af3e-d7f85583c360",
+    "3b553687-6723-4abd-9e3a-d99b394d4de2",
+    "419bdea7-98f4-4b4d-9d06-59082ab94bc9",
+    "41a8e9d6-720a-469d-95cf-8cf5b449fe5b",
+    "43fa2e3c-6bf3-4664-85ec-d62d83abd267",
+    "5ddd74ee-69e5-43cd-841a-1f8ae3dbeb92",
+    "6643428d-b44f-47c2-a06a-4fa12536e84d",
+    "675b2725-c7c9-4991-b596-d64acc178bf8",
+    "73a1654b-5383-48b4-9bf4-4ca939b8b63b",
+    "816c00a7-b65d-4f64-9437-204558ef8ab1",
+    "9b0661ec-7b67-48ab-a032-01d7e8ddd616",
+    "a73f0348-0930-49eb-a44e-fbc5d29df8b3",
+    "aa864b29-ef3b-4c49-874c-9fcabf46d09e",
+    "acd9e99f-b509-40db-9098-d2aca812af85",
+    "ad8be360-b014-4710-b183-327f6457e540",
+    "b6a30b4e-c933-4b3a-b7ed-029987a573ae",
+    "dd3ffb8a-de51-428f-ab3c-892bc1a720cd",
+    "e17edff1-b70b-4b94-a9df-298265284692",
+    "e2b18ec4-3817-4b1e-bfd2-f37bd4d774ee",
+    "e690959f-cf08-464d-8c27-e16555f59360",
+    "eae12569-a6db-49bf-8ac6-93361037a80f",
+    "fd6fe3da-be50-4d2f-833b-dec96ba140da"
+  ],
+  "updated_at": "2026-09-25T05:16:10.227Z"
+}

@@ -1,0 +1,128 @@
+{
+  "user_id": "U-03467",
+  "profile": {
+    "user_id": "U-03467",
+    "signup_at": "2026-04-29T01:18:00.951Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T07:08:17.104Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-04-29T01:18:00.951000+00:00",
+      "source": "profile",
+      "observed_at": "2026-04-29T01:18:00.951Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-03T14:01:13.239Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-03T14:01:13.239Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T14:01:13.239Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T14:01:13.239Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-19T05:05:07.429Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-15T02:26:14.471Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:04:50.146Z",
+      "deadline": "2026-10-08T15:04:50.146Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T15:04:50.146Z"
+    }
+  ],
+  "completed_episodes": [
+    "hada-maloni-d4-s1e1"
+  ],
+  "slug_progress": {
+    "hada-maloni-d4": "hada-maloni-d4-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "790133de-824b-450c-906f-2cd980cd6d8c"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-03T14:02:33.622Z",
+  "last_play_by_slug": {
+    "hada-maloni-d4": "2026-09-03T14:02:33.622Z"
+  },
+  "last_app_open_at": "2026-09-19T05:05:02.401Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-11",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-19"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "09aa8c05-9905-4d7f-86d7-3abb30f2a740",
+    "25999972-2973-4fbb-9530-287feeaa7c8d",
+    "2adfbc28-943e-4538-ba23-00cea631dcc6",
+    "3d1daa13-013c-4283-97c3-4b6738fd8660",
+    "6c78b395-43e6-4d8e-b31c-07dfd81f2679",
+    "779cc430-25b7-4736-b5f6-89d0148c4da6",
+    "7aacbd50-feeb-44b8-8ccc-4971d88b85ec",
+    "96865238-51fa-44b1-874e-6b28b6439a5f",
+    "ae0d0e29-fb65-4361-896a-d697745372c6",
+    "b315b3ee-2dee-4dc9-bf54-4a6a678445ee",
+    "c2fc0a52-791f-43f5-b514-064477048c64",
+    "c9070c4d-ee35-4704-b88c-5ff5b855ec6f",
+    "d38a8184-77dd-4a4a-869f-a54bea5ad9d3",
+    "d85c0a7c-eca8-432a-b123-1d8f7125835d",
+    "e2de57eb-2c8d-4049-a6d4-36bcb1cae7f3",
+    "e44b4d1e-8a44-44cd-999b-3b1c190c6439",
+    "ecd6ced8-6f9a-49b7-89d2-4e2699123096",
+    "fab2acc6-efb9-4170-819d-3a0e50e73fc3"
+  ],
+  "updated_at": "2026-10-08T15:04:50.146Z"
+}

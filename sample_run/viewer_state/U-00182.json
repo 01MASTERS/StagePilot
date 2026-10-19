@@ -1,0 +1,82 @@
+{
+  "user_id": "U-00182",
+  "profile": {
+    "user_id": "U-00182",
+    "signup_at": "2025-08-21T11:55:14.987Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T23:07:59.341Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-08-21T11:55:14.987000+00:00",
+      "source": "profile",
+      "observed_at": "2025-08-21T11:55:14.987Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-30T21:56:25.031Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-30T21:56:25.031Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-30T21:56:25.031Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G06",
+      "name": "reactivate_lapsed_14d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:07:49.188Z",
+      "deadline": "2026-10-15T15:07:49.188Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "any paid plan",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-15T15:07:49.188Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-30T21:56:25.031Z",
+  "active_days_ist": [
+    "2026-10-01"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "02fddbbe-3769-4d9f-bda5-45711bd841aa",
+    "3ec88fa2-6df1-4286-b43d-edbe2b9b198a",
+    "c7d5a5df-87d6-4237-bf56-6944df8e3da9",
+    "e8b759cb-de74-457d-aef7-06e35d9bc4ee",
+    "ec80cf9f-e529-4995-bfc0-14d1c3cab86c"
+  ],
+  "updated_at": "2026-10-15T15:07:49.188Z"
+}

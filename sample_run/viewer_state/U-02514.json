@@ -1,0 +1,130 @@
+{
+  "user_id": "U-02514",
+  "profile": {
+    "user_id": "U-02514",
+    "signup_at": "2025-03-03T12:43:45.456Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T17:37:36.213Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-03-03T12:43:45.456000+00:00",
+      "source": "profile",
+      "observed_at": "2025-03-03T12:43:45.456Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-01T04:36:38.195Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-01T04:36:38.195Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T04:36:38.195Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "events",
+      "observed_at": "2026-09-28T03:51:13.281Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T10:37:38.231Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-01T04:36:38.195Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "baguti-gida-d4-s1e1"
+  ],
+  "slug_progress": {
+    "baguti-gida-d4": "baguti-gida-d4-s1e1"
+  },
+  "genre_plays": {
+    "Crime": 1,
+    "Action": 1,
+    "Romance": 1,
+    "Comedy": 1
+  },
+  "play_sessions": [
+    "0fc62d0b-d0e4-4de5-87cf-19a52dc50690",
+    "bdea26e2-877a-456e-8aba-21126a414a72"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-17T01:59:06.520Z",
+  "last_play_by_slug": {
+    "tidaka-koni-d4": "2026-09-01T04:37:36.806Z",
+    "baguti-gida-d4": "2026-09-17T01:59:06.520Z"
+  },
+  "last_app_open_at": "2026-09-28T10:36:45.367Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-06",
+    "2026-09-12",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-24",
+    "2026-09-26",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "00374e08-e109-428a-9063-474a5d7d1b02",
+    "03a3ca37-4684-4440-8cc2-289f2570db5e",
+    "0f3a0259-7ee6-4b91-8e76-a2d405fa0517",
+    "3be2d3bc-e3c1-4cf6-96cd-206fba02c82d",
+    "4ee1cf41-fb83-4649-b788-ca544cdc993c",
+    "55d93015-6c1e-489e-bacc-3923b65853ee",
+    "57a3c54a-a3fd-40e6-b0b0-b1b6cb87c468",
+    "5c6618d2-d159-4881-a716-cfeaba8ed220",
+    "68aa9cce-7bbe-4d56-a031-8f993bc5d92d",
+    "6ad8d243-eb76-405b-a435-7d4beb29ee44",
+    "7bb4069a-6213-49d0-a765-c2d32d218c2c",
+    "810e2f5d-49bf-424c-8c42-706aad7a5331",
+    "845b8227-c54f-4aa7-bc68-2b1b684005e9",
+    "916264ee-455e-4da6-bd61-3cf353ca96c7",
+    "970f86cd-1d85-4eb7-acfe-bc55a35aefb9",
+    "a3a63f1f-fee7-4ce2-a483-e740f4da573b",
+    "a4f692df-98c1-4914-9fd4-4cb40725ec7e",
+    "a79cd5a0-af83-461f-aee9-a794c7a14a3e",
+    "acce274f-4ed3-48d8-b53f-8d504a01f111",
+    "ada1cd60-5e31-4442-bb50-734e09a8407f",
+    "b379a28a-24af-4851-b494-f6ddec6a91d3",
+    "c0910e82-5848-4549-88dc-9a0b4cf2103a",
+    "c1825512-0b94-4c1f-b37a-bb2817864b91",
+    "cf88e052-467e-48e1-bc42-cc7ea8b3389e",
+    "d2b6e311-2efc-42dc-9837-fdf196b616d9",
+    "d3eb4ee4-49a7-4a97-9243-ed3d621a001f",
+    "e742e417-bff9-48b8-8a54-8ea72ffdbf91",
+    "efc46870-3c1e-4043-ac8b-946622d6c348"
+  ],
+  "updated_at": "2026-09-28T10:37:38.231Z"
+}

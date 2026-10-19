@@ -1,0 +1,135 @@
+{
+  "user_id": "U-02978",
+  "profile": {
+    "user_id": "U-02978",
+    "signup_at": "2025-02-08T21:59:26.674Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T23:56:54.640Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-08T21:59:26.674000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-08T21:59:26.674Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T06:15:30.166Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-04T06:15:30.166Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T06:15:30.166Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T06:15:30.166Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T06:28:13.345Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d6",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-23T15:52:26.797Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:46:25.485Z",
+      "deadline": "2026-10-08T04:46:25.485Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:46:25.485Z"
+    }
+  ],
+  "completed_episodes": [
+    "rigu-dhadi-d2-s1e1"
+  ],
+  "slug_progress": {
+    "rigu-dhadi-d2": "rigu-dhadi-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Comedy": 1
+  },
+  "play_sessions": [
+    "f8fc46c4-1d64-4fa1-8254-27d29d86a79c"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-26T10:07:53.231Z",
+  "last_play_by_slug": {
+    "rigu-dhadi-d2": "2026-09-26T10:07:53.231Z"
+  },
+  "last_app_open_at": "2026-09-30T06:27:53.771Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-12",
+    "2026-09-21",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0626669d-5faf-4147-9c45-23ad2fcd3e44",
+    "0d330b5d-cbbf-4574-95f0-56e0145ea10f",
+    "10a46099-088f-44ee-a77f-c544f3466386",
+    "1161b7f8-0151-4f59-b729-0e1eee3ff45a",
+    "15fd456b-4c19-4f6d-b126-b3ea9852db46",
+    "17e74087-36cf-49bf-90c0-4dfef2193ffa",
+    "1a487436-2cb7-4b42-9cb2-ba64e7255421",
+    "1d35364e-d126-4297-872f-31a538065ba1",
+    "260e02fd-8021-40f8-8f67-5b1ea0e6220b",
+    "3c976838-da83-4abc-a4e8-7b284d7815d5",
+    "3d51d288-2cbd-4775-a881-74ecf3f9bf8d",
+    "506fb6fc-0cbf-4723-b605-6ae6b5df4bc6",
+    "63170377-c232-4ea1-9c4c-01167623f5f4",
+    "679f101c-af42-4be5-9232-4ff9d079a1c1",
+    "6f8967c9-b440-44c6-aac9-44f2d4531173",
+    "7e64e75d-82e4-4b47-8cac-5769d7b983d5",
+    "b370e3ab-3db3-4d4b-90d9-e5fdbf6401e7",
+    "c8b05851-52ee-4686-8d6d-134bcb5c7160",
+    "cbb911a0-a133-4b62-b878-3202416469a6",
+    "cc630916-62db-40b6-924e-f675714fad24",
+    "cd9008da-f6ab-4b0d-8215-c150f818ca86",
+    "d2549a87-4dab-48be-a88a-0a275bdb91ce",
+    "f01e75c0-0123-454e-85b0-d811c511e869"
+  ],
+  "updated_at": "2026-10-08T04:46:25.485Z"
+}

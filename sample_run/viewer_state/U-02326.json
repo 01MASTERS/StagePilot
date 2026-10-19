@@ -1,0 +1,101 @@
+{
+  "user_id": "U-02326",
+  "profile": {
+    "user_id": "U-02326",
+    "signup_at": "2025-06-20T14:00:56.281Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T04:35:43.893Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-06-20T14:00:56.281000+00:00",
+      "source": "profile",
+      "observed_at": "2025-06-20T14:00:56.281Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-07T15:45:34.167Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-07T15:45:34.167Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-07T15:45:34.167Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-07T15:45:34.167Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-18T02:24:40.310Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-12T12:08:39.914Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Drama": 1
+  },
+  "play_sessions": [
+    "efb1e1d6-0428-456f-8a38-57c21493b9b8"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-12T12:10:01.759Z",
+  "last_play_by_slug": {
+    "lapa-mavada-d4": "2026-09-12T12:10:01.759Z"
+  },
+  "last_app_open_at": "2026-09-18T02:24:30.241Z",
+  "active_days_ist": [
+    "2026-09-12",
+    "2026-09-18"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-13T15:08:39.380000+00:00",
+      "ist_day": "2026-09-13"
+    }
+  ],
+  "idempotency_keys": [
+    "1a8ef1e6-e698-4880-ba68-9eb6abe950cb",
+    "2c2a6b86-440d-43d2-90db-d122996bf6c2",
+    "66e80a0b-da07-453d-9b14-d9684ecb4848",
+    "67a79918-fcf6-4bb1-a025-a1adfe8fd922",
+    "bb5c6ba4-f8ce-4eb0-a8a8-99d457e6a607",
+    "c027426d-1062-454b-87b2-2bfc74dac4fa",
+    "d09af94e-fc5d-46c1-9040-56793f40d225"
+  ],
+  "updated_at": "2026-09-18T02:24:40.310Z"
+}

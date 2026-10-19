@@ -1,0 +1,129 @@
+{
+  "user_id": "U-02810",
+  "profile": {
+    "user_id": "U-02810",
+    "signup_at": "2026-01-28T15:14:57.606Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T11:12:56.794Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-01-28T15:14:57.606000+00:00",
+      "source": "profile",
+      "observed_at": "2026-01-28T15:14:57.606Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-01T15:19:14.359Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-01T15:19:14.359Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-01T15:19:14.359Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-01T15:19:14.359Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-09T16:13:38.006Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-03T13:00:00.713Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T13:55:17.102Z",
+      "deadline": "2026-10-08T13:55:17.102Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T13:55:17.102Z"
+    }
+  ],
+  "completed_episodes": [
+    "bagi-baya-d4-s1e1",
+    "bagi-baya-d4-s1e2"
+  ],
+  "slug_progress": {
+    "bagi-baya-d4": "bagi-baya-d4-s1e2"
+  },
+  "genre_plays": {
+    "Romance": 2
+  },
+  "play_sessions": [
+    "8ed51e04-059a-4c5a-8dfc-cc6e593ecd90",
+    "97da01fb-a8f2-455b-b2d6-dc553844a2fb"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-09T16:11:45.731Z",
+  "last_play_by_slug": {
+    "bagi-baya-d4": "2026-09-09T16:11:45.731Z"
+  },
+  "last_app_open_at": "2026-09-09T16:10:22.913Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-03",
+    "2026-09-08",
+    "2026-09-09"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0afe6df4-fac4-4509-8d35-db4adf3886c1",
+    "13f5a5c9-f9f9-4530-ba0a-64a5cc143e23",
+    "177298ed-c827-48b5-bf58-867192a65b01",
+    "397ff8aa-732e-480d-8ad7-3df3a4f50268",
+    "40bd6d56-2500-48d0-b1d0-1632a5958785",
+    "64ea9716-9b6d-4f5c-89ad-5a805cce940a",
+    "6770a9e5-ca21-46d4-9f99-74b9471546fe",
+    "6c97f3c6-e35b-4389-a361-a9bec98bd086",
+    "9a183f03-b20d-4217-b88c-2652d60d13f3",
+    "a0b4ffe8-d5c1-4404-9ed1-53a7c2d96bbc",
+    "add0fc86-de95-458a-bafa-c326419f2777",
+    "add55349-8b09-4c03-919d-30bd4a97e89b",
+    "c0d8c329-dd7c-4650-bb27-1d9565cdb33d",
+    "cccab654-eecc-40ee-a47b-104801c291b6",
+    "dae41d06-918e-4464-a3bd-23be138316d8",
+    "ece1f4a3-5e7c-4b25-8263-9c297163a20a",
+    "ef6832f9-3be4-4268-b93b-6ed388222c50",
+    "f673d234-0849-45c9-80ee-d9712382c9e5",
+    "f98aee6d-65f2-4ef9-96f2-22b45e7d8dd6"
+  ],
+  "updated_at": "2026-10-08T13:55:17.102Z"
+}

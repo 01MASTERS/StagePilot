@@ -1,0 +1,90 @@
+{
+  "user_id": "U-00525",
+  "profile": {
+    "user_id": "U-00525",
+    "signup_at": "2026-09-09T10:36:02.540Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T17:39:24.871Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-09T10:36:02.540000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-09T10:36:02.540Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-09T10:36:02.540Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T10:36:02.540Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T10:36:02.540Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T18:59:54.053Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d6",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-26T06:52:24.890Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-26T18:59:51.778Z",
+  "active_days_ist": [
+    "2026-09-09",
+    "2026-09-15",
+    "2026-09-26",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "193e8a1d-c2ea-415c-95d8-7ab2c9c6b56f",
+    "3e0a1b38-dc6d-4f46-9ca1-ce0e89d4fb40",
+    "40b5ba18-c0ad-4a01-926b-2f39ac64c4a2",
+    "46eff1d1-9d30-487d-8e64-29197991d23f",
+    "55485aa3-9dba-4c70-bef6-2a91df5ba2b7",
+    "5773615a-96b4-40db-bf39-0586e2171fbd",
+    "6512ae28-49be-4e79-b9fa-a274cecf958e",
+    "ae00882e-6f29-4581-b1b3-a123c909f2d4",
+    "cef32fd0-4b5c-430c-85bb-26612a687df2",
+    "d5e10ccb-68ef-4c7f-890f-e95675251bc2",
+    "dd884830-0a9e-442b-af4a-03774705c40e",
+    "e782d3ec-3bca-4086-824a-d8f47c056e0e",
+    "f6cc247c-837b-4c57-a374-f08cee29da1d"
+  ],
+  "updated_at": "2026-09-26T18:59:54.053Z"
+}

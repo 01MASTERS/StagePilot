@@ -1,0 +1,134 @@
+{
+  "user_id": "U-00784",
+  "profile": {
+    "user_id": "U-00784",
+    "signup_at": "2024-11-03T11:22:44.651Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "ios",
+    "updated_at": "2026-09-28T22:40:54.177Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-11-03T11:22:44.651000+00:00",
+      "source": "profile",
+      "observed_at": "2024-11-03T11:22:44.651Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-07T03:26:40.475Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-07T03:26:40.475Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-07T03:26:40.475Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-07T03:26:40.475Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T16:44:49.934Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T07:22:12.805Z",
+      "deadline": "2026-10-08T07:22:12.805Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T07:22:12.805Z"
+    }
+  ],
+  "completed_episodes": [
+    "molo-d2-s1e1"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Romance": 1,
+    "Crime": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "79e3fb5e-1b6b-4169-930c-b0aa9975cac9",
+    "8dabebb4-f27d-4004-aa3d-ecd26b8f3086"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-28T15:56:19.230Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-09-09T06:00:50.532Z",
+    "neba-d2": "2026-09-28T15:56:19.230Z"
+  },
+  "last_app_open_at": "2026-09-28T15:55:05.791Z",
+  "active_days_ist": [
+    "2026-09-07",
+    "2026-09-09",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1079de39-444b-47b5-a956-e31b0ae419d1",
+    "14d5b65e-53a0-4e40-a59d-405f1bc59e97",
+    "1b73550a-ed82-4c8c-a579-add1f094b9c9",
+    "280d1aa5-1350-41b5-9fe9-3986d452a560",
+    "35405e6c-97de-47f8-a9be-8022d74d16a5",
+    "450823b4-da98-4b82-8fc9-685dbcfc258e",
+    "477966e4-a33b-4167-b294-ff541c71bd32",
+    "4a5634c8-91f6-409f-9ae7-516fa4615d3f",
+    "514b4a63-9616-4ace-a831-0e4c21549caf",
+    "5c959e99-bcb8-4fe7-bb0c-4dc00a38eed3",
+    "5dfb2a74-b438-4018-9e63-3c72d628f7cf",
+    "614db26c-129b-40ef-a30b-66c37e213877",
+    "642d2388-d2ab-4143-81d8-bc7d93cf1c3f",
+    "6ba7fa4d-7d74-4128-b826-63428d7c9b0f",
+    "6dcb1ee4-11c9-46c1-b4c3-c7081e4a26d9",
+    "74455867-2ffe-4477-8033-0cd7b0fd3eb0",
+    "819aa2db-b1ff-48eb-a49c-d97bff7ac134",
+    "b38ea0e7-a22c-486f-80b8-45f319c279f1",
+    "bc425119-cb43-4e1d-a2c8-c9273ad44f4a",
+    "d510ecbf-becf-4ae0-bb2e-f59d220db7c5",
+    "e020adeb-3ff3-4739-a10f-a2dba05906db",
+    "e4282521-e210-43e1-9847-2d00d31c6b70",
+    "e984dc48-62ed-4af2-a779-65352c76bc31",
+    "e9dc50ea-e096-4aa4-8877-53758da813d7",
+    "ef320566-722d-4553-914d-77ee34c1a11d",
+    "fbabb038-c783-4431-bc65-181035c1fec8"
+  ],
+  "updated_at": "2026-10-08T07:22:12.805Z"
+}

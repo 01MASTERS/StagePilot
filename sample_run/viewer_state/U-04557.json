@@ -1,0 +1,103 @@
+{
+  "user_id": "U-04557",
+  "profile": {
+    "user_id": "U-04557",
+    "signup_at": "2026-09-11T15:49:03.393Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T08:51:41.192Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-11T15:49:03.393000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-11T15:49:03.393Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-11T15:49:03.393Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-11T15:49:03.393Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-11T15:49:03.393Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-11T15:49:03.393Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T16:39:51.776Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-26T16:39:24.547Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "digi-mone-d3-s1e1"
+  ],
+  "slug_progress": {
+    "digi-mone-d3": "digi-mone-d3-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "7251c3f7-0a21-446a-9bae-91a2dac8042a"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-11T15:51:27.265Z",
+  "last_play_by_slug": {
+    "digi-mone-d3": "2026-09-11T15:51:27.265Z"
+  },
+  "last_app_open_at": "2026-09-26T16:39:24.547Z",
+  "active_days_ist": [
+    "2026-09-11",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "360f056d-6dd3-441a-bd94-91c14888dc3a",
+    "4265f364-16b0-4ac0-84b2-11b9dfb268a8",
+    "4a6cdbc4-e81f-4cec-b70a-3701648b5d40",
+    "5a626678-2348-4df5-ac4f-33f61e2a3e2b",
+    "6f88a7f5-696a-4dbc-a57b-0094a37b0a1e",
+    "7629e2f8-740c-4d43-8004-06c25deaaa54",
+    "8a5af956-dc83-454b-977a-4db2a3f9d03d",
+    "8a660229-fffb-4016-93dc-a69a9d0b6914",
+    "9219b19a-56ec-448e-9ee0-62ab3ad759ff",
+    "a7323e1d-2606-41f6-89ce-f5bf3201a1a7",
+    "c9716e19-c7b6-44f6-a7cb-bedcaaf92186"
+  ],
+  "updated_at": "2026-09-26T16:39:51.776Z"
+}

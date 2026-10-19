@@ -1,0 +1,133 @@
+{
+  "user_id": "U-02971",
+  "profile": {
+    "user_id": "U-02971",
+    "signup_at": "2025-10-23T18:14:37.518Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:22:15.498Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-10-23T18:14:37.518000+00:00",
+      "source": "profile",
+      "observed_at": "2025-10-23T18:14:37.518Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-06T23:47:20.728Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-06T23:47:20.728Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T23:47:20.728Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T23:47:20.728Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-20T17:43:06.025Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T07:42:31.533Z",
+      "deadline": "2026-10-08T07:42:31.533Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T07:42:31.533Z"
+    }
+  ],
+  "completed_episodes": [
+    "ginava-chusu-d2-s1e1",
+    "molo-d2-s1e1"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e1",
+    "ginava-chusu-d2": "ginava-chusu-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 3,
+    "Romance": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "11947fac-868e-4f0c-b31c-1d12dc24ccad",
+    "5c4e213d-13c5-49cf-98ec-afee83983e84",
+    "a8251377-aa47-4814-b6f0-88c1c716454a"
+  ],
+  "total_plays": 3,
+  "total_completes": 2,
+  "last_play_at": "2026-09-20T16:08:54.273Z",
+  "last_play_by_slug": {
+    "gibha-bhalomo-d2": "2026-09-14T04:18:11.283Z",
+    "molo-d2": "2026-09-16T09:34:39.507Z",
+    "ginava-chusu-d2": "2026-09-20T16:08:54.273Z"
+  },
+  "last_app_open_at": "2026-09-20T16:07:50.540Z",
+  "active_days_ist": [
+    "2026-09-07",
+    "2026-09-14",
+    "2026-09-16",
+    "2026-09-20"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "015bb017-ac1d-4a38-9254-63c7d6819da7",
+    "06ce4b49-ba76-4a56-8555-7acd1dcf788f",
+    "0c496f1a-deb2-4cc8-a9c4-12800d6bd98c",
+    "1d202535-e1c2-460c-9913-d875037b8760",
+    "24be64d4-5030-47b6-9388-e0474bcf532b",
+    "2e590737-b86d-4a17-86e7-eb57a31ddbfb",
+    "36dffaf3-9d68-4abd-a35c-3711af80938d",
+    "4c9079c4-f761-46dd-808c-58fe327a8bbf",
+    "4eb945e7-63eb-4ede-8662-ddece6e7b94b",
+    "680ef9ac-cc99-421d-ac40-df7581863a4c",
+    "6b07a5f6-fc8e-41c2-aa1b-9a1b8673a0e0",
+    "6fcee79a-7009-4294-8f81-cd8b65ba8f8b",
+    "9da32dcb-3cec-4b46-bb2c-d674f4ce9dca",
+    "a18bbcb5-901f-4eed-b53d-6165ddc01e3c",
+    "a2a6d0ea-e12f-428f-a1e6-89fdc8b1ead8",
+    "ba826f8b-f664-44be-ae42-fd8326f59602",
+    "cd573be3-a57f-4d42-a6b5-3332fa643011",
+    "d6368e47-a755-431d-a205-c008c67e6f45",
+    "ddd9bbd0-7688-40de-b0bb-fca078227af9",
+    "e25ac5b5-df56-4318-a4c8-a5ba55f97757",
+    "e7e85918-e02c-42a9-912d-faf19e7b8f80",
+    "f14960d5-9f15-4ad7-a63f-d05f517bb2a3",
+    "f309d2a5-429a-4179-b351-f5daa2e773fd"
+  ],
+  "updated_at": "2026-10-08T07:42:31.533Z"
+}

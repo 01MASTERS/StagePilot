@@ -1,0 +1,100 @@
+{
+  "user_id": "U-04407",
+  "profile": {
+    "user_id": "U-04407",
+    "signup_at": "2026-04-15T02:24:37.508Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T11:47:44.033Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-04-15T02:24:37.508000+00:00",
+      "source": "profile",
+      "observed_at": "2026-04-15T02:24:37.508Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-27T09:49:44.675Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-27T09:49:44.675Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-27T09:49:44.675Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-27T09:49:44.675Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T10:45:35.953Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-27T10:45:30.766Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "guka-kosusa-d2-s1e1"
+  ],
+  "slug_progress": {
+    "guka-kosusa-d2": "guka-kosusa-d2-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "c9eecde9-5f8b-4d64-b0bd-414322042483"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-27T09:51:28.800Z",
+  "last_play_by_slug": {
+    "guka-kosusa-d2": "2026-09-27T09:51:28.800Z"
+  },
+  "last_app_open_at": "2026-09-27T10:45:30.766Z",
+  "active_days_ist": [
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "37e02ed5-4126-4130-9818-1257d418c1a8",
+    "54d06cbc-2178-4c42-9a77-d2e738983e94",
+    "65712495-7de1-4b01-af70-a9f08ab1c383",
+    "6e98f155-93cd-4045-985d-302cbd2243d0",
+    "7cf09c87-f974-4f87-8316-a8ac6681370f",
+    "7d3894b5-d156-4698-8634-7f0d145625d2",
+    "c838064a-da6e-49f1-9f94-41587d170c57",
+    "ef33e1c0-d0e0-4761-b6d1-395a295a32a1",
+    "fddd168b-e492-4703-a277-8f5b12185fc2"
+  ],
+  "updated_at": "2026-09-27T10:45:35.953Z"
+}

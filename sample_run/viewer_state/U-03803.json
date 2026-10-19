@@ -1,0 +1,139 @@
+{
+  "user_id": "U-03803",
+  "profile": {
+    "user_id": "U-03803",
+    "signup_at": "2025-06-26T03:44:32.892Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:06:57.913Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-06-26T03:44:32.892000+00:00",
+      "source": "profile",
+      "observed_at": "2025-06-26T03:44:32.892Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-06T12:20:50.235Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-06T12:20:50.235Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T12:20:50.235Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T12:20:50.235Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-12T18:09:32.157Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-11T12:09:32.044Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G06",
+      "name": "reactivate_lapsed_14d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T01:05:20.202Z",
+      "deadline": "2026-10-15T01:05:20.202Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "any paid plan",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-15T01:05:20.202Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Action": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "6af36508-1ec4-49b8-bf20-a4417ac72d03"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-11T12:12:01.653Z",
+  "last_play_by_slug": {
+    "tidha-dakachu-d1": "2026-09-11T12:12:01.653Z"
+  },
+  "last_app_open_at": "2026-09-11T12:09:32.044Z",
+  "active_days_ist": [
+    "2026-09-06",
+    "2026-09-09",
+    "2026-09-11"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-07T14:11:22.019000+00:00",
+      "ist_day": "2026-09-07"
+    },
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-10T03:11:45.452000+00:00",
+      "ist_day": "2026-09-10"
+    },
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-12T18:09:32.157000+00:00",
+      "ist_day": "2026-09-12"
+    }
+  ],
+  "idempotency_keys": [
+    "2816062a-bdd3-404b-9391-70679442301d",
+    "2c9f0c5f-7b35-4a15-8a1b-0622160f9cae",
+    "3cf81275-1077-429c-8254-9a767308baa3",
+    "451e2bee-9f5b-49aa-8ef8-16d7587fa3b4",
+    "4c23fa50-2e5b-4e94-9adb-53e42723b1f9",
+    "4f715230-cb7b-4c70-a39d-a5103fc0e65f",
+    "563bd112-2eca-4566-9677-9ecdbb733960",
+    "69023818-81c8-4259-b228-ee7594155848",
+    "88742cdb-ae4f-430c-be6c-53b65ed9fc8c",
+    "9f6abff1-75ba-4af8-aeac-ea66f63a4af4",
+    "a5af5c91-d9d9-454d-9890-a915df48bdef",
+    "a8bc4e9c-ffd2-442e-a2e6-caa256aafd02",
+    "b552e0b1-6a74-4449-b2ac-262973ddbc4c",
+    "cf97f4cd-49ff-4b3b-bd2c-22fca9cb5172",
+    "eb4687a4-b38d-4a26-a8ef-1ffd178796ec",
+    "f2d3490f-e437-4ed1-bf8f-5a99e2ab00f3"
+  ],
+  "updated_at": "2026-10-15T01:05:20.202Z"
+}

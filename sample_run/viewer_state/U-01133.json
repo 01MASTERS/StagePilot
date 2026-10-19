@@ -1,0 +1,123 @@
+{
+  "user_id": "U-01133",
+  "profile": {
+    "user_id": "U-01133",
+    "signup_at": "2024-12-30T22:40:14.215Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T12:53:53.610Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-12-30T22:40:14.215000+00:00",
+      "source": "profile",
+      "observed_at": "2024-12-30T22:40:14.215Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-05T02:45:55.345Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-05T02:45:55.345Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T02:45:55.345Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-05T02:45:55.345Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d7",
+      "source": "app_setting",
+      "observed_at": "2026-09-23T09:23:52.866Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d7",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-05T02:45:55.345Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T13:46:53.082Z",
+      "deadline": "2026-10-08T13:46:53.082Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T13:46:53.082Z"
+    }
+  ],
+  "completed_episodes": [
+    "yakani-panine-d1-s1e1"
+  ],
+  "slug_progress": {
+    "yakani-panine-d1": "yakani-panine-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "f605879d-de37-4611-9030-e7e16961de4f"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-06T16:45:37.829Z",
+  "last_play_by_slug": {
+    "yakani-panine-d1": "2026-09-06T16:45:37.829Z"
+  },
+  "last_app_open_at": "2026-09-23T09:23:52.866Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-06",
+    "2026-09-12",
+    "2026-09-14",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0082ec52-7f68-4f65-a887-4442b3ce7e94",
+    "0ffd8c40-8daa-45cc-bb8b-36e4b2d2e993",
+    "121514c8-06f9-426b-b169-ba89dffada04",
+    "4bb5bddf-62ac-4da3-97c0-1e9124cf5730",
+    "5a6570c9-7891-41bd-bf86-51f544329d2e",
+    "605df17d-c3d2-4cde-b03e-f2b1db237596",
+    "6a8eb0e5-f262-4d0f-899d-965e2d660fb3",
+    "6e6b0fd8-f41b-4ec7-b439-076b47317fd1",
+    "96722989-67cf-4a5c-b57d-7e6b17c79580",
+    "c5e3a2c0-e33e-46f2-b679-3aa95bc345a0",
+    "d33791ac-febb-405a-a681-5aa4cdf881ed",
+    "e6fadfea-1b4b-4d34-a24c-baa84c671f71",
+    "f8d17a8f-b935-4c82-97c2-4f28f591340e"
+  ],
+  "updated_at": "2026-10-08T13:46:53.082Z"
+}

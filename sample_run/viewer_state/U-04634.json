@@ -1,0 +1,131 @@
+{
+  "user_id": "U-04634",
+  "profile": {
+    "user_id": "U-04634",
+    "signup_at": "2026-09-27T21:58:22.174Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T14:14:47.766Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-27T21:58:22.174000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-27T21:58:22.174Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-27T21:58:22.174Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-27T21:58:22.174Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-27T21:58:22.174Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-27T21:58:22.174Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T07:13:44.503Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-09-30T20:11:33.598Z",
+      "deadline": "2026-10-07T20:11:33.598Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-07T20:11:33.598Z"
+    }
+  ],
+  "completed_episodes": [
+    "raneya-niba-d1-s1e1",
+    "rava-baya-d1-s1e1"
+  ],
+  "slug_progress": {
+    "rava-baya-d1": "rava-baya-d1-s1e1",
+    "raneya-niba-d1": "raneya-niba-d1-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 2,
+    "Thriller": 3,
+    "Comedy": 1
+  },
+  "play_sessions": [
+    "814cd327-691f-4e22-9fd1-3c650fd3d4e5",
+    "8b8eb6af-721b-4115-b648-dad04bd73522",
+    "bfe91403-9028-4692-a189-c2aa8849bd79"
+  ],
+  "total_plays": 3,
+  "total_completes": 2,
+  "last_play_at": "2026-09-28T12:36:59.973Z",
+  "last_play_by_slug": {
+    "rava-baya-d1": "2026-09-28T12:36:59.973Z",
+    "raneya-niba-d1": "2026-09-28T09:03:30.794Z"
+  },
+  "last_app_open_at": "2026-09-29T07:13:16.159Z",
+  "active_days_ist": [
+    "2026-09-28",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0524ae97-8e7b-4e61-ba67-a43550771eea",
+    "1a8aba7f-10e2-4e55-b382-6da71e32deed",
+    "1e6e4582-c593-43a5-b3c0-12c94818613c",
+    "4460a23d-d099-4ce8-bec2-2490a5a3da4a",
+    "46056cbe-66b0-4e9c-9189-ef4271d755d2",
+    "4a166228-2345-4bd4-a3f0-8abc7d138952",
+    "4fa83a2e-a7c2-49c8-902a-1fd687924ef2",
+    "519be51b-fd64-4b75-bb15-13e36a693d9a",
+    "54eebc79-fe79-4506-8963-d0db43cc6d73",
+    "5c20653d-68f0-4e83-8ff0-f4b8922262c1",
+    "65f23c17-df49-43f9-96fd-f117e6a8a10f",
+    "813ada0a-bd73-4d83-851a-f1361be9ae1d",
+    "969e99ff-1013-434b-bfc1-3f19f5c5f788",
+    "9ac7a464-c06e-4310-960d-b8ec100e17de",
+    "9f41c37c-974e-4384-b214-87f89df60003",
+    "a71985f3-d53a-4439-997e-710c9634cf87",
+    "a8a5b095-32c1-43aa-8cb9-85644c16e523",
+    "b6ad9966-f920-4564-8b49-4a3c576ce3ca",
+    "b71aa984-8576-48c1-bfc5-b49052156578",
+    "c03c0713-1e81-4ba3-8feb-a8a10a04a82a",
+    "ca091541-8393-4d97-9b13-eb78d72ac335",
+    "d89d3aae-d684-4fad-a218-ee19b6ea9132",
+    "ddd30ec9-1b34-4ac4-beec-af94756dee5c",
+    "e39f5374-015e-427d-bb4f-067b04776753"
+  ],
+  "updated_at": "2026-10-07T20:11:33.598Z"
+}

@@ -1,0 +1,103 @@
+{
+  "user_id": "U-00789",
+  "profile": {
+    "user_id": "U-00789",
+    "signup_at": "2026-05-22T03:38:26.306Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T12:25:53.888Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-05-22T03:38:26.306000+00:00",
+      "source": "profile",
+      "observed_at": "2026-05-22T03:38:26.306Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-01T03:20:34.323Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-01T03:20:34.323Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T03:20:34.323Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T03:20:34.323Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-18T02:08:14.719Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-18T02:01:55.387Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "yane-tegi-d3-s1e1"
+  ],
+  "slug_progress": {
+    "yane-tegi-d3": "yane-tegi-d3-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "90171fb3-50ed-4036-979e-5b15712188cf"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-18T02:04:34.244Z",
+  "last_play_by_slug": {
+    "yane-tegi-d3": "2026-09-18T02:04:34.244Z"
+  },
+  "last_app_open_at": "2026-09-18T02:01:55.387Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-18"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "55938d83-a238-40ab-bda4-cc8d6b0f057d",
+    "a3d85577-dea0-424a-a63e-2499c755a8a7",
+    "a48de3da-294c-4b92-a6f3-b702e584c4a0",
+    "b27e8b53-846d-4aed-9f28-3f5d38728f7b",
+    "b398c8ef-aa85-4b31-a823-b8fda716465e",
+    "c72cf413-d09c-4e52-af3c-c5a260b6c7e1",
+    "c74e1502-bd0b-4b91-8526-dd67d8197364",
+    "cabd2318-adbb-477d-8f4b-60926e1a0f3b",
+    "d78bc1ab-0bd3-40f3-abb9-8d6377bd935e",
+    "ed67590c-4c6e-49f7-811c-540a44f8e908",
+    "f2793cb3-30e8-4b6e-845d-85d18de34589"
+  ],
+  "updated_at": "2026-09-18T02:08:14.719Z"
+}

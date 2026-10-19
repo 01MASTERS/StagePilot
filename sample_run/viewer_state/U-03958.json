@@ -1,0 +1,110 @@
+{
+  "user_id": "U-03958",
+  "profile": {
+    "user_id": "U-03958",
+    "signup_at": "2025-04-26T18:30:08.969Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:12:27.946Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-04-26T18:30:08.969000+00:00",
+      "source": "profile",
+      "observed_at": "2025-04-26T18:30:08.969Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T02:49:47.674Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-04T02:49:47.674Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T02:49:47.674Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-04T02:49:47.674Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-04T20:50:50.367Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T08:02:29.265Z",
+      "deadline": "2026-10-08T08:02:29.265Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T08:02:29.265Z"
+    }
+  ],
+  "completed_episodes": [
+    "lomobha-moni-d3-s1e1"
+  ],
+  "slug_progress": {
+    "lomobha-moni-d3": "lomobha-moni-d3-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "f46f3270-83d2-4bc9-9a1e-cf1782ca60c5"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-04T20:49:00.638Z",
+  "last_play_by_slug": {
+    "lomobha-moni-d3": "2026-09-04T20:49:00.638Z"
+  },
+  "last_app_open_at": "2026-09-04T20:48:08.600Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-05"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "42f4265f-890c-4eae-ada9-0c30285cc0df",
+    "4788ef41-7d88-4873-b320-173f625df696",
+    "65a2671c-9337-4ff1-9d91-4a24df5af0b5",
+    "8a198058-4beb-4942-aa8d-2029d689dcca",
+    "971cda71-6dfb-4811-9549-6e967ec4e180",
+    "b8cd2a32-6d95-4ef0-aae1-dcf8fe05bdd5",
+    "c63bf9e1-0b68-4bfa-a22d-8d24acad1b0f",
+    "d441fba4-9ebd-406e-a76d-6951c3f03d80",
+    "d9d0be18-a534-4e40-8e12-2dba48585a14"
+  ],
+  "updated_at": "2026-10-08T08:02:29.265Z"
+}

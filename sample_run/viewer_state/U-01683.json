@@ -1,0 +1,181 @@
+{
+  "user_id": "U-01683",
+  "profile": {
+    "user_id": "U-01683",
+    "signup_at": "2025-05-07T21:30:30.170Z",
+    "subscription_status": "active",
+    "plan_started_at": null,
+    "plan_ends_at": "2026-10-03T03:35:05.743Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T14:47:21.287Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-07T21:30:30.170000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-07T21:30:30.170Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-03T03:25:27.068Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-03T03:25:27.068Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T03:25:27.068Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T03:25:27.068Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T07:00:08.264Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-27T05:55:13.131Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G07",
+      "name": "resume_series_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T08:17:39.659Z",
+      "deadline": "2026-10-04T08:17:39.659Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "same content_slug as the unfinished series",
+      "target_content_slug": "hama-chudibha-d1",
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T08:17:39.659Z"
+    }
+  ],
+  "completed_episodes": [
+    "hama-chudibha-d1-s1e1",
+    "hama-chudibha-d1-s1e2",
+    "lapa-mogugu-d1-s1e1",
+    "rava-baya-d1-s1e1"
+  ],
+  "slug_progress": {
+    "rava-baya-d1": "rava-baya-d1-s1e1",
+    "lapa-mogugu-d1": "lapa-mogugu-d1-s1e1",
+    "hama-chudibha-d1": "hama-chudibha-d1-s1e2"
+  },
+  "genre_plays": {
+    "Drama": 2,
+    "Thriller": 6,
+    "Action": 1,
+    "Comedy": 5
+  },
+  "play_sessions": [
+    "01e11278-b99a-4ea2-9aea-33c8d4dda52c",
+    "1f4715e8-129e-4282-86a5-48df9c9981ab",
+    "9569fa0a-92bc-43da-9f08-5e3dbc7c184b",
+    "ce7aa1fa-ba77-4b6d-a111-b43c9c191c67",
+    "e19f5db3-21cb-4295-b8d1-ae2bc353e648",
+    "ecadf770-845f-4762-9f5d-67317a61d11e",
+    "f6e16a9c-eb04-4492-92fa-a330c1f3e15e"
+  ],
+  "total_plays": 7,
+  "total_completes": 4,
+  "last_play_at": "2026-09-28T07:00:08.264Z",
+  "last_play_by_slug": {
+    "rava-baya-d1": "2026-09-21T18:12:36.319Z",
+    "lapa-mogugu-d1": "2026-09-19T08:16:08.318Z",
+    "hama-chudibha-d1": "2026-09-28T07:00:08.264Z"
+  },
+  "last_app_open_at": "2026-09-28T06:59:51.341Z",
+  "active_days_ist": [
+    "2026-09-11",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "00903303-e3d0-4528-962a-cc8d58e57899",
+    "03c11266-8a98-483c-9c8a-cae8e3d2ab49",
+    "041ad675-6104-452e-9862-695ec0ebfd0f",
+    "0520e64c-fe5d-4b4e-84bd-624301da6886",
+    "0a45a06f-eef9-42fc-9b4c-bfaf852d2efe",
+    "14b19c70-c79c-441c-9330-1e36ee71a7c3",
+    "25458ed9-da61-4515-b108-37f46423ad32",
+    "25df2724-fe60-4fc0-84b4-23bac51b64af",
+    "2de9809b-0edf-4e65-b7c1-936ecb8b58bc",
+    "3040d0df-54eb-428a-9d49-f8f5bbae3d4e",
+    "37c3df63-d2d3-433f-acd2-61b4d102368e",
+    "402afb05-a822-472b-aee8-40f9a57fd390",
+    "42175bd1-fe09-4951-8503-6e00fc9d7598",
+    "4592e1b2-76b1-4d32-9335-6db697fc8666",
+    "4dbae3f9-9f7f-436a-bace-a7e9925c4bc5",
+    "4e3e4afd-79f1-41d6-aa1d-ab32eb953b9f",
+    "4fda23d6-2da3-4d47-9fb5-ec44215bd7b6",
+    "505b555b-ce7c-4d71-9a50-47561314601a",
+    "505c5a48-1a3a-4692-afc9-33b18cd297c9",
+    "514dc15d-dfd9-42a5-af20-988c4ee57187",
+    "54324772-1a22-4097-9068-53209511c61d",
+    "5cef4b36-3214-4144-b304-3d6d78af18c6",
+    "5ecfdc04-9b4c-4cd2-97c3-78b0d5504b2f",
+    "5f720872-cc96-4c9a-9306-a1703d97a868",
+    "71e18eb0-e58f-4a5d-970d-8c5d326d1799",
+    "72539ea7-4f90-4cb2-8c8d-03980174fd07",
+    "73a4c267-3824-46f3-86d8-d3f70b114a15",
+    "756ae780-e768-435b-b56f-b5ac85bc7e6c",
+    "79ce325d-618d-4858-b8af-43b3b022e9be",
+    "7c806d6c-e366-43e3-9bd1-2076aefbfdd8",
+    "82cf295a-187e-427b-9399-1fb05d35edcd",
+    "9513698b-d473-4b49-9b53-348a5e3a732a",
+    "978fb06d-2afb-4c72-829d-fabc59db2b01",
+    "a52be583-92f1-42f0-8260-b7c7ff47a738",
+    "ab5c6e60-8fa4-4c23-ab3e-84ca978eda6c",
+    "b415e3a7-ee20-4ce9-892b-416d5c7fd134",
+    "b78153c6-3846-4e22-bfeb-2eaf0d097a26",
+    "b88d5950-df85-4dd9-9f3b-b46d8a04f4d7",
+    "ba2c23b2-599c-41d7-8091-8e523b3723d6",
+    "c2a7940d-569f-49d3-9208-1722da0b6007",
+    "c9b123dc-8657-4720-8654-58882f9bb5b0",
+    "cfbc2890-7e7e-4f3b-9582-79f4277bb204",
+    "d07557da-a912-4de9-be35-2a074ad9509a",
+    "d1c6b208-fb1a-40aa-9812-56b7f3ffb7f0",
+    "d67e0153-b6ec-4623-96dc-39455734a5a4",
+    "e66e0cac-c7c5-4400-b18c-f8ec254e76c2",
+    "e959229b-444f-481b-aa14-13f8e7516926",
+    "eb1af4c7-9dac-4262-9cab-4638a8f0bb69",
+    "f051813a-db8c-4880-8029-8e5bd758bfcb",
+    "f224d46e-2d49-402a-be8e-fcd2c78a9cd7",
+    "f281df85-f11f-4a5e-9058-33322ebaa8d4",
+    "f44644ab-ec74-4e84-b624-72692859ee06",
+    "fc88c6af-6420-45d7-a6c6-fe856966d703",
+    "fd718a43-4cb1-46df-8bcf-74e0e16991ae"
+  ],
+  "updated_at": "2026-10-04T08:17:39.659Z"
+}

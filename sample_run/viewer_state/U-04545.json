@@ -1,0 +1,99 @@
+{
+  "user_id": "U-04545",
+  "profile": {
+    "user_id": "U-04545",
+    "signup_at": "2026-08-27T18:32:48.334Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-02T19:07:41.338Z",
+    "plan_ends_at": "2026-10-02T19:07:41.338Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T06:37:13.644Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-08-27T18:32:48.334000+00:00",
+      "source": "profile",
+      "observed_at": "2026-08-27T18:32:48.334Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-02T19:07:41.338Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-02T19:07:41.338Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T19:07:41.338Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T19:07:41.338Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T16:08:08.344Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Romance": 1
+  },
+  "play_sessions": [
+    "b37b121d-4daf-4389-a510-a7b5f58d7c55"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-05T06:34:02.407Z",
+  "last_play_by_slug": {
+    "bagi-baya-d4": "2026-09-05T06:34:02.407Z"
+  },
+  "last_app_open_at": "2026-09-29T16:07:53.533Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-16",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "20243de3-380b-4764-81a3-d01713222d16",
+    "2f2e2efd-9d5e-4945-acea-cccea84941a8",
+    "347edd88-9855-491c-9b65-8e481cc67876",
+    "35ebdadf-1e33-491a-b06b-b63527e96eab",
+    "3bd086d1-6d02-484b-8dc3-35c65c5c2df1",
+    "6b5aea9d-9d9d-4208-aa64-62a24ca30c31",
+    "7b57c185-8c4a-48bd-831a-72b9277b7d67",
+    "9a1c629e-b0ed-42ac-86dc-d775b323ac6b",
+    "a417da92-73a2-4431-9321-09ab5e00509a",
+    "a458ce47-adae-4ce5-8cfc-a1f87869197f",
+    "a9ceebba-a998-4f44-91e8-7ac14256be53",
+    "b828fb48-279c-4005-8252-605c8372ff9b",
+    "bdd863b0-4812-4e80-9561-fae42f70e753",
+    "ee322723-6435-47aa-8722-dcbcd33cf368",
+    "f2de99a6-a512-4442-97f1-c85103e60366"
+  ],
+  "updated_at": "2026-09-29T16:08:08.344Z"
+}

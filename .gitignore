@@ -1,0 +1,32 @@
+# GSD planning and context folders
+.planning/
+.gsd/
+gsd/
+
+# Docs folder (data pack, assignments, PDFs)
+docs/
+
+# Python & testing caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution & Build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Operating System
+.DS_Store
+Thumbs.db

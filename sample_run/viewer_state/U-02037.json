@@ -1,0 +1,98 @@
+{
+  "user_id": "U-02037",
+  "profile": {
+    "user_id": "U-02037",
+    "signup_at": "2026-09-24T06:03:57.876Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T02:46:42.706Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-24T06:03:57.876000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-24T06:03:57.876Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-24T06:03:57.876Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-24T06:03:57.876Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-24T06:03:57.876Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-24T06:03:57.876Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-25T17:30:16.596Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-25T17:28:58.265Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Drama": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "9afb90b8-8240-4978-a034-f949080cf6f2"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-25T06:23:39.125Z",
+  "last_play_by_slug": {
+    "gineni-d4": "2026-09-25T06:23:39.125Z"
+  },
+  "last_app_open_at": "2026-09-25T17:28:58.265Z",
+  "active_days_ist": [
+    "2026-09-24",
+    "2026-09-25"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1e85918e-6d16-4e67-aabc-b0d68f29b468",
+    "2d2ade8a-6cd5-439a-bd49-c3242c5935c0",
+    "389ffa16-56c3-4bc6-8662-d6ce363ae646",
+    "398f940e-90f7-4c1c-b23c-d9c79b202a67",
+    "6b368a3f-3b0c-4125-bd8e-6f12edc048c0",
+    "8ad1363c-735c-4d76-b137-8e3bbd050de3",
+    "9348c53c-9fe5-43e0-affa-8c5d5acbec93",
+    "ea1b51c1-2555-42e5-be34-eaa3dbc439c7",
+    "f35e0fed-95d5-4773-89dc-829c8424678a",
+    "f6eaf105-d708-49a2-a3aa-92bc7a12b3d9"
+  ],
+  "updated_at": "2026-09-25T17:30:16.596Z"
+}

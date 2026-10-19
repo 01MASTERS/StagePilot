@@ -1,0 +1,119 @@
+{
+  "user_id": "U-02024",
+  "profile": {
+    "user_id": "U-02024",
+    "signup_at": "2026-09-23T08:50:35.444Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T16:10:31.818Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-23T08:50:35.444000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-23T08:50:35.444Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-23T08:50:35.444Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-23T08:50:35.444Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-23T08:50:35.444Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T17:37:20.140Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T16:09:50.202Z",
+      "deadline": "2026-10-08T16:09:50.202Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T16:09:50.202Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Crime": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "0fde95ab-ad83-4e9d-82d7-a61cf7008627"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-23T11:40:46.348Z",
+  "last_play_by_slug": {
+    "neba-d2": "2026-09-23T11:40:46.348Z"
+  },
+  "last_app_open_at": "2026-09-30T17:37:13.702Z",
+  "active_days_ist": [
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0664fa7a-3626-4fda-ad02-8a80c4191a82",
+    "10b2b2a6-e14f-4573-8173-d8e5bef2cce1",
+    "17946116-5ce0-4a42-a4e4-3b0d155fbc35",
+    "17d83f53-8a0e-4c2e-b0b4-1783185c3bb6",
+    "1f3ca3db-fce4-49cd-9ee0-b93e35894b12",
+    "20983246-4399-4734-81c9-967881d6782b",
+    "28aba0ca-11e9-455c-b3fd-830e9ca4ceb4",
+    "347b7765-6b80-4e56-9821-47c8b6da08e5",
+    "3baebfb8-97fb-45e0-8be9-f5ed3bcfdb60",
+    "45f874aa-4bce-4d98-b2ee-87b83a0d7854",
+    "469c6a51-8a01-4062-ae7c-8ffd7054174c",
+    "4bb49bf7-0134-43da-a587-1051f791d2e6",
+    "50a4687b-706e-4f63-bf67-83f02d7dc7c7",
+    "5250a38e-dbbc-4d8a-8afb-817d323279f0",
+    "613ca351-0bad-4521-8f0d-6dbc7582bc4a",
+    "67dadaa4-83f3-44ac-9903-769a5477386d",
+    "7cf739b3-3a02-4fb2-a1df-d947bae0e421",
+    "883e6eba-350a-4a5b-8242-659c32a6b3aa",
+    "95543a81-eab4-4458-9477-5ec8649936e4",
+    "cc9416c6-d5ae-4c4a-8f9a-e586583802fa",
+    "d2a1a3cf-356b-4e85-b6ad-6ac759c6ee1b",
+    "df1097d6-852b-4465-a0c2-23d9d02300b7",
+    "e30e4999-5913-4525-a8ae-5f1d68f950b7",
+    "eae93a38-d9fc-4313-aaa8-34978f5f0384",
+    "ef3f95a4-4211-4c9c-acd0-f131b1f8a5ee",
+    "fc5515f1-50c4-4b4f-91a1-36537485989a"
+  ],
+  "updated_at": "2026-10-08T16:09:50.202Z"
+}

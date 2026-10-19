@@ -1,0 +1,129 @@
+{
+  "user_id": "U-02814",
+  "profile": {
+    "user_id": "U-02814",
+    "signup_at": "2026-02-12T22:03:48.224Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T07:01:06.626Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-02-12T22:03:48.224000+00:00",
+      "source": "profile",
+      "observed_at": "2026-02-12T22:03:48.224Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-10T15:32:31.413Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-10T15:32:31.413Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T15:32:31.413Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T15:32:31.413Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T13:40:20.470Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T17:01:37.155Z",
+      "deadline": "2026-10-08T17:01:37.155Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T17:01:37.155Z"
+    }
+  ],
+  "completed_episodes": [
+    "patena-d1-s1e1",
+    "tidha-dakachu-d1-s1e1"
+  ],
+  "slug_progress": {
+    "tidha-dakachu-d1": "tidha-dakachu-d1-s1e1",
+    "patena-d1": "patena-d1-s1e1"
+  },
+  "genre_plays": {
+    "Action": 2,
+    "Family": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "3342292f-6a00-418e-8576-68939102c831",
+    "c4298cbe-62e2-485b-b951-45d89f0aa089"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-25T05:20:48.806Z",
+  "last_play_by_slug": {
+    "tidha-dakachu-d1": "2026-09-10T15:35:14.143Z",
+    "patena-d1": "2026-09-25T05:20:48.806Z"
+  },
+  "last_app_open_at": "2026-09-26T13:39:54.563Z",
+  "active_days_ist": [
+    "2026-09-10",
+    "2026-09-13",
+    "2026-09-25",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0bb05f6f-2a03-4054-a3aa-8ceb030cc7ee",
+    "1c632e84-7b83-4dd6-85bb-4dcceda733b8",
+    "2337a221-2e46-4a1d-a558-8aa745ed97c4",
+    "28af725c-c4e5-418f-a9b3-67fa9c1c1bf6",
+    "5d4fafd2-0751-414f-9b71-e04eddf9460d",
+    "6423fb01-2a6a-4abe-a57a-2daa91c69773",
+    "679cd315-c946-492d-bd5e-266cd6a2b78d",
+    "821c8f80-c092-477c-acea-d1a432e13169",
+    "8e4b15fe-8a5a-48fe-b9aa-373db0a4c537",
+    "acf5e7ae-935e-495b-b324-128ae88022a2",
+    "b95016fa-b68b-4369-8fc8-a27c3c945804",
+    "bde5af61-86d4-48f0-90d7-dce7c3c855ab",
+    "c0ce6802-e378-4b8e-9934-08c8fc74635b",
+    "c723cc2f-6a08-4f8f-8a8d-075c6b266a2d",
+    "cd41a07e-656b-48b5-aec7-130a2b823a44",
+    "d286374a-c376-48cd-9c44-1ad2a2cbf90d",
+    "df972d2a-ca9f-4ce9-831e-bd71aed2f5a2",
+    "f0f95c21-723d-4f38-8067-9cd0c8bd9774",
+    "f1635ac6-ccef-4fe4-ac17-df88c5e1defa",
+    "f810438b-2430-4337-a2a0-7390367feedd",
+    "fd021487-9d4c-4407-b460-417f9f39be4d"
+  ],
+  "updated_at": "2026-10-08T17:01:37.155Z"
+}

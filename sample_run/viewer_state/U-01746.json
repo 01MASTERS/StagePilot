@@ -1,0 +1,112 @@
+{
+  "user_id": "U-01746",
+  "profile": {
+    "user_id": "U-01746",
+    "signup_at": "2025-03-29T13:11:02.204Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-14T05:46:32.433Z",
+    "plan_ends_at": "2026-10-14T05:46:32.433Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T04:15:44.792Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-03-29T13:11:02.204000+00:00",
+      "source": "profile",
+      "observed_at": "2025-03-29T13:11:02.204Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-14T05:46:32.433Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-10T05:29:30.941Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T05:29:30.941Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-10T05:29:30.941Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T05:14:37.286Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "gigi-jachura-d1-s1e1"
+  ],
+  "slug_progress": {
+    "gigi-jachura-d1": "gigi-jachura-d1-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Family": 1,
+    "Comedy": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "419988ea-dc5c-4321-9fec-3f3934c8316b",
+    "b055fe83-186b-4a23-a416-19e499984e80"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-18T13:58:39.574Z",
+  "last_play_by_slug": {
+    "tidha-dakachu-d1": "2026-09-14T05:37:27.732Z",
+    "gigi-jachura-d1": "2026-09-18T13:58:39.574Z"
+  },
+  "last_app_open_at": "2026-09-18T13:56:08.471Z",
+  "active_days_ist": [
+    "2026-09-10",
+    "2026-09-12",
+    "2026-09-14",
+    "2026-09-18"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0e3aa3a9-09fd-456c-af82-6b783bb0fa28",
+    "10935424-2a6f-459c-b430-8aaf01ce81af",
+    "166f969d-0c7f-4390-b7ad-97d12f100744",
+    "4d2d2ab4-23f6-4bf8-b964-4e96ac20c2a6",
+    "5937ddc8-1b6d-4608-b9f7-9565b3e9a932",
+    "6488b314-d36c-4176-a515-3b1d03f827ea",
+    "64c5e980-6668-46b5-950a-8e39e3fc1a94",
+    "673d2cad-6258-47a0-8deb-4848260c5f4a",
+    "720a74aa-5c85-47b5-a0b9-dc3d46dfa9fa",
+    "7604ccc0-c77d-406e-95e0-5c4f22c8b70a",
+    "7e2baa37-9799-46b3-b73a-da1e8671d275",
+    "858b310f-8db0-4356-bd28-372ca9a8e316",
+    "89b41462-55f8-42f8-aa6a-51a35b069074",
+    "8ad14da9-fd8a-4da5-bcfa-2c1ad629695c",
+    "8c00423c-7dc9-4e3c-8b32-5d39846eefd6",
+    "93a4df81-3721-4b50-b5cd-6d703e3e818f",
+    "98064e39-424d-4880-80ae-85350f9241d3",
+    "dfa07161-97cb-40bc-8569-344446d77871",
+    "e48aea32-b2a3-481f-8f48-e2571a6b32d7",
+    "fb03e61d-6451-41f4-9420-3ae390670cd1"
+  ],
+  "updated_at": "2026-09-26T05:14:37.286Z"
+}

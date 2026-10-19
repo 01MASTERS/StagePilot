@@ -1,0 +1,95 @@
+{
+  "user_id": "U-01210",
+  "profile": {
+    "user_id": "U-01210",
+    "signup_at": "2024-12-10T17:10:45.562Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T22:32:23.708Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-12-10T17:10:45.562000+00:00",
+      "source": "profile",
+      "observed_at": "2024-12-10T17:10:45.562Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-25T15:14:10.881Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-25T15:14:10.881Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-25T15:14:10.881Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "events",
+      "observed_at": "2026-09-25T15:14:10.881Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-25T19:03:01.826Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "chuna-guya-d5-s1e1"
+  ],
+  "slug_progress": {
+    "chuna-guya-d5": "chuna-guya-d5-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "c679bf16-5fae-4e8b-9f37-2de5c0ec8ce2"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-25T18:28:57.342Z",
+  "last_play_by_slug": {
+    "chuna-guya-d5": "2026-09-25T18:28:57.342Z"
+  },
+  "last_app_open_at": "2026-09-25T18:28:30.077Z",
+  "active_days_ist": [
+    "2026-09-25"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "11d0cd8b-a588-4aa9-9bf2-b065bed8851e",
+    "285d5664-1ad7-448c-b626-a72bedff7e33",
+    "67632ce9-2e29-49cf-91e4-79e82c018a8c",
+    "6eeb7bfe-25a5-4065-b7d3-f3695076c776",
+    "7039f660-f5c1-4106-bf30-0ec622d77162",
+    "7055cfa9-8758-45e3-99eb-952a6fede4c9",
+    "98e03c75-67aa-4b73-b191-dbb1f444dc71",
+    "b0d8f4ce-f314-4aeb-9f18-045881be2b56",
+    "e29744e5-615b-4c29-aa80-dd09d3345c68",
+    "e795f201-73d2-44f4-9cf8-1409f58965fa"
+  ],
+  "updated_at": "2026-09-25T19:03:01.826Z"
+}

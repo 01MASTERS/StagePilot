@@ -1,0 +1,101 @@
+{
+  "user_id": "U-00905",
+  "profile": {
+    "user_id": "U-00905",
+    "signup_at": "2026-03-29T09:19:33.097Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T03:55:28.406Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-29T09:19:33.097000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-29T09:19:33.097Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-12T16:24:49.015Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-12T16:24:49.015Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T16:24:49.015Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-12T16:24:49.015Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-18T04:06:08.809Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-12T16:24:49.015Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "gidha-sudhako-d1-s1e1"
+  ],
+  "slug_progress": {
+    "gidha-sudhako-d1": "gidha-sudhako-d1-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "c2b08b0a-527e-4ee7-bed7-98b86cccb582"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-12T16:25:27.995Z",
+  "last_play_by_slug": {
+    "gidha-sudhako-d1": "2026-09-12T16:25:27.995Z"
+  },
+  "last_app_open_at": "2026-09-18T04:05:47.293Z",
+  "active_days_ist": [
+    "2026-09-12",
+    "2026-09-18"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "2c386e5a-772f-45b8-8e11-b0780b091081",
+    "399ce46a-82fb-4edf-8f57-392713970393",
+    "7236abe1-be95-4f07-a9a5-8e900364ef79",
+    "908aab28-be42-4c34-8fb9-ab69ae75a265",
+    "99b17fff-75d8-4355-bc93-7da0af057969",
+    "b0259998-d7dd-4e41-9771-1f02f2f095d6",
+    "b6947881-9c0a-4213-8275-0be9dd3d8a57",
+    "bee5ba3b-a5f8-420d-9098-ff9d7ba18829",
+    "fcffa4e2-5da5-43c6-8f33-3e8a37706a82"
+  ],
+  "updated_at": "2026-09-18T04:06:08.809Z"
+}

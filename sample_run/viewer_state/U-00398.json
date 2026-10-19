@@ -1,0 +1,112 @@
+{
+  "user_id": "U-00398",
+  "profile": {
+    "user_id": "U-00398",
+    "signup_at": "2025-05-30T09:29:12.665Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-23T07:20:55.797Z",
+    "plan_ends_at": "2026-10-23T07:20:55.797Z",
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T19:47:55.937Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-30T09:29:12.665000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-30T09:29:12.665Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-23T07:19:40.103Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-09T04:17:17.511Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T04:17:17.511Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-09T04:17:17.511Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T15:09:22.805Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G02",
+      "name": "first_full_episode_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T06:26:06.864Z",
+      "deadline": "2026-10-04T06:26:06.864Z",
+      "rule_version": "2026-09-30",
+      "success_event": "episode_completed",
+      "success_condition": "any episode",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T06:26:06.864Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "22d5425c-33a9-4bd5-be9e-5a457b4b9c05"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-29T15:09:22.805Z",
+  "last_play_by_slug": {
+    "nigi-risa-d5": "2026-09-29T15:09:22.805Z"
+  },
+  "last_app_open_at": "2026-09-29T15:07:19.092Z",
+  "active_days_ist": [
+    "2026-09-09",
+    "2026-09-29"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-10T19:19:33.754000+00:00",
+      "ist_day": "2026-09-11"
+    }
+  ],
+  "idempotency_keys": [
+    "0be4459e-9f6f-4aa9-82d7-1a8bd5523713",
+    "18ddee28-2892-43de-9009-4e66b0b0ae50",
+    "1a37bcb2-31ae-412a-b66e-ff39205f3c8a",
+    "1d17b242-a601-400b-844e-70f79c8c28e8",
+    "63176e2e-8fec-420c-b50f-ba1cab7e127a",
+    "79ee5b0d-a478-44d5-a64a-3f143f067ad6",
+    "7c0170f3-c150-4bdd-b918-f536f86f9240",
+    "da39c5dd-a3ee-4acb-8de6-b04a2bd9e565"
+  ],
+  "updated_at": "2026-10-04T06:26:06.864Z"
+}

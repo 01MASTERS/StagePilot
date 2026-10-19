@@ -1,0 +1,107 @@
+{
+  "user_id": "U-00890",
+  "profile": {
+    "user_id": "U-00890",
+    "signup_at": "2026-09-01T08:18:27.686Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:38:19.800Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-01T08:18:27.686000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-01T08:18:27.686Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-01T08:18:27.686Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T08:18:27.686Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-01T08:18:27.686Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-10-01T06:31:49.754Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-12T20:08:42.335Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "gubava-gihaya-d5-s1e1"
+  ],
+  "slug_progress": {
+    "gubava-gihaya-d5": "gubava-gihaya-d5-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "c2be9588-bef1-4945-b7d8-daba9312404e"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-19T09:03:00.918Z",
+  "last_play_by_slug": {
+    "gubava-gihaya-d5": "2026-09-19T09:03:00.918Z"
+  },
+  "last_app_open_at": "2026-10-01T06:31:43.929Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-10",
+    "2026-09-13",
+    "2026-09-19",
+    "2026-10-01"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "07a7c22b-fa4e-4f21-be2b-201927e29643",
+    "1cf35b88-9db5-48e8-9251-96ae75c75564",
+    "4c1f2187-0978-4367-a2b7-d85796624cfe",
+    "629db1b8-17d9-4850-a1cd-cec7bdba47ab",
+    "69b11a3c-95ee-4795-b161-ab13aa913efb",
+    "6d474e54-400b-4c62-abe8-c48aaab32fae",
+    "6e019157-3792-4028-bd74-4c6abdc5db13",
+    "81da116b-250c-4dbb-b019-d8b392ad5232",
+    "82592ac3-828f-4894-bff3-6cee31a93f11",
+    "84dbfb94-b8db-45b6-9abd-3b8ba3c864c0",
+    "964c8a6b-c69e-4442-929e-17536c5f6361",
+    "9c4d9594-1043-4f6b-ac82-a9f64548562a",
+    "b3b22ea5-e5f0-46dc-94cf-ec94d9413b2a",
+    "c9a17a90-622b-48b8-a8f8-85aa9bdd2a1d",
+    "cc5a6cbc-ffd3-4bd5-830f-17f58110e0b9",
+    "e8ef7d6c-7573-4e88-bec2-91d7a72b5280",
+    "f8c33e1b-17aa-4189-80fb-547576f69d96",
+    "fc77896a-c77f-4b62-9183-37a8854b7a3e",
+    "fe89da82-a25b-42b7-bbe7-58dc11c8b004"
+  ],
+  "updated_at": "2026-10-01T06:31:49.754Z"
+}

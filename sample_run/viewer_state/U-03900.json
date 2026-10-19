@@ -1,0 +1,101 @@
+{
+  "user_id": "U-03900",
+  "profile": {
+    "user_id": "U-03900",
+    "signup_at": "2026-04-28T05:27:54.422Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T07:11:33.753Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-04-28T05:27:54.422000+00:00",
+      "source": "profile",
+      "observed_at": "2026-04-28T05:27:54.422Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-03T04:09:18.731Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-03T04:09:18.731Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T04:09:18.731Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T04:09:18.731Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T09:25:50.311Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-28T09:25:32.548Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Family": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "86200db1-67bb-476b-9b54-91176744e073"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-27T22:52:20.979Z",
+  "last_play_by_slug": {
+    "dapi-sari-d4": "2026-09-27T22:52:20.979Z"
+  },
+  "last_app_open_at": "2026-09-28T09:25:32.548Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-12",
+    "2026-09-26",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "15a333f1-7416-412d-bed8-ba62646c91c8",
+    "23cff6ba-edd1-4061-8f46-8bd8f72fdc27",
+    "5299a656-a05c-4d25-8c86-75b55acc4dd0",
+    "5825fbfd-2b1b-47c3-a0a3-4f22d5c59bb5",
+    "594e8b87-d1e0-4af6-ba4e-5923ebe91dc5",
+    "7622474d-2823-4480-9103-e804c380c849",
+    "7f4603e3-8dc2-4569-bdc8-450d7b81cc64",
+    "7fbf6195-8ccb-48e5-a2e4-8b3f00a685c2",
+    "8150b4b6-d1c2-4a94-b6f4-27ed64c21cdc",
+    "b29cefa6-19b8-4ea4-9257-1bb0e5b80ab5",
+    "c6cb59ae-9f09-4910-b54d-583a006cd8a4"
+  ],
+  "updated_at": "2026-09-28T09:25:50.311Z"
+}

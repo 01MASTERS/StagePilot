@@ -1,0 +1,109 @@
+{
+  "user_id": "U-00939",
+  "profile": {
+    "user_id": "U-00939",
+    "signup_at": "2026-07-05T04:18:20.286Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T16:39:43.002Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-07-05T04:18:20.286000+00:00",
+      "source": "profile",
+      "observed_at": "2026-07-05T04:18:20.286Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-30T12:39:37.874Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-30T12:39:37.874Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-30T12:39:37.874Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-30T12:39:37.874Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T12:45:28.517Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:47:26.748Z",
+      "deadline": "2026-10-08T04:47:26.748Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:47:26.748Z"
+    }
+  ],
+  "completed_episodes": [
+    "guka-kosusa-d2-s1e1"
+  ],
+  "slug_progress": {
+    "guka-kosusa-d2": "guka-kosusa-d2-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "b50db33a-501c-461e-877c-a58fd8d22cbf"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-30T12:42:41.967Z",
+  "last_play_by_slug": {
+    "guka-kosusa-d2": "2026-09-30T12:42:41.967Z"
+  },
+  "last_app_open_at": "2026-09-30T12:39:37.874Z",
+  "active_days_ist": [
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "41a6e236-9d22-4090-a410-cb48464f6d7f",
+    "45371657-add4-4f72-b362-9328e511cd24",
+    "7ad83f9f-6e3d-44b0-b82c-7bd1b6570b44",
+    "9603fc51-a496-4c87-a8da-9c09716f5bb4",
+    "a3eeab5a-4eab-4a0e-8291-193f16ed42f4",
+    "ac77d0ab-491d-4776-a5fe-7e6def8a2e39",
+    "b8ab685c-2427-4565-a251-9291e47bc842",
+    "be170820-c540-4c52-b0e2-a78fe427fbed",
+    "de60b858-9c56-447d-8abe-cb4923a8b9b4"
+  ],
+  "updated_at": "2026-10-08T04:47:26.748Z"
+}

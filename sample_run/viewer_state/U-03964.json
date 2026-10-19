@@ -1,0 +1,146 @@
+{
+  "user_id": "U-03964",
+  "profile": {
+    "user_id": "U-03964",
+    "signup_at": "2025-04-13T06:54:58.272Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T05:49:21.046Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-04-13T06:54:58.272000+00:00",
+      "source": "profile",
+      "observed_at": "2025-04-13T06:54:58.272Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-07T01:28:57.035Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-07T01:28:57.035Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-07T01:28:57.035Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-07T01:28:57.035Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T16:26:07.468Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-27T16:25:16.813Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "guka-kosusa-d2-s1e1"
+  ],
+  "slug_progress": {
+    "guka-kosusa-d2": "guka-kosusa-d2-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 3,
+    "Devotional": 3
+  },
+  "play_sessions": [
+    "b73f656a-7680-4cd8-9474-6c3127224aba",
+    "d870026c-ddc2-407a-ba8f-52639884cc90",
+    "f5ed6ff5-c261-4988-aa73-c2962906cf40"
+  ],
+  "total_plays": 3,
+  "total_completes": 1,
+  "last_play_at": "2026-09-24T13:48:05.992Z",
+  "last_play_by_slug": {
+    "guka-kosusa-d2": "2026-09-24T13:48:05.992Z"
+  },
+  "last_app_open_at": "2026-09-27T16:25:16.813Z",
+  "active_days_ist": [
+    "2026-09-07",
+    "2026-09-10",
+    "2026-09-11",
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-24",
+    "2026-09-27"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-08T01:28:55.594000+00:00",
+      "ist_day": "2026-09-08"
+    },
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-11T01:28:18.429000+00:00",
+      "ist_day": "2026-09-11"
+    }
+  ],
+  "idempotency_keys": [
+    "04bfe7ed-8bb8-4eb7-8e2a-367f22f605e7",
+    "05a5af10-f835-4ed7-81f8-f1bd443308c8",
+    "11c4e6d3-29c3-4c1b-bd1c-44a6b07f92bf",
+    "24dbdb0c-035b-453c-a131-6a6917040f1c",
+    "2e6abe3a-1181-4690-b3f9-3a43ff79ad79",
+    "31072c4f-c7a6-432d-b4be-792bd1ebd67f",
+    "3b94081f-c430-435f-b7d5-bf1742a4d12c",
+    "3c2c27db-06b2-460d-b86d-74259fc5500a",
+    "437f899f-b585-4692-9337-e17dc062111d",
+    "44bee165-1ee3-4a2f-b216-174efffd1773",
+    "52b91798-5650-4fca-ae49-00f0aceeec1b",
+    "56d6a23f-d95c-4f8f-89c9-d27b3f521593",
+    "6aff9722-33bf-49a2-8f03-4b3c74f3d574",
+    "73bde125-ec43-4820-95dd-d06c9e5589ea",
+    "75429081-c4b1-422f-9d34-b21603949ddd",
+    "7a94adcb-20a8-483b-be6c-6f3ecf2debd0",
+    "7f40bd2b-31f6-48b4-801b-b606498e6cb9",
+    "82386297-678c-4e81-be15-ab600277fa3f",
+    "86c6ed5a-1d50-4148-ae12-60ac7d625219",
+    "8ec7a373-30d1-48e5-8a3d-75de1b920ea1",
+    "9a27d99a-eef4-4ce3-98b5-fab76991e6d0",
+    "a6d12b3c-c5d5-47d3-a14b-c37da3e542c0",
+    "a7999e5f-5fb5-4d8c-ae16-5b4e118e73ff",
+    "a9730df9-33c7-4c96-b47d-b00bd81f3c46",
+    "ad3ccdd8-a503-4a06-9004-c2fbb5562b84",
+    "ad6bc817-6de9-42f4-af7b-6f1db1509c57",
+    "b460cb67-deb0-40ee-a34e-308afbecfe7f",
+    "bb97b295-52b4-4801-b814-464801bae046",
+    "df0022b3-53d6-4fb0-bed1-f1f2cf1a65ec",
+    "ead90d06-bef2-4f55-bfa9-00b9d3d5435f",
+    "eb02c306-c2db-43a5-a948-188224a2b737",
+    "efd05912-587d-4281-9fda-16f1651e713a",
+    "f4fabff6-ca37-499d-9794-5fe6a7e11950",
+    "f6542012-43e4-404e-8e54-5c259750c9f9"
+  ],
+  "updated_at": "2026-09-27T16:26:07.468Z"
+}

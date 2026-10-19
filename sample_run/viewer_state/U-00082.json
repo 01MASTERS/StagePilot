@@ -1,0 +1,90 @@
+{
+  "user_id": "U-00082",
+  "profile": {
+    "user_id": "U-00082",
+    "signup_at": "2026-08-31T21:29:42.247Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T08:22:37.328Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-08-31T21:29:42.247000+00:00",
+      "source": "events",
+      "observed_at": "2026-08-31T21:29:42.247Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-08-31T21:29:42.247Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-08-31T21:29:42.247Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-08-31T21:29:42.247Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "None",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-08T04:36:42.921Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "gibha-bhalomo-d2-s1e1"
+  ],
+  "slug_progress": {
+    "gibha-bhalomo-d2": "gibha-bhalomo-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1
+  },
+  "play_sessions": [
+    "aaa093a4-3b8e-47ca-8dd9-d36d7f8c89c9"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-08T04:37:47.338Z",
+  "last_play_by_slug": {
+    "gibha-bhalomo-d2": "2026-09-08T04:37:47.338Z"
+  },
+  "last_app_open_at": "2026-09-08T04:36:42.921Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-08"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "17e050ce-8c8f-4b02-bfe3-ea47cc1c68f4",
+    "48392718-40bf-49fa-897f-0c2d9061e293",
+    "4a613d5d-99ad-4fec-80ff-898b5ab0ffb8",
+    "529fa4b5-27ac-489b-a35f-93e3ae790bcd",
+    "9c3e653f-35bc-4a31-b4d4-19a49a0369b6",
+    "a21de463-78d4-4c36-956a-5dfc2d78c6cd",
+    "a5fafa5a-51c2-4dae-8af7-4ff428b6f480",
+    "b95e4972-23cb-4bd7-87fd-4035a76c7963",
+    "ce1cab62-7e97-4ae7-abc4-5e98d9430ce3",
+    "ef671fa9-ed00-4ced-a437-39194a40cc2b",
+    "fc929af4-39e0-4e67-8ebc-1aee6aa6b063"
+  ],
+  "updated_at": "2026-09-08T04:40:33.661Z"
+}

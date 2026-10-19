@@ -1,0 +1,131 @@
+{
+  "user_id": "U-00097",
+  "profile": {
+    "user_id": "U-00097",
+    "signup_at": "2024-11-07T20:37:34.952Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-27T03:17:23.132Z",
+    "plan_ends_at": "2026-10-27T03:17:23.132Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T19:51:25.445Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-11-07T20:37:34.952000+00:00",
+      "source": "profile",
+      "observed_at": "2024-11-07T20:37:34.952Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-27T03:17:23.132Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-01T15:20:15.217Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T15:20:15.217Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-01T15:20:15.217Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T03:17:23.132Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G02",
+      "name": "first_full_episode_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:27:23.429Z",
+      "deadline": "2026-10-04T15:27:23.429Z",
+      "rule_version": "2026-09-30",
+      "success_event": "episode_completed",
+      "success_condition": "any episode",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T15:27:23.429Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Drama": 1,
+    "Thriller": 1,
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "7298c8fc-b6c1-4bb4-9712-132278ec14d6",
+    "788f4b6c-0e2c-4c43-ac35-9dc5a00a45f4"
+  ],
+  "total_plays": 2,
+  "total_completes": 0,
+  "last_play_at": "2026-09-26T15:35:09.808Z",
+  "last_play_by_slug": {
+    "rava-baya-d1": "2026-09-05T02:53:18.244Z",
+    "pipaka-suni-d1": "2026-09-26T15:35:09.808Z"
+  },
+  "last_app_open_at": "2026-09-26T15:32:09.116Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-05",
+    "2026-09-17",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0a47840f-caa4-4efb-b74d-c0c5391b03ff",
+    "1a1c947b-17e1-475d-b45e-26438b9535ae",
+    "1d91b283-bbd0-4a1b-8c88-12633775e735",
+    "3f3bada7-b131-4c75-be3b-0366bcaf14ac",
+    "49454444-7bc2-4e19-9459-5ffa092cccd9",
+    "590f05da-a67e-4cf6-a636-d6031b1dfd42",
+    "6a9a2bf7-c4c1-4c7d-8837-4790a25e6c8e",
+    "6df2817e-fbd9-4229-9746-7e0affb2031c",
+    "74e4f742-30da-4b1b-8291-1def7b890a40",
+    "892ecd58-26e1-4f0e-b4ba-de1adc4e3f2b",
+    "8bf65c40-40b1-4424-ba74-e70302a06997",
+    "940239e7-3236-4a4d-af75-de71ec6fbff2",
+    "a811bb10-1be3-42ae-adb6-e017535d789d",
+    "bad3bbe1-6bea-4877-b654-9bb9b4360e6f",
+    "bd65c36a-0e9f-4985-91a2-241059dc2dc3",
+    "bfbd9341-8306-42be-8a9c-330f978e6ff6",
+    "c3d7877f-7db8-45f0-894c-9468469a76f3",
+    "d404f37f-4d57-4580-915a-63ecc1666ee0",
+    "d86f8d79-454a-468b-b60a-40daa3cff755",
+    "dc5d213c-6aee-4a03-85b0-31f617b1f001",
+    "e276a60d-b619-4e2e-985c-1dc3ec5ea461",
+    "e807ecf6-6cad-4021-88da-cae11fb3aa6e",
+    "ee318259-0c97-4935-9046-ad1a7391d841",
+    "f072d84b-4957-47a5-9f69-cb5aa4901397",
+    "f43ce229-3cca-464f-ae88-9815d78e94a2",
+    "f5e73211-a570-40b6-948b-0e994074180b"
+  ],
+  "updated_at": "2026-10-04T15:27:23.429Z"
+}

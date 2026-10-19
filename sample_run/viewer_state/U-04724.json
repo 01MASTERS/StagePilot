@@ -1,0 +1,135 @@
+{
+  "user_id": "U-04724",
+  "profile": {
+    "user_id": "U-04724",
+    "signup_at": "2025-03-21T17:24:20.021Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-02T14:33:32.051Z",
+    "plan_ends_at": "2026-10-02T14:33:32.051Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T08:35:12.322Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-03-21T17:24:20.021000+00:00",
+      "source": "profile",
+      "observed_at": "2025-03-21T17:24:20.021Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-02T14:33:32.051Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-01T17:03:58.920Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T17:03:58.920Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T17:03:58.920Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T13:30:25.140Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-15T07:52:44.441Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "haya-kani-d5-s1e1"
+  ],
+  "slug_progress": {
+    "haya-kani-d5": "haya-kani-d5-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 1,
+    "Devotional": 1,
+    "Comedy": 1
+  },
+  "play_sessions": [
+    "104bcf62-e966-48ac-8b0f-a760dd6d5305",
+    "ffddfb6a-9b0d-4de3-8b48-3ae513508282"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-15T07:55:11.978Z",
+  "last_play_by_slug": {
+    "haya-kani-d5": "2026-09-01T17:05:44.155Z",
+    "rigu-d5": "2026-09-15T07:55:11.978Z"
+  },
+  "last_app_open_at": "2026-09-27T13:29:57.050Z",
+  "active_days_ist": [
+    "2026-09-01",
+    "2026-09-06",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-15",
+    "2026-09-20",
+    "2026-09-23",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0aa6371f-afa1-4e07-9ef7-5c8b6956b764",
+    "1ad364b7-2494-4627-b4ed-511b8ace9a5a",
+    "21694528-c8a6-410f-8921-519bcf7a2952",
+    "25ef379f-cb20-45a2-9f61-cda4f7a0f70e",
+    "34007770-db87-4749-b27f-cdb8c873e2e3",
+    "3b235fe2-b66f-4d7f-a791-f2355ad500de",
+    "45019c7c-4374-4e09-9856-47542c890100",
+    "479bc2e4-9efb-4997-b717-2b0d4e342103",
+    "505f4281-5f26-470d-80f6-c5cf5963b7b5",
+    "55b666bf-d9de-4d00-850d-3d1ffaa3c7b5",
+    "560be6c6-ee24-4471-b4da-c9131a253dd3",
+    "5f2afc6f-da95-4733-9333-29ebea6b050c",
+    "6af1b13f-f132-452b-837a-c9f7115ab1f4",
+    "6c17e538-ecad-4ae3-b31f-334d3b2fbe7a",
+    "6c89ee1a-63bf-46f3-9c48-a1f117eb6c25",
+    "87d109bd-d8ca-40fe-9c2c-ad621aeaf240",
+    "885333ba-cace-4c2b-adc2-5ec5be5de84b",
+    "8a34d67b-4984-43f3-aeaf-0a378da96cb8",
+    "8c26b58d-c85a-4017-b496-13fddef1e738",
+    "93d8a12e-f7d7-4bca-9a7e-923dd13cc4c9",
+    "958bff47-bbb7-4116-9467-0714b59966ac",
+    "9bc3d402-c7e3-4749-92bd-eb0817d346d1",
+    "9bd6c581-bae6-47e4-878a-0d750687b43c",
+    "a392d783-dcc9-443e-afcf-33ceb36f3c5a",
+    "af1d5b2a-d854-407d-9427-9279665bc098",
+    "b2244c15-ce56-404f-ba1f-2b1d86b1ad38",
+    "b979640b-e968-4e15-ba45-a348a44f3b62",
+    "b9f5d655-6550-49d5-984a-3bdcfea6080d",
+    "bdfdf577-a583-4dfc-9657-9e1642ac843e",
+    "c144ae34-a9d3-4690-b656-1f26ccf54cb8",
+    "c9191fff-9064-4349-b072-f9403f4176ff",
+    "dc7c30a6-9b96-429c-9e92-ab33ecf702f0",
+    "f00989ae-5f36-4b24-8eb5-efa7c5cdca27",
+    "f579934b-3870-4136-9c30-acb769d00109"
+  ],
+  "updated_at": "2026-09-27T13:30:25.140Z"
+}

@@ -1,0 +1,137 @@
+{
+  "user_id": "U-00016",
+  "profile": {
+    "user_id": "U-00016",
+    "signup_at": "2025-11-07T18:10:50.445Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-06T12:55:32.542Z",
+    "plan_ends_at": "2026-10-06T12:55:32.542Z",
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T12:39:34.977Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-11-07T18:10:50.445000+00:00",
+      "source": "profile",
+      "observed_at": "2025-11-07T18:10:50.445Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-06T12:55:32.542Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-06T03:31:17.862Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T03:31:17.862Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-06T03:31:17.862Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-24T17:22:18.032Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-15T17:14:46.807Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "yane-tegi-d3-s1e1"
+  ],
+  "slug_progress": {
+    "yane-tegi-d3": "yane-tegi-d3-s1e1"
+  },
+  "genre_plays": {
+    "Comedy": 1,
+    "Romance": 1,
+    "Thriller": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "7d27fbff-3a1c-4d25-9e43-11ebe260d5a1",
+    "d3b95d9c-bf75-4ff7-b95f-a41f61acac55"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-13T05:58:47.887Z",
+  "last_play_by_slug": {
+    "pate-kari-d3": "2026-09-06T03:33:02.316Z",
+    "yane-tegi-d3": "2026-09-13T05:58:47.887Z"
+  },
+  "last_app_open_at": "2026-09-24T17:22:18.032Z",
+  "active_days_ist": [
+    "2026-09-06",
+    "2026-09-10",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-15",
+    "2026-09-20",
+    "2026-09-24"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0f6948e7-5d04-4b83-b66f-57ff1a520505",
+    "117a95e8-2466-403c-9410-d5684a2fc426",
+    "1468e0c4-f11b-4c10-95fe-503bb08dfbe1",
+    "168204bb-d602-45fc-95f0-4bb2dbfc7fbf",
+    "2012dbb1-f0a8-4e41-bef1-aee28b9d9df0",
+    "3706de65-97ba-446d-822f-6a525162eb61",
+    "4240c354-8ca8-439c-9543-a276c82d39bf",
+    "450ef2ee-a3c0-4d5e-867a-f2ef404147ce",
+    "49141674-f903-4907-aa62-35d0405b7f87",
+    "7575d547-61a6-4eae-ae82-8e8e7d285b1b",
+    "7acb30b5-a6a8-41a6-b53c-e8abb15e5d29",
+    "849f60d6-413c-4bd0-9d3c-c82c27a01744",
+    "8987acfc-d7c2-4f4e-b91a-fb7cf1163655",
+    "8e418d6b-e4f6-4a17-b79e-7bb938c706c2",
+    "8ec827af-6970-4a26-b522-5521d31af50d",
+    "97758b1f-7966-450d-a321-f2ae74ddf1be",
+    "a4a335c5-5772-4b28-9ba4-c858de6128bc",
+    "a62b8344-c642-479a-a19e-b85e92944766",
+    "a6407048-b47a-4181-85da-3a373945d7f4",
+    "a962b7e7-9f0c-4c86-81fb-578dc3f9a841",
+    "b2a86c9b-ed59-4d15-8278-14e20af9a4f6",
+    "b31e0eaf-42eb-4e7f-8920-787c87b4501a",
+    "b5bc07d9-bc76-4512-bb54-4e2a5d143493",
+    "c3a0d3da-d99e-469a-a195-c0309051be23",
+    "d10ee16e-fab3-4fd4-b4eb-ae0a90d233d2",
+    "d47837b3-229f-4007-98c7-c78ef9c713e6",
+    "d868e735-7335-494f-b0b1-7a4a80d3c3b0",
+    "d8ad7da5-883d-440e-976f-6c50d2791f27",
+    "dc60fe2d-43ba-413c-8897-8820ef7449b8",
+    "e5aaf035-8434-4d17-b538-868602147762",
+    "eb8342e7-3d1a-45e8-afbf-605716fed4d3",
+    "ebe1bbd5-4ea1-4430-8fcb-4776badf2985",
+    "ee1dc7ea-845b-40a0-a072-7c4ef9af2d8d",
+    "f6e92f2e-c82a-4f9f-b849-dc06520ee5cf",
+    "fae0ad3d-5249-4f65-b8c0-d401be2df7e7",
+    "fdb49b43-6fa9-4c33-b730-031b1e592ee0"
+  ],
+  "updated_at": "2026-09-24T17:22:18.032Z"
+}

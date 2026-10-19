@@ -1,0 +1,101 @@
+{
+  "user_id": "U-03578",
+  "profile": {
+    "user_id": "U-03578",
+    "signup_at": "2026-01-31T23:32:21.828Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T13:28:42.640Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-01-31T23:32:21.828000+00:00",
+      "source": "profile",
+      "observed_at": "2026-01-31T23:32:21.828Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-21T15:21:13.289Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-21T15:21:13.289Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-21T15:21:13.289Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-21T15:21:13.289Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T04:38:07.674Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "SUCCEEDED",
+      "started_at": "2026-10-01T17:06:59.190Z",
+      "deadline": "2026-10-08T17:06:59.190Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [
+        "oua-022607"
+      ],
+      "resolved_at": "2026-10-01T17:46:38.887Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-29T04:37:43.764Z",
+  "active_days_ist": [
+    "2026-09-21",
+    "2026-09-24",
+    "2026-09-26",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "122cec30-4d6c-4659-8655-896c8941a3cd",
+    "33854da0-7532-428b-b0c7-0d629c56f892",
+    "4f5b9605-d043-4e62-85d6-93643d8b67f8",
+    "612de48e-b8ef-42e9-94c4-d1d4f79f9102",
+    "8c9e8925-af67-4ceb-baea-785dd73a3c62",
+    "909d7a5e-2079-4393-98b4-9d847f19f368",
+    "e98d83fc-e03a-4aa9-8c14-3fd954a33978"
+  ],
+  "updated_at": "2026-10-01T17:46:38.887Z"
+}

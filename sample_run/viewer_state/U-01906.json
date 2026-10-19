@@ -1,0 +1,111 @@
+{
+  "user_id": "U-01906",
+  "profile": {
+    "user_id": "U-01906",
+    "signup_at": "2026-09-16T16:24:43.097Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T11:14:49.102Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-16T16:24:43.097000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-16T16:24:43.097Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:43.097Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:43.097Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:43.097Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T16:08:34.310Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-16T16:25:07.230Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "daya-d4-s1e1"
+  ],
+  "slug_progress": {
+    "daya-d4": "daya-d4-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 1,
+    "Family": 2,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "0d1a830d-0903-4406-b06c-403cef3e84f9",
+    "406b50f1-6120-4ec2-94ed-01acea6e5564"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-22T14:51:27.413Z",
+  "last_play_by_slug": {
+    "gineni-d4": "2026-09-16T16:28:13.949Z",
+    "daya-d4": "2026-09-22T14:51:27.413Z"
+  },
+  "last_app_open_at": "2026-09-27T16:08:15.989Z",
+  "active_days_ist": [
+    "2026-09-16",
+    "2026-09-22",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "10f0ec1d-5bc9-43a5-86d3-5b74be6f7956",
+    "13ff05a0-31a7-4b67-a962-1a4aac314f24",
+    "182c3ac1-1c72-4e35-b360-dd03837352ad",
+    "1dba24f8-4e0c-465c-9ea8-8ba842ebafea",
+    "1fd7e124-a163-401a-8c77-5cede8865d7c",
+    "232dfb65-ce8b-4cb5-b3c9-a4aebce92f38",
+    "32c190cb-03e5-46d8-81cc-2718be97c765",
+    "45ab11d5-c439-4d97-8de7-cce77c230307",
+    "532e3b44-4d08-46c0-a142-066129918331",
+    "793b8b37-bcb1-4841-8228-aff81722e86b",
+    "80264ca7-6d4a-4202-ac73-7b72034cbb87",
+    "93ec1ec4-1d01-4782-a2a7-e4ad2830f3b0",
+    "aa55cd6e-67e8-4978-b7f2-d3356fc1e6ba",
+    "aa86e708-2771-40dc-8606-ebba7373dd6e",
+    "afb61d3c-4751-477c-9980-201737d462fc",
+    "b9a8266e-748f-480a-ae9b-617f701e1d5f",
+    "c786897f-c3f8-4941-a206-ab69ea2eb730",
+    "d02066e5-bb5b-42de-b67a-2a38055f1baf",
+    "d45e94f3-3360-435b-918f-814b398bb7f5",
+    "deceb512-62f3-4257-b139-69ada8e3d7a8",
+    "ed0bc965-01b8-439f-9bba-4c706d0ed33a"
+  ],
+  "updated_at": "2026-09-27T16:08:34.310Z"
+}

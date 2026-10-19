@@ -1,0 +1,141 @@
+{
+  "user_id": "U-00868",
+  "profile": {
+    "user_id": "U-00868",
+    "signup_at": "2026-05-09T12:50:12.680Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T17:17:19.414Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-05-09T12:50:12.680000+00:00",
+      "source": "profile",
+      "observed_at": "2026-05-09T12:50:12.680Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-08-31T19:16:25.030Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-08-31T19:16:25.030Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-08-31T19:16:25.030Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-08-31T19:16:25.030Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-01T17:38:23.859Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-01T17:37:12.651Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:08:38.003Z",
+      "deadline": "2026-10-08T15:08:38.003Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T15:08:38.003Z"
+    }
+  ],
+  "completed_episodes": [
+    "bhaja-moguba-d2-s1e1",
+    "neba-d2-s1e1"
+  ],
+  "slug_progress": {
+    "neba-d2": "neba-d2-s1e1",
+    "bhaja-moguba-d2": "bhaja-moguba-d2-s1e1"
+  },
+  "genre_plays": {
+    "Crime": 1,
+    "Devotional": 1,
+    "Thriller": 2
+  },
+  "play_sessions": [
+    "3c202ffb-89c6-48fb-adaa-551028653f2d",
+    "93162b6a-bfd9-4420-a89e-1658729c3c92",
+    "9494bce3-d972-41df-a571-5c820b2a34f5"
+  ],
+  "total_plays": 3,
+  "total_completes": 2,
+  "last_play_at": "2026-09-01T17:17:30.748Z",
+  "last_play_by_slug": {
+    "neba-d2": "2026-08-31T19:18:17.130Z",
+    "bhaja-moguba-d2": "2026-09-01T17:17:30.748Z"
+  },
+  "last_app_open_at": "2026-09-01T17:37:12.651Z",
+  "active_days_ist": [
+    "2026-09-01"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "00344a5f-b2ba-4987-baaf-0ecb43c53da8",
+    "083d5e77-2bd8-4ecb-99b9-1b03822a0d2e",
+    "0c00e1d3-7552-4d19-9ef7-9e69ad47c0b9",
+    "0c112027-8376-46b7-8a02-8a94c5b8c956",
+    "2a09ae71-a637-4464-9e0b-35aa7488a8bd",
+    "31008216-5602-4220-af17-ab8e5da39813",
+    "32281b9c-b815-403f-b42e-428f553b03a1",
+    "38261703-c7e7-4fa6-a300-9794c7e27264",
+    "3b161906-5cd0-4a12-a18e-a819c976dd9f",
+    "5e4da13a-0c88-4f10-b01c-ecfba34fa8ef",
+    "6b2a17f1-4142-4d79-a39b-4e1cd8b87dd3",
+    "8747a761-1328-46d6-9dec-e66ea5ae1a14",
+    "8a731481-fdaf-441e-aa3f-d1ba8a9ef072",
+    "96f332f6-8e0a-4d1c-949f-83ec9d5e9954",
+    "9920091a-5612-4262-8b08-dd4d01037a9d",
+    "9a8a6bc6-64c5-484e-992e-635ea94f600e",
+    "9d8e3f09-12c8-4f3c-beeb-5b48091782da",
+    "b054ab2f-9685-4437-8180-859562c4d9c8",
+    "bd780b01-3f40-4127-af8c-8d639e1ee084",
+    "c2c3ee8a-0229-42be-8b00-001ca5e5c149",
+    "c4e3d043-05d4-4fe3-be11-57799c3c0cab",
+    "cd1d21e6-f651-41c7-b590-2641881c9acc",
+    "cdeeeef0-c15b-4fc9-9bb4-30363fe07f1b",
+    "d3cb640e-9ca2-4f91-9f5c-96855508715c",
+    "dc26e3d4-10f2-4da1-ac2f-196aa720de36",
+    "e0fc22cf-2328-44b3-a10e-b4535f061263",
+    "e8332c76-6665-4d6d-9361-ca5d88aebaaa",
+    "f499e8da-f22b-4452-9242-864593bca9f9",
+    "f8d575ba-597f-4c58-b077-9cfc095ca121"
+  ],
+  "updated_at": "2026-10-08T15:08:38.003Z"
+}

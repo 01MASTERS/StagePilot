@@ -1,0 +1,130 @@
+{
+  "user_id": "U-04805",
+  "profile": {
+    "user_id": "U-04805",
+    "signup_at": "2026-02-03T01:49:34.589Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-03T02:31:07.752Z",
+    "plan_ends_at": "2026-10-03T02:31:07.752Z",
+    "preferred_dialect": "d2",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T20:36:24.041Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-02-03T01:49:34.589000+00:00",
+      "source": "profile",
+      "observed_at": "2026-02-03T01:49:34.589Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-03T02:31:07.752Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-03T02:31:07.752Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T02:31:07.752Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T02:31:07.752Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T16:04:31.380Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d5",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-15T09:36:04.554Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "rasuya-moni-d6-s1e1"
+  ],
+  "slug_progress": {
+    "rasuya-moni-d6": "rasuya-moni-d6-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 2,
+    "Thriller": 2
+  },
+  "play_sessions": [
+    "dea5278a-7208-4078-b070-ce3f11512ef8",
+    "f18d583c-8a43-4659-a97b-4eaf8d1bdc69"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-18T08:51:29.403Z",
+  "last_play_by_slug": {
+    "rasuya-moni-d6": "2026-09-18T08:51:29.403Z"
+  },
+  "last_app_open_at": "2026-09-27T16:03:51.158Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-07",
+    "2026-09-08",
+    "2026-09-15",
+    "2026-09-18",
+    "2026-09-22",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0108b5cd-5fbb-486f-bc39-8a26ca969a62",
+    "026ca59c-b585-415e-998b-198cb4e4287b",
+    "02fb90aa-6be7-4d56-b440-44a8848849bc",
+    "07c759a3-d366-4b42-8055-24bc6af65b92",
+    "1cef9e2d-a914-4c29-be1b-b408ef996b7d",
+    "301d2fcc-f34b-4523-a0c9-4bafdf457c5d",
+    "331e5300-18f8-4e76-a095-2ff848245d7a",
+    "40e09152-54be-48f0-a24b-b416437b29ba",
+    "4f96b1a2-bb0d-4e13-9dc3-7da4ed971068",
+    "50c34ee2-5446-48d7-83a2-c72c141fb432",
+    "61186792-21f2-404b-ab2b-0156ec73eb66",
+    "614ae4e8-b510-4f5c-befa-83a8fa378095",
+    "696b61e8-1590-4134-a767-767ee9559a24",
+    "7398970b-b425-47c8-ab65-89085df53d61",
+    "75a2b9b8-78a8-4835-8184-5d091eb65baa",
+    "7ba68b1a-9658-4e15-90a4-c1685bbd4bd9",
+    "80e0d1c5-d737-4714-8e62-3925265849ee",
+    "815845d5-574c-46fc-a9c8-3b1edab6ddb4",
+    "932f2e0a-3716-4da9-8f96-dd3e34c42e66",
+    "abf3f8ca-8876-40df-b558-6b0d3e703b88",
+    "b345327b-e884-49ec-909f-29faf5fd586f",
+    "b46f6796-cba6-4a7b-945c-cbc60749007a",
+    "c6db15f2-1f54-4ed1-8d8c-a31db27872b7",
+    "cbe25815-9967-4f78-9d84-3d6d603b7ef9",
+    "d157c1cc-d20e-423a-93c3-772a8282d385",
+    "d94a895f-27ed-4289-89f5-4f6e5dcd5bc8",
+    "e4832293-fefc-43a2-b7a1-10297fec1035",
+    "e4fe9369-bed6-46c8-988d-c793349ebc3a",
+    "e6366949-00e9-4ba5-93e3-b83976301e3e",
+    "e93beb11-8a43-4ae2-8f86-68ff9099b865",
+    "ee0ba63b-3635-4bfe-890e-e16315d70f06",
+    "f344b686-effb-4bf5-aea3-10f7c0cf907c"
+  ],
+  "updated_at": "2026-09-27T16:04:31.380Z"
+}

@@ -1,0 +1,113 @@
+{
+  "user_id": "U-02241",
+  "profile": {
+    "user_id": "U-02241",
+    "signup_at": "2026-09-17T01:23:36.813Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T08:45:17.366Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-17T01:23:36.813000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-17T01:23:36.813Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-17T01:23:36.813Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-17T01:23:36.813Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-17T01:23:36.813Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T16:24:55.043Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T13:10:40.905Z",
+      "deadline": "2026-10-08T13:10:40.905Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T13:10:40.905Z"
+    }
+  ],
+  "completed_episodes": [
+    "nipi-maniba-d2-s1e1"
+  ],
+  "slug_progress": {
+    "nipi-maniba-d2": "nipi-maniba-d2-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 2
+  },
+  "play_sessions": [
+    "39ae8555-8316-41bb-8b76-16fad6da47ae",
+    "ee38bc24-d366-44f4-8352-0b4982ec0596"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-26T14:42:28.901Z",
+  "last_play_by_slug": {
+    "nipi-maniba-d2": "2026-09-26T14:42:28.901Z"
+  },
+  "last_app_open_at": "2026-09-26T14:40:16.998Z",
+  "active_days_ist": [
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "007990d0-0c6d-4935-aeb0-b691fec34bec",
+    "017dfb83-7659-48a1-93b7-50247b72de30",
+    "0287cce3-555d-48ad-9003-6451e229b4e8",
+    "05777bc5-07ec-4584-bd57-2cd4f4732369",
+    "49e64cce-3adf-4669-accd-6dea2a8fb875",
+    "6cbfc660-993e-4a72-9ea3-ee61c8522e33",
+    "71685bb7-77c9-4ab8-b55a-57f09035f36b",
+    "917c40dc-e319-4645-b202-199303cd5f84",
+    "93aa89b3-3eae-4350-a7da-d860f675fdc7",
+    "b02771f9-00a3-419a-bbb0-8e73e104f57d",
+    "b63b8291-147e-4348-b2cc-d31ed19161b9",
+    "b6747da2-77cc-4bc8-b497-3a8785811af7",
+    "e075db78-f4f2-448e-8875-e5c181bb4b85",
+    "e1ed3060-ebc8-44ae-b0ae-d81e72a0cf26",
+    "ef971a3d-04b9-49b9-bfd7-b4aa25b4e33c",
+    "fb1ba4bf-b070-4072-a1a1-165cbe263186",
+    "fcd5ad1e-ac2a-4d69-880e-7bf51513536f"
+  ],
+  "updated_at": "2026-10-08T13:10:40.905Z"
+}

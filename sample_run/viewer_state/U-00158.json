@@ -1,0 +1,83 @@
+{
+  "user_id": "U-00158",
+  "profile": {
+    "user_id": "U-00158",
+    "signup_at": "2026-03-04T19:36:32.265Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-08T02:59:53.508Z",
+    "plan_ends_at": "2026-10-08T02:59:53.508Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T11:48:28.181Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-04T19:36:32.265000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-04T19:36:32.265Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-08T02:59:53.508Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-05T04:29:10.280Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T04:29:10.280Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T04:29:10.280Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-08T02:59:53.508Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-08T02:51:39.648Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-08"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0a4afb73-fddf-4f5a-aecf-aae832e91e72",
+    "1f8e6973-bd7c-469f-a615-40a62215b8f2",
+    "3b6ffde8-db39-41cd-864b-f2295c7597b9",
+    "5346c422-ea6e-45df-b9dd-ea6861a01239",
+    "5b120bb7-a062-42a8-984b-acbe80731216",
+    "a6c01a85-d412-4a2c-9afa-65c40998aa6a",
+    "d9e47e97-df42-462f-b8fd-f6d3a743a394",
+    "f98cbd7b-dca4-4844-8dd3-125e58e8a729"
+  ],
+  "updated_at": "2026-09-08T02:59:53.508Z"
+}

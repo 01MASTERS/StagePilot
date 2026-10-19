@@ -1,0 +1,131 @@
+{
+  "user_id": "U-04267",
+  "profile": {
+    "user_id": "U-04267",
+    "signup_at": "2025-06-16T17:00:06.397Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T06:02:41.838Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-06-16T17:00:06.397000+00:00",
+      "source": "profile",
+      "observed_at": "2025-06-16T17:00:06.397Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-22T14:36:10.262Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-22T14:36:10.262Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-22T14:36:10.262Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-22T14:36:10.262Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-27T08:22:53.775Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-25T06:21:54.348Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T16:20:34.043Z",
+      "deadline": "2026-10-08T16:20:34.043Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T16:20:34.043Z"
+    }
+  ],
+  "completed_episodes": [
+    "yane-tegi-d3-s1e1",
+    "yane-tegi-d3-s1e2"
+  ],
+  "slug_progress": {
+    "yane-tegi-d3": "yane-tegi-d3-s1e2"
+  },
+  "genre_plays": {
+    "Thriller": 2,
+    "Crime": 2
+  },
+  "play_sessions": [
+    "a9f69a16-36b6-4d49-a618-8e8e52ba3c0c",
+    "db51176c-58c4-4856-a723-a38a914dc934"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-24T13:10:18.072Z",
+  "last_play_by_slug": {
+    "yane-tegi-d3": "2026-09-24T13:10:18.072Z"
+  },
+  "last_app_open_at": "2026-09-27T08:22:26.518Z",
+  "active_days_ist": [
+    "2026-09-22",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-27"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0e2798f3-7e7c-4375-a7fa-9ea05d41ac7a",
+    "23ffbd83-0f44-4538-8ae8-6f1294eafae5",
+    "24542dde-42d4-417b-8f18-dc9561229171",
+    "38fe194d-a50e-40e6-b16a-2d5d6f3c8911",
+    "3cce6fe2-20ad-49cc-a971-829f4ff28528",
+    "3e480fb8-e829-4bc2-831a-e03182b73685",
+    "5970e55d-0f09-4d8f-badc-575fc41e0ebc",
+    "64a240b2-034c-4ceb-ba4e-22efe1c7a4e9",
+    "77f16ed2-965e-4f3b-af38-1dc7591810a0",
+    "7b2f49ae-a098-439b-8e07-c81e43bb7614",
+    "9e21910a-3764-461d-ad45-f412e549256f",
+    "9e3a1f5f-3810-4535-a5e4-ee1660fdf424",
+    "a4bbdfd8-9980-454f-aa6f-f24ef301b8b1",
+    "ad859713-0418-42e7-94dd-23fb6029e600",
+    "aefc8f7a-a7e9-4ad9-b959-f9cadfe1c249",
+    "b47c4e23-db4f-4e31-af27-acadbebdfa32",
+    "ba4dbeed-bdf9-4908-aa83-f4236dca04df",
+    "bf80d38d-0e1d-4537-9208-b8e11a4f4134",
+    "c347cba1-4edf-487d-b21e-5262ec42220c",
+    "c74cbd60-17c2-46ea-b02a-7d2ee34ad591"
+  ],
+  "updated_at": "2026-10-08T16:20:34.043Z"
+}

@@ -1,0 +1,83 @@
+{
+  "user_id": "U-04295",
+  "profile": {
+    "user_id": "U-04295",
+    "signup_at": "2025-02-28T20:21:39.430Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T12:55:12.220Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-28T20:21:39.430000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-28T20:21:39.430Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-24T16:14:21.435Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-24T16:14:21.435Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-24T16:14:21.435Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-24T16:14:21.435Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-24T16:16:17.657Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Devotional": 1
+  },
+  "play_sessions": [
+    "f7b10c15-86cd-46c1-87d3-a0b82017b1e7"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-24T16:16:17.657Z",
+  "last_play_by_slug": {
+    "gubava-gihaya-d5": "2026-09-24T16:16:17.657Z"
+  },
+  "last_app_open_at": "2026-09-24T16:14:21.435Z",
+  "active_days_ist": [
+    "2026-09-24"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "09e8468d-4f71-4f1d-a3cc-e10de4378b4c",
+    "5ca18c3b-8635-4639-be21-2c1679475279",
+    "84f9e38f-8b8e-40e4-ac5f-e923f1c34fe1"
+  ],
+  "updated_at": "2026-09-24T16:16:17.657Z"
+}

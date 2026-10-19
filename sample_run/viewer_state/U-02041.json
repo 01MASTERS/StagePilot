@@ -1,0 +1,107 @@
+{
+  "user_id": "U-02041",
+  "profile": {
+    "user_id": "U-02041",
+    "signup_at": "2026-01-14T19:00:29.276Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "ios",
+    "updated_at": "2026-09-29T12:57:17.012Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-01-14T19:00:29.276000+00:00",
+      "source": "profile",
+      "observed_at": "2026-01-14T19:00:29.276Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-03T06:28:11.705Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-03T06:28:11.705Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T06:28:11.705Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T06:28:11.705Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T15:05:12.128Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-28T03:49:28.005Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "giba-hane-d2-s1e1"
+  ],
+  "slug_progress": {
+    "giba-hane-d2": "giba-hane-d2-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "251fcfc7-77d2-4690-a7f6-bc7dd71a776e"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-28T15:02:26.949Z",
+  "last_play_by_slug": {
+    "giba-hane-d2": "2026-09-28T15:02:26.949Z"
+  },
+  "last_app_open_at": "2026-09-28T15:01:23.277Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1f59ef0d-451d-4d38-a37f-aa129aa6f6db",
+    "20c6cf39-e098-4cec-8fe7-f2854240af1b",
+    "75fb2466-77c3-4575-a95d-835cd66685fb",
+    "81c0c058-646b-4a8e-bf18-6492d61cff32",
+    "8c8f04f6-35e7-4c06-a034-e2ecc82c3579",
+    "8ea1ef2b-4e40-482a-8304-7c2e6121bb95",
+    "b5360d9f-ee96-4164-b934-ed2dfc0d524b",
+    "c5f47e38-4550-4e80-9df8-13dfe8e66fdf",
+    "cbbde64b-cee0-4f97-b01a-bf0d0fd3a426",
+    "cdc411e9-0f2a-45cb-b6a4-f89cef335321",
+    "ce8919b1-7dce-42b7-a42f-3c50efd88ded",
+    "e5422f42-84e4-46bd-9d4f-d5880160ae45",
+    "ea1b1660-1d71-4a85-966a-400fa95bfbf1",
+    "eb90b36e-8d10-4cb9-858e-2f5c2f5edbb6",
+    "f04f9ed6-224b-4a91-ae30-5888389d8729"
+  ],
+  "updated_at": "2026-09-28T15:05:12.128Z"
+}

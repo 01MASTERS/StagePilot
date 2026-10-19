@@ -1,0 +1,87 @@
+{
+  "user_id": "U-03090",
+  "profile": {
+    "user_id": "U-03090",
+    "signup_at": "2026-09-18T18:49:36.741Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-18T18:59:10.054Z",
+    "plan_ends_at": "2026-10-18T18:59:10.054Z",
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T04:01:19.911Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-18T18:49:36.741000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-18T18:49:36.741Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-18T18:59:10.054Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-18T18:49:36.741Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-18T18:49:36.741Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-18T18:49:36.741Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T11:16:24.579Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-29T11:15:37.711Z",
+  "active_days_ist": [
+    "2026-09-19",
+    "2026-09-27",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "01082a36-c26a-4084-8a74-236746075560",
+    "399995fa-9b77-482c-b34c-6bd8e7cec655",
+    "3ecdbd6f-1920-494e-ac7b-b71762f03d2a",
+    "4a94d99b-d035-4fd8-b668-b60ef591cff0",
+    "50a4a0e0-b8b2-4399-8e63-1a43b1122d73",
+    "5b87cbea-1c27-42e4-8f3a-a78e3bf9d08e",
+    "64678b09-8658-41ed-9b86-b68fa48af458",
+    "ab90be22-3fbc-424b-95be-8c9336686f71",
+    "aebfaa84-9275-429b-928a-afb455b1bbd3",
+    "c2ccb8d9-95d5-4988-8764-b88ac33d9143",
+    "e53c6f2b-56c3-4b49-97b6-9d39cf1a84d2"
+  ],
+  "updated_at": "2026-09-29T11:16:24.579Z"
+}

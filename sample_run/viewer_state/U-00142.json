@@ -1,0 +1,136 @@
+{
+  "user_id": "U-00142",
+  "profile": {
+    "user_id": "U-00142",
+    "signup_at": "2026-09-11T01:43:51.380Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T07:58:36.144Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-11T01:43:51.380000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-11T01:43:51.380Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-11T01:43:51.380Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-11T01:43:51.380Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-11T01:43:51.380Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T10:04:05.207Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-13T12:51:23.392Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T06:08:32.075Z",
+      "deadline": "2026-10-08T06:08:32.075Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T06:08:32.075Z"
+    }
+  ],
+  "completed_episodes": [
+    "raloja-d1-s1e1"
+  ],
+  "slug_progress": {
+    "raloja-d1": "raloja-d1-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 1,
+    "Thriller": 1,
+    "Devotional": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "74af56da-89d9-4450-8fa5-149de9a1d9ca",
+    "d64cb85b-0f27-43dc-ba1a-f864a78d685e"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-20T01:32:15.967Z",
+  "last_play_by_slug": {
+    "rava-baya-d1": "2026-09-13T12:53:14.562Z",
+    "raloja-d1": "2026-09-20T01:32:15.967Z"
+  },
+  "last_app_open_at": "2026-09-26T10:03:11.775Z",
+  "active_days_ist": [
+    "2026-09-11",
+    "2026-09-13",
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0666a812-aa62-4957-8a55-6dc050fefd92",
+    "0889bb84-9450-4a3a-82d3-f556afdb2d30",
+    "13e5a1b6-e6c8-4ec7-bff0-65573904e1df",
+    "159c0ca7-d062-43be-9dd7-7ba52d7e8d1d",
+    "1c278749-cb76-4cb8-b4d8-fa72704c049d",
+    "1ccb9a98-7924-415c-9e97-8e0a1b08bfbe",
+    "24e7b826-77f1-4a83-a77b-cebff445be0c",
+    "2c2ed9d9-e774-4800-a3e7-f6b708471908",
+    "3e90d5c9-2215-4415-8e84-81f10f47f434",
+    "47caea27-ab56-497c-8723-04ecf828ac68",
+    "4b56b196-3394-4ace-a68f-c634ddceb705",
+    "4d133686-67ef-41b9-8c0f-dfac64322754",
+    "6c9353bf-5644-4374-8fe3-ad3f20f2a7bf",
+    "8f3474d4-3b15-4a90-bc26-3a63580444c1",
+    "967f3922-a3a0-451c-9614-1fe3d931067b",
+    "bf5a0922-ef1b-499f-883f-1d8ffaa1e5df",
+    "c72274de-8c0a-4c54-beac-c2a524876577",
+    "c96a7dbb-6fe8-410f-adf1-7e54ed8f5ac8",
+    "d659909d-3fd8-43cc-af2c-70ddf18f7143",
+    "d6b854b6-87c9-4ff6-ba65-38a4cd19f77f",
+    "d9901dd5-3410-4357-8c9e-1083448e767b",
+    "e212a075-218a-4398-a0f5-26b654742fdb",
+    "e55d9a0f-3fdc-43dc-a688-f6ef76526a66",
+    "e9fa8916-48f6-4fbe-ba9d-ce6b423b4223",
+    "eb20e486-54e3-4edc-bc9b-019ebf55fce4",
+    "f01a5911-2730-47bc-bea0-3ad39310b713",
+    "fbd1deba-1498-4b72-aa7c-68ed3f5ff855",
+    "ff093de8-9f44-4c6e-8090-035228e0a5c3"
+  ],
+  "updated_at": "2026-10-08T06:08:32.075Z"
+}

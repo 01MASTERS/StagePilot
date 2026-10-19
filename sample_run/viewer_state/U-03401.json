@@ -1,0 +1,101 @@
+{
+  "user_id": "U-03401",
+  "profile": {
+    "user_id": "U-03401",
+    "signup_at": "2025-05-21T21:33:19.243Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T15:54:56.322Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-21T21:33:19.243000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-21T21:33:19.243Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-13T11:42:26.166Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-13T11:42:26.166Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-13T11:42:26.166Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-13T11:42:26.166Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T15:48:58.770Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-13T11:42:26.166Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "bagugu-gigupi-d1-s1e1"
+  ],
+  "slug_progress": {
+    "bagugu-gigupi-d1": "bagugu-gigupi-d1-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "53d999a0-db3e-4311-b928-39aa6c3fa2fa"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-13T11:44:15.866Z",
+  "last_play_by_slug": {
+    "bagugu-gigupi-d1": "2026-09-13T11:44:15.866Z"
+  },
+  "last_app_open_at": "2026-09-28T15:48:32.461Z",
+  "active_days_ist": [
+    "2026-09-13",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "13de1afe-53b3-43b5-9797-9f73b796e358",
+    "2b4877b2-d04d-4026-8afc-93e5f6f59cd9",
+    "62fb192c-5296-4cb3-8ef2-95e479d03c84",
+    "6c0afc52-c5d1-41aa-93df-2ee547ba834f",
+    "784e0a79-d0a3-4211-b444-3efe352e7a73",
+    "81fae924-b2db-497f-a41c-01b94fb0eda4",
+    "86ebdf6a-ff08-4ca6-ba79-035fa8ec9608",
+    "f0e10f90-52db-4ff0-b18f-a9be22857bcd",
+    "fbe2832a-46cf-42af-8c70-53bf362c2973"
+  ],
+  "updated_at": "2026-09-28T15:48:58.770Z"
+}

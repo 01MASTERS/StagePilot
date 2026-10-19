@@ -1,0 +1,87 @@
+{
+  "user_id": "U-04354",
+  "profile": {
+    "user_id": "U-04354",
+    "signup_at": "2026-09-20T11:38:10.993Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:57:46.659Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-20T11:38:10.993000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-20T11:38:10.993Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-20T11:38:10.993Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-20T11:38:10.993Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-20T11:38:10.993Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-22T12:01:12.671Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Thriller": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "ba1b84d7-3425-43d3-94b0-b06383df44d9"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-20T11:41:18.225Z",
+  "last_play_by_slug": {
+    "yane-tegi-d3": "2026-09-20T11:41:18.225Z"
+  },
+  "last_app_open_at": "2026-09-22T12:00:40.429Z",
+  "active_days_ist": [
+    "2026-09-20",
+    "2026-09-22"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "3b55b5b3-0a18-4ab3-a630-d57c07fcf05f",
+    "42b0d6da-52d8-4691-bad4-fec5db5d0b80",
+    "4d5eab3a-39f9-4e39-9008-8093dc9c0775",
+    "5a59c6ee-dc41-412d-8372-6d8882be44bc",
+    "5e64b5f7-ee1e-435c-9ac1-83fe389a00b7",
+    "602441ff-c654-4b76-b575-b15d1cc2c5d5",
+    "61b0669c-c211-4aae-abb9-4120052127e4",
+    "712c7e0b-dbf6-4a89-a608-e744f1a88196",
+    "79efcb4c-ad8b-4587-8d38-1d80927543be",
+    "7a591bd6-71f1-413c-9d36-d6dc30cf45ed",
+    "de9219b8-e429-4919-a7da-52d8176d291c"
+  ],
+  "updated_at": "2026-09-22T12:01:12.671Z"
+}

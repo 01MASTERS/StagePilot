@@ -1,0 +1,102 @@
+{
+  "user_id": "U-00428",
+  "profile": {
+    "user_id": "U-00428",
+    "signup_at": "2025-05-11T12:20:34.585Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-18T02:44:23.296Z",
+    "plan_ends_at": "2026-10-18T02:44:23.296Z",
+    "preferred_dialect": "d3",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T06:18:00.934Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-11T12:20:34.585000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-11T12:20:34.585Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-18T02:44:23.296Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-10T09:24:34.575Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-10T09:24:34.575Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-10T09:24:34.575Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-18T02:44:23.296Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Thriller": 1,
+    "Crime": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "9678a708-f5ed-459b-ae07-0a43c58de43d",
+    "ee7b51fd-4558-4758-b437-4160655f4e22"
+  ],
+  "total_plays": 2,
+  "total_completes": 0,
+  "last_play_at": "2026-09-10T15:57:58.034Z",
+  "last_play_by_slug": {
+    "yane-tegi-d3": "2026-09-10T14:53:18.071Z",
+    "yatite-roloda-d3": "2026-09-10T15:57:58.034Z"
+  },
+  "last_app_open_at": "2026-09-16T06:33:13.988Z",
+  "active_days_ist": [
+    "2026-09-10",
+    "2026-09-15",
+    "2026-09-16"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0811e396-bd58-4bd7-a14b-31a57025e58f",
+    "0932855c-7301-462b-b850-7a440819f37b",
+    "22abdbe9-c6c0-4e53-a544-c56198f8f078",
+    "2d1b0d05-a4f5-4ca0-b0fb-29c788a6e673",
+    "40ffe9f5-b1f6-4323-92e4-022f7fe5c21b",
+    "4d368ee2-6eb6-4d6c-a4a6-be370f17192c",
+    "577c2e7c-79d3-431b-a421-672169a32b3b",
+    "63007555-8b2a-4f79-83a4-267afc25c665",
+    "66e10c3a-4025-4e95-9b22-2b75b5f30dbf",
+    "8dab47d6-cbc4-4f77-9bb5-8dd8113fcd04",
+    "ace4dbd6-45b3-426b-b26f-0fb0f4b15b51",
+    "b0d19e19-da92-446b-aa63-c6582fd07ab4",
+    "b4bafc95-72d4-4a6d-bce2-382975b8935a",
+    "bc8195f7-98dc-4320-b049-b03a13438408",
+    "c9098e1d-cab8-4ae8-afe5-4d1093181eb8",
+    "e997f9e3-bf5c-431e-a2b7-114789d10522"
+  ],
+  "updated_at": "2026-09-18T02:44:23.296Z"
+}

@@ -1,0 +1,180 @@
+{
+  "user_id": "U-02942",
+  "profile": {
+    "user_id": "U-02942",
+    "signup_at": "2026-05-15T23:56:35.421Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-16T02:34:13.672Z",
+    "plan_ends_at": "2026-10-16T02:34:13.672Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "en",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T15:15:28.058Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-05-15T23:56:35.421000+00:00",
+      "source": "profile",
+      "observed_at": "2026-05-15T23:56:35.421Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-16T02:34:13.672Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-03T16:45:00.305Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T16:45:00.305Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T16:45:00.305Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-25T15:14:53.586Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G07",
+      "name": "resume_series_3d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T10:08:56.182Z",
+      "deadline": "2026-10-04T10:08:56.182Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "same content_slug as the unfinished series",
+      "target_content_slug": "bagi-baya-d4",
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-04T10:08:56.182Z"
+    }
+  ],
+  "completed_episodes": [
+    "gineni-d4-s1e1",
+    "tidaka-koni-d4-s1e1"
+  ],
+  "slug_progress": {
+    "tidaka-koni-d4": "tidaka-koni-d4-s1e1",
+    "gineni-d4": "gineni-d4-s1e1"
+  },
+  "genre_plays": {
+    "Crime": 5,
+    "Action": 4,
+    "Romance": 1,
+    "Drama": 1,
+    "Family": 1
+  },
+  "play_sessions": [
+    "2e2bac10-5238-4413-90bc-5db07c7eeb6b",
+    "2e4ba4bf-6bec-4001-b4e3-93ff814ff8ec",
+    "2f459475-b753-4839-8565-bb4c353d375f",
+    "58a5f0b0-70ff-4025-9af1-6eee0f9580c1",
+    "6e2c4949-dd19-46fd-ac4f-d8d51dd7b734",
+    "a56ad6d2-9fc8-4ecc-8f4d-be39bc6fc003",
+    "f1292464-b86a-41c3-be11-8b531dee2cd6"
+  ],
+  "total_plays": 7,
+  "total_completes": 5,
+  "last_play_at": "2026-09-22T15:18:26.296Z",
+  "last_play_by_slug": {
+    "tidaka-koni-d4": "2026-09-22T15:18:26.296Z",
+    "bagi-baya-d4": "2026-09-08T05:59:54.298Z",
+    "pila-robha-d4": "2026-09-12T15:52:21.667Z",
+    "gineni-d4": "2026-09-20T01:36:33.386Z"
+  },
+  "last_app_open_at": "2026-09-25T15:14:03.671Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-08",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-17",
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-25"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "02819b11-8ad1-4e5c-9fe6-679e5949ed75",
+    "07cd7a56-a2e5-4e45-a308-754fe34a6b70",
+    "09d1283a-a8c8-4e18-b14e-8bfc710594f1",
+    "144f92b9-009c-4e8e-9893-1de639025baf",
+    "155d2ede-a90c-4dca-b334-64d772f5ff67",
+    "16c69e74-f7f8-4ca2-8342-c92ceb866ba0",
+    "1b0e9f4c-246f-4587-80ff-75053616fde4",
+    "1b1091f4-3fd9-4e6c-870d-409f63f74b49",
+    "1eb48b04-3341-40a7-a79d-75581bf41d3f",
+    "28e65657-45a4-4152-af69-ae0bdba12316",
+    "29901302-7d43-41b1-aac2-208aed7fe57c",
+    "29c218b4-4ed7-4c5a-ba76-99a0c8063900",
+    "2d579962-4f8e-4119-97d5-02a3a429d194",
+    "2e2ce3de-a7b1-4d32-b53b-cad86c597214",
+    "2efab6b0-434b-4a40-9259-e5bec6edeee7",
+    "30d8bd2a-1490-4ed0-b15b-8b84c458c166",
+    "33f60b63-c611-4394-956d-df3d77f6eb6b",
+    "3e5f071f-5174-41d4-b1a2-71734037881a",
+    "41f5ef87-d487-4196-9d3c-e96a5f4b7d22",
+    "46ed5ece-87ad-40bb-a301-1c4910f94658",
+    "4f75911b-6f01-4c06-997f-d18fb452b6a4",
+    "50e45b7c-ae99-42b9-b05a-b2449472c254",
+    "53a8d4cb-14b9-4b14-85a5-feece339a581",
+    "56041462-a603-4133-830c-6258fb4895d6",
+    "58246146-4109-4096-81e1-c690fdb2a401",
+    "61ed30bb-a54d-4b3a-a643-102bc62bf8ff",
+    "655327d5-714c-4578-b2e2-567cc9418325",
+    "6590c454-b5a9-4c70-8f2e-84df2151ef3c",
+    "6956a98b-4dc7-4bf8-b249-d844c5acdb9b",
+    "701c8bbf-709b-493d-8238-b3cc3e7bf153",
+    "72281cbf-4e6f-469a-b313-cd16b9da56ce",
+    "73d7b1fc-2192-4154-9b18-5531516a3a6c",
+    "766a6253-64ba-430c-a34a-c38435300be8",
+    "77fd0c0c-bbf6-42f1-9f9d-a20bf1bd92a5",
+    "7a5391f5-9119-4440-8c16-767ae03b2a10",
+    "7c8edeec-15f7-4faa-9e75-780f39ed9512",
+    "8b793ddb-78fd-46c8-a82d-ecd4f89cc9c4",
+    "95eed8f2-4670-4f4e-8cdb-5259647514f0",
+    "99ae4a5f-a377-4bed-b299-2549cbe63378",
+    "9c011523-7e7d-4313-964d-97484eda5556",
+    "9cc9537d-72d8-4ca9-8d6b-ef67f917cfb4",
+    "a009d6a8-2c7a-4aa6-b97a-45805d71f240",
+    "a46f2d73-f678-455a-a93c-40f46fe2416e",
+    "a8a77cf6-fce2-4c46-8278-712a61cc3591",
+    "b1287591-7d2b-4f22-a65a-fe5d24ec5f4d",
+    "b50c169e-f5d0-4fb9-9963-2ea83675cab4",
+    "cdca68cf-d9cd-4674-92e4-b4e40d51c5a0",
+    "cf87a83b-8117-421a-b917-cd964ef2a02c",
+    "d6380cbf-eb49-471d-9c45-4791875e11d0",
+    "e33dbddf-4ba5-4877-8edb-b1a940e67b8b",
+    "e628c727-eba3-416b-ba7b-afdfd0e20289",
+    "f4db70f0-43b3-4c68-bd9f-1a7af3c19b73",
+    "f9de1a3b-f3d7-46f6-85fe-f43657a840c4",
+    "fa9cec61-a546-43a0-8351-a3c609961199",
+    "fc44fa28-30b0-4173-83a7-2773c265cc62",
+    "fd89f709-7c65-4476-a469-199670a7dbad",
+    "fd9eb75f-1e92-45db-9ed2-837fa3b7f61f",
+    "ff1867f7-5f83-43f9-aa9f-67df1446d6da"
+  ],
+  "updated_at": "2026-10-04T10:08:56.182Z"
+}

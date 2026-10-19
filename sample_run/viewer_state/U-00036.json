@@ -1,0 +1,94 @@
+{
+  "user_id": "U-00036",
+  "profile": {
+    "user_id": "U-00036",
+    "signup_at": "2026-07-12T17:00:45.280Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T15:11:28.189Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-07-12T17:00:45.280000+00:00",
+      "source": "profile",
+      "observed_at": "2026-07-12T17:00:45.280Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-01T20:25:10.466Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-01T20:25:10.466Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T20:25:10.466Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-01T20:25:10.466Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-01T21:16:27.960Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-01T20:25:10.466Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Crime": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "a8ca3470-eeab-402f-a7c9-49d3b6230104"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-01T20:27:57.932Z",
+  "last_play_by_slug": {
+    "diridha-sudi-d4": "2026-09-01T20:27:57.932Z"
+  },
+  "last_app_open_at": "2026-09-01T20:25:10.466Z",
+  "active_days_ist": [
+    "2026-09-02"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "46205b75-ebf3-4973-9e64-8a59599e33d6",
+    "859a441a-1473-4018-8f57-ea2d2e28f15c",
+    "a0fbcb23-7f90-4f9d-b2a3-b2263ea86ea1",
+    "cbf681cd-d937-47d4-bbcd-e04b6523bdf4",
+    "d8bdc6fe-ce34-4036-8a77-1f18153d5db1",
+    "daf5ce44-2639-4bc2-acce-d95eb1c2034f",
+    "de492f75-6978-4ac5-bf82-7abb6f70b8ec"
+  ],
+  "updated_at": "2026-09-01T21:16:27.960Z"
+}

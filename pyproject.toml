@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stagepilot"
+version = "1.0.0"
+description = "Dual-boundary agentic lifecycle management system for STAGE OTT platform"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0.0",
+]
+
+[project.scripts]
+stagepilot = "stagepilot.cli:main"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.0.0",
+]
+gemini = [
+    "google-genai>=0.1.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --strict-markers"

@@ -1,0 +1,180 @@
+{
+  "user_id": "U-00085",
+  "profile": {
+    "user_id": "U-00085",
+    "signup_at": "2026-03-03T05:55:55.661Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-05T21:48:59.799Z",
+    "plan_ends_at": "2026-10-05T21:48:59.799Z",
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T19:15:27.001Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-03T05:55:55.661000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-03T05:55:55.661Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-05T21:48:59.799Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-04T10:49:07.462Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T10:49:07.462Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-04T10:49:07.462Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T06:34:16.307Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-12T17:41:44.277Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "tidha-dakachu-d1-s1e1",
+    "tidha-dakachu-d1-s1e3"
+  ],
+  "slug_progress": {
+    "tidha-dakachu-d1": "tidha-dakachu-d1-s1e3"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 7,
+    "Family": 6
+  },
+  "play_sessions": [
+    "58d7105e-4886-4da7-8a57-855adcb11d85",
+    "882c3020-2755-4ac5-9514-d96d8011e7eb",
+    "a0f6b360-7ee9-429c-9da0-a38ab71a5be7",
+    "a14ecc80-40fb-405c-9765-4239fffd80c1",
+    "af3c5347-1785-40f0-a2fe-90ca79e76c3e",
+    "b87a1a96-743e-4de9-8269-fe79b88f4ebe",
+    "eb0f6680-e6d5-4859-a9e6-b854dcda8935"
+  ],
+  "total_plays": 7,
+  "total_completes": 2,
+  "last_play_at": "2026-09-30T06:10:20.941Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-06T08:57:30.835Z",
+    "tidha-dakachu-d1": "2026-09-30T06:10:20.941Z"
+  },
+  "last_app_open_at": "2026-09-30T06:09:08.859Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06",
+    "2026-09-08",
+    "2026-09-09",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-16",
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-22",
+    "2026-09-24",
+    "2026-09-26",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "004c90fd-76e7-4261-910b-54d65bf0239b",
+    "01b9b7a6-66b9-4363-8674-e97114b8cbc9",
+    "0333ec51-80c5-483d-9dbc-07bf728f60a9",
+    "04dd1228-0dc9-4853-8ea7-c9c9654a6208",
+    "0635be8e-3ba2-4c47-b307-3e4312280cb4",
+    "0a338c63-0664-4b56-94cd-78c9be605a4e",
+    "0c4faba8-028e-42d4-a01f-d194b284b276",
+    "12c521d9-fa46-4f64-ab6b-8627386ab5b4",
+    "1535e5b3-edb2-490f-be3a-dfc302ba0e45",
+    "195930d9-a465-42da-a033-fa4aef5b3c8e",
+    "19ab42fb-b8cb-4dc0-855b-4b3a148e1ed8",
+    "1b10ddbc-836f-4e85-bbb8-1e9303c9d0dc",
+    "1d7ed3a6-084f-458c-8df8-5d42dbf1e445",
+    "1daae28e-cf34-4bf6-9952-88196051afa7",
+    "1dda23e9-e280-4db4-92cb-eb4536d03037",
+    "1f60c478-ef81-4089-9297-1dbf94dc0858",
+    "25ff88fd-d043-4082-abe1-8b4d3521d215",
+    "292dd3d6-718f-46ed-81f8-734f4f402220",
+    "2e8092bd-781e-48d6-aa1b-9d83827bc8c9",
+    "35bc95ac-893a-4f38-bc2f-7a91920f618a",
+    "3929c6df-8149-4290-b42d-8e071e8a5fb2",
+    "3957e4c6-c272-4525-a0b4-abbf915d8137",
+    "395f99ca-ef9b-45a2-ab08-f8c0cd478a6d",
+    "40a452c6-c06c-4aa7-a6eb-caa5b0f90360",
+    "421babbd-e04e-4b2f-bea3-696ca339945b",
+    "441a6111-96f4-4f63-874e-b32becbe5f45",
+    "45a7a258-bd6d-4f63-a38d-7894ab477d1e",
+    "4d723852-7ac0-4459-86e2-63fc47981b6c",
+    "4fd68daf-9aca-4c9c-bea0-613718e4c908",
+    "50aee0e1-6f5b-439f-8f4e-b36796aabba1",
+    "5269f356-339b-43c8-aa3a-c2d9783bc3de",
+    "66ab27f9-35eb-4a3f-b071-beef6f2932f3",
+    "69fbd54f-1969-4cab-a32d-3d81c02d288f",
+    "6adccf9c-d6f4-4cc2-80a5-394315b9e755",
+    "73343ae5-b8f1-417d-a7ce-fb45e3ce0862",
+    "73552f12-a5a0-4775-afc5-d5edcabd9813",
+    "73dfd385-c939-4a70-893d-b2907d55e81b",
+    "75de4c38-7952-4374-9cbd-7cde5b75a9c7",
+    "8b092dee-b685-47ab-bf20-2ba0a65540cc",
+    "8d5296d8-39d7-4fc2-b9c9-ae43ddc86d3b",
+    "8e6afb43-fdc1-436b-9ecb-d18b22ab1ad9",
+    "907b9613-709a-4598-aaad-e14d0ebc5eca",
+    "926f6625-d078-465f-ae09-73e406a7acd0",
+    "95db05e9-29c8-4f36-bfb7-94013c2c2018",
+    "99528cbd-a100-4ab4-8628-62199adcb985",
+    "9ccb2c5e-6c12-4e02-bab0-2819a29a06ba",
+    "9dd79e18-7fe3-4d6e-b7b0-4a621136c1f7",
+    "9f7ee9e3-e67a-46d4-9250-b6c57cf74793",
+    "b5f4982c-7906-4765-a076-3a2f3a1dcb69",
+    "b9854684-591b-4b0b-a82c-774e0c6f4c9c",
+    "bc9a54d4-8600-4d68-aa2d-934ab46b86e3",
+    "bd8300aa-c2f5-4854-a773-14b4feacb40d",
+    "bda51768-4d13-4b36-8f30-ec6fdefe8c35",
+    "cb78aaa3-9a7d-46e3-9887-f9a0fcacfd7b",
+    "cb9a1a03-c242-49db-806e-a6cb3a5024b9",
+    "ce1e3ac2-41d0-469e-8689-426e733e7113",
+    "d1d8a2c5-739e-4eda-af75-b8efbe5208b0",
+    "dc58fa1b-7223-4746-ad90-a8216cc6048c",
+    "dea25fb3-712a-4bdd-9e32-2f2546edc51b",
+    "e4b9ffc6-2c00-43d9-8c23-4a77fbf175e8",
+    "e78aa31e-4b64-481d-ba5b-ab1b0e347ddc",
+    "ea0ff52c-4a8c-4821-8e77-a0b3e4884800",
+    "f101464f-25c0-4f4d-8593-32de0dbcb35e",
+    "f50268ea-476c-457a-80bb-f69a98053fbe",
+    "f76fd66b-8a4d-4d14-928d-87ecab989a0b",
+    "fb8dc65c-6495-43f1-b6fa-54f53ccea6b5",
+    "fcb28d64-6536-40f5-831e-5ffdd2fa10c0"
+  ],
+  "updated_at": "2026-09-30T06:34:16.307Z"
+}

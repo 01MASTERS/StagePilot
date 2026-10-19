@@ -1,0 +1,83 @@
+{
+  "user_id": "U-01347",
+  "profile": {
+    "user_id": "U-01347",
+    "signup_at": "2026-09-25T01:11:23.858Z",
+    "subscription_status": "active",
+    "plan_started_at": null,
+    "plan_ends_at": "2026-10-03T05:50:36.550Z",
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T18:03:10.247Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-25T01:11:23.858000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-25T01:11:23.858Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-03T05:50:36.550Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T05:50:36.550Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T05:50:36.550Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-25T17:56:59.216Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "aa3aff67-92c7-44d1-beea-3f1c693c0fbb"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-25T01:12:47.700Z",
+  "last_play_by_slug": {
+    "nigi-risa-d5": "2026-09-25T01:12:47.700Z"
+  },
+  "last_app_open_at": "2026-09-25T17:56:59.216Z",
+  "active_days_ist": [
+    "2026-09-25"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1bb8f38f-598d-49f6-8c7c-019d1d903105",
+    "29c0817f-2c6b-4519-b00d-b151e7db1a9e",
+    "71decd11-8422-4713-b778-7f0a626ba4be",
+    "728b1252-558d-4192-971d-957d53962b30",
+    "95a402ab-0c35-4817-857e-35d74fea6b4a",
+    "cc6f130a-1f4e-4e6a-883b-caebb68c1b81",
+    "ce6e7a16-2da9-487a-9546-4e6dcb0e620f",
+    "ff5be69d-b7bf-4d8f-ac9b-217a34bad1a3"
+  ],
+  "updated_at": "2026-09-25T17:56:59.216Z"
+}

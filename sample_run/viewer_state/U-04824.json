@@ -1,0 +1,135 @@
+{
+  "user_id": "U-04824",
+  "profile": {
+    "user_id": "U-04824",
+    "signup_at": "2026-09-14T12:19:16.126Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T03:33:04.326Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-14T12:19:16.126000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-14T12:19:16.126Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "events",
+      "observed_at": "2026-09-02T13:26:46.020Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-02T13:26:46.020Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T13:26:46.020Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T13:26:46.020Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T06:25:16.005Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G06",
+      "name": "reactivate_lapsed_14d",
+      "status": "SUCCEEDED",
+      "started_at": "2026-09-30T21:07:18.464Z",
+      "deadline": "2026-10-14T21:07:18.464Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "any paid plan",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [
+        "oua-030264"
+      ],
+      "resolved_at": "2026-10-10T16:14:00.000Z"
+    }
+  ],
+  "completed_episodes": [
+    "tidaka-koni-d4-s1e1"
+  ],
+  "slug_progress": {
+    "tidaka-koni-d4": "tidaka-koni-d4-s1e1"
+  },
+  "genre_plays": {
+    "Crime": 1,
+    "Action": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "061800bc-58b7-4b6d-8d1b-7017c1c24a53",
+    "6ecf6335-24c1-4b36-9c80-1c20969b2f0f"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-29T06:23:15.591Z",
+  "last_play_by_slug": {
+    "tidaka-koni-d4": "2026-09-24T16:32:14.590Z",
+    "bagi-baya-d4": "2026-09-29T06:23:15.591Z"
+  },
+  "last_app_open_at": "2026-09-29T06:21:18.770Z",
+  "active_days_ist": [
+    "2026-09-14",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-09-24",
+    "2026-09-26",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1aabb74b-6a0d-4ad5-b73e-865b3588b173",
+    "1c339f4d-278c-4f6d-b2da-7fc2cabb5c2b",
+    "21fac126-6aa9-49fb-b09c-1f821b44ffd0",
+    "279e23bf-ce2f-410d-b3bc-d92ba2b44dc4",
+    "292baf0e-a266-44e0-822b-f6a7293f88c4",
+    "41caacad-07ee-487d-9d9a-d2327fd41260",
+    "4f75b755-5713-467a-bfb9-43470a8915a6",
+    "51d084a7-e33a-4ed9-8463-543de972013b",
+    "588a7993-a0f8-4bfd-9ec2-86ad9000a620",
+    "58f1dc0f-8f12-4519-a2fa-c88bf01500ef",
+    "60bdf220-c2c1-48d9-b107-b0003c97027e",
+    "671417c8-4c58-43d6-bbc3-20dd322fd348",
+    "78d570c1-02f6-46cf-8448-13a87864885d",
+    "80f343b6-3692-49e0-8a28-5f5d4f0bf250",
+    "9bec57f6-4bb3-4de3-807d-5b8eb209f3cf",
+    "a0d8a900-3a0f-4f35-ba49-9b8bfd6c50a8",
+    "a38122f8-cb54-4288-ae39-8b48fd1a63ee",
+    "a781139d-26a3-433b-bd6b-d0e09aa86d8b",
+    "a9497f1c-74dc-4ea9-8c7f-b9087ea3b4e0",
+    "b20c7713-cf2d-42b5-aeb0-d030fefe39d1",
+    "bded5a09-505f-4b2a-afb1-a55a6bb0a04c",
+    "c467e519-0b9c-44b4-a46a-e4be9e84524d",
+    "d902fcc4-8cd4-4ef9-8aac-90521b51fab6",
+    "dd50708e-f708-484c-a7aa-dd1691a51645",
+    "e7308237-142c-4f95-9adb-2d96907faf9d"
+  ],
+  "updated_at": "2026-10-10T16:14:00.000Z"
+}

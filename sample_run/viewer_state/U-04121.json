@@ -1,0 +1,135 @@
+{
+  "user_id": "U-04121",
+  "profile": {
+    "user_id": "U-04121",
+    "signup_at": "2025-05-22T10:44:29.422Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T14:55:08.567Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-22T10:44:29.422000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-22T10:44:29.422Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T15:04:23.743Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-04T15:04:23.743Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T15:04:23.743Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T15:04:23.743Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-10-01T09:13:56.839Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-29T20:37:23.814Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "hama-chudibha-d1-s1e1",
+    "raloja-d1-s1e1"
+  ],
+  "slug_progress": {
+    "raloja-d1": "raloja-d1-s1e1",
+    "hama-chudibha-d1": "hama-chudibha-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1,
+    "Comedy": 2,
+    "Thriller": 2
+  },
+  "play_sessions": [
+    "3b22559f-7f7f-46e2-af26-14487d446dc2",
+    "8d6d951f-1bff-49c7-a3f5-5aea5ab7e54e",
+    "fc27c2a0-3325-4387-b84b-7fd1a0353871"
+  ],
+  "total_plays": 3,
+  "total_completes": 2,
+  "last_play_at": "2026-09-29T20:39:13.264Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-04T15:06:02.091Z",
+    "hama-chudibha-d1": "2026-09-29T20:39:13.264Z"
+  },
+  "last_app_open_at": "2026-10-01T09:13:26.493Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-30",
+    "2026-10-01"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-05T14:04:23.537000+00:00",
+      "ist_day": "2026-09-05"
+    }
+  ],
+  "idempotency_keys": [
+    "04c4e1d4-4e58-409d-875e-22b49c2f6123",
+    "04d615c4-d697-4c59-81ca-3735c007b1ab",
+    "1e01e075-af6f-4654-bdb7-46b021af0fec",
+    "2d37f262-869a-4b65-915d-dfe99bcd39b8",
+    "3188c486-6654-45a9-8cb6-7d63bf57fc68",
+    "4269db4f-715d-48dd-8e9f-cd751d61c162",
+    "5376315b-0098-4e97-b145-a85293b0ece3",
+    "6de70f1f-e53e-467c-8c41-3d9bc5c59af2",
+    "82f41616-529e-4b2e-ae79-a930272b336c",
+    "93dab943-49a7-46fe-a90a-7788f71b1a30",
+    "963cec4d-ffdc-4cc9-8698-f9d9e5bf1d5a",
+    "9bb14768-0a93-46b3-b0b4-1b3fb08283ba",
+    "a36a7b36-bdf8-4e9b-ba3f-73615bcdbef6",
+    "a81c5e98-0112-4da6-a6f7-20be4a99bbb4",
+    "abeb3397-e7d5-4b1c-95f1-a4bc0c10dd40",
+    "ac2d1120-e5ce-46c5-8f2e-06de36ac2b7a",
+    "ac8915ae-2c94-4ef2-b081-2828997ed728",
+    "b23b96f6-bdad-4de1-9d31-87a8f94b7b57",
+    "da86f27b-097c-4c32-936f-124d513089a8",
+    "ee11673c-045f-43b0-916f-49587bd8734c",
+    "ee71f385-9812-42db-953b-083296b9ea27",
+    "f90702be-7e01-4a48-aea2-7021b9f1c0b5",
+    "f941604f-70b3-42f1-bd18-8f72125bca82",
+    "fc06f6f7-cc16-4467-ba23-ddf65e158d58",
+    "fef39899-c207-4d41-a9f9-dd57d7db9d89"
+  ],
+  "updated_at": "2026-10-01T09:13:56.839Z"
+}

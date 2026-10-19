@@ -1,0 +1,98 @@
+{
+  "user_id": "U-00115",
+  "profile": {
+    "user_id": "U-00115",
+    "signup_at": "2026-09-27T20:21:51.727Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-22T01:27:08.386Z",
+    "plan_ends_at": "2026-10-22T01:27:08.386Z",
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T05:14:39.660Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-27T20:21:51.727000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-27T20:21:51.727Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-22T01:27:08.386Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-22T01:27:08.386Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-22T01:27:08.386Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T16:27:14.961Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-29T16:14:32.920Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1,
+    "Thriller": 1,
+    "Drama": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "7d901de3-9e9d-4156-8f38-5c50de3ec557",
+    "decfa3b3-064f-4b06-8a3a-33792b107695"
+  ],
+  "total_plays": 2,
+  "total_completes": 0,
+  "last_play_at": "2026-09-29T16:16:13.210Z",
+  "last_play_by_slug": {
+    "hama-chudibha-d1": "2026-09-27T20:25:13.950Z",
+    "bagugu-gigupi-d1": "2026-09-29T16:16:13.210Z"
+  },
+  "last_app_open_at": "2026-09-29T16:14:32.920Z",
+  "active_days_ist": [
+    "2026-09-28",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "2103e5a0-92bb-458c-ac2d-0bb4d667f74f",
+    "3ca99f4d-3e2c-41cf-a4ba-13e80707c149",
+    "60517aba-720a-45a4-b6e9-d3ecf130fbf0",
+    "6bb71627-22a8-42cf-9883-e71d53eee878",
+    "876e74a1-c344-4792-9768-0cde81423678",
+    "89d4a4be-aab3-4219-93af-36d0fbdeca7b",
+    "d6a66389-5fb6-48a2-beae-e269d51b43e2",
+    "d875a6f0-6e51-4f49-a9ff-79d43dc127ab",
+    "dad2d5e7-e9f3-48e4-9399-f4e970118177",
+    "de1bf339-7879-4246-bada-b9a61c15909e",
+    "e09efcad-ed2e-4c3d-bd27-e560e1141249",
+    "ee172c38-7609-480b-9ee9-062081e52854"
+  ],
+  "updated_at": "2026-09-29T16:27:14.961Z"
+}

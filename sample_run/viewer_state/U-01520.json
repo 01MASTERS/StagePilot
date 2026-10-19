@@ -1,0 +1,126 @@
+{
+  "user_id": "U-01520",
+  "profile": {
+    "user_id": "U-01520",
+    "signup_at": "2026-07-29T20:51:02.654Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T04:08:41.940Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-07-29T20:51:02.654000+00:00",
+      "source": "profile",
+      "observed_at": "2026-07-29T20:51:02.654Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-12T05:54:58.322Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-12T05:54:58.322Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T05:54:58.322Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T05:54:58.322Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-26T05:39:23.774Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-12T05:54:58.322Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G06",
+      "name": "reactivate_lapsed_14d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:47:29.674Z",
+      "deadline": "2026-10-15T04:47:29.674Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "any paid plan",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-15T04:47:29.674Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1,
+    "Thriller": 2,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "2f897b29-cb51-450a-bbaf-8b4431cea7ec",
+    "a85b7969-8032-440b-b46b-93aad87f80e1"
+  ],
+  "total_plays": 2,
+  "total_completes": 0,
+  "last_play_at": "2026-09-26T04:39:23.871Z",
+  "last_play_by_slug": {
+    "hama-chudibha-d1": "2026-09-21T12:23:03.916Z",
+    "rava-baya-d1": "2026-09-26T04:39:23.871Z"
+  },
+  "last_app_open_at": "2026-09-26T04:37:11.307Z",
+  "active_days_ist": [
+    "2026-09-12",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-25",
+    "2026-09-26"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0dad97eb-ed08-49be-a197-8f29b1c8b33e",
+    "31c44b6d-1425-4219-b47b-9a0550ad8b9e",
+    "3566fa53-66b2-4367-a740-d7186e727498",
+    "53a13c45-5224-42ef-b823-7923456139c3",
+    "5597ff35-1e7d-43df-ade0-5ced66d14214",
+    "6a75d3e8-25a6-4f4e-b6dc-4c91cd3b0bb2",
+    "6b2ab74c-3d80-4d63-9290-272dc0d8cf2a",
+    "7bb4e50b-cd3b-4f1d-b46b-0fa19441bac4",
+    "7e06b5ba-218f-4768-b08e-c0e674605cb3",
+    "8621e4d3-c5a6-4540-a522-7275c279aa9e",
+    "86666ca7-1548-4660-8886-2e550cafca8d",
+    "88ff0f80-0c2c-4c1c-a17c-bf4b961ea0c4",
+    "9078585a-4e7a-4088-ae3d-f69566f6b4f6",
+    "bdf1720b-c8f4-45ff-80d0-b4d666fd3745",
+    "e468d4c6-d0f0-4f47-b31d-fe822721d0cc",
+    "e4ffc3a5-79e2-44d0-bd11-d7ce63fb6c10",
+    "ea36302c-dd27-41b0-9402-89a0410895bb"
+  ],
+  "updated_at": "2026-10-15T04:47:29.674Z"
+}

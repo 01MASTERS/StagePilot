@@ -1,0 +1,98 @@
+{
+  "user_id": "U-01962",
+  "profile": {
+    "user_id": "U-01962",
+    "signup_at": "2026-01-10T04:32:48.584Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-23T15:24:29.183Z",
+    "plan_ends_at": "2026-10-23T15:24:29.183Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T22:44:21.595Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-01-10T04:32:48.584000+00:00",
+      "source": "profile",
+      "observed_at": "2026-01-10T04:32:48.584Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-23T15:24:29.183Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-22T10:17:31.501Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-22T10:17:31.501Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-22T10:17:31.501Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-23T15:24:29.183Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "raloja-d1-s1e1"
+  ],
+  "slug_progress": {
+    "raloja-d1": "raloja-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "4c8a119f-f060-4a8c-bf61-3787ffe41bff"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-22T10:19:41.553Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-22T10:19:41.553Z"
+  },
+  "last_app_open_at": "2026-09-23T15:22:35.561Z",
+  "active_days_ist": [
+    "2026-09-22",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "066f9cda-a461-494d-81cb-1fa2d5eb0a51",
+    "134d7043-9720-4290-b427-43cb66019a10",
+    "24218b17-a3b0-4877-913f-5f5e8e597650",
+    "29b20732-f1df-453e-8915-673d59ad5e53",
+    "4cdfe1f3-8afc-4396-a697-76c9f6f4d13c",
+    "9318310e-aa35-48e3-b641-6ea3c7c69350",
+    "982b3dca-6df8-482c-9ae1-190058e1b3e7",
+    "9e1d892f-82eb-4a78-b930-a957fa83f0e8",
+    "a0246995-7916-4442-a1fc-09607a9c67e7",
+    "ba56db9e-81fe-4595-8246-c3b04afb406d",
+    "d1022c2f-fbe1-442d-ac5e-1dc36d029488",
+    "eb25721b-5c0b-46fe-bb13-a5cbd87d6080"
+  ],
+  "updated_at": "2026-09-23T15:24:29.183Z"
+}

@@ -1,0 +1,134 @@
+{
+  "user_id": "U-01382",
+  "profile": {
+    "user_id": "U-01382",
+    "signup_at": "2026-03-14T21:46:44.445Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T08:24:55.349Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-03-14T21:46:44.445000+00:00",
+      "source": "profile",
+      "observed_at": "2026-03-14T21:46:44.445Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-03T01:33:38.379Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-03T01:33:38.379Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T01:33:38.379Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T01:33:38.379Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-28T07:35:25.842Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d5",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-28T07:35:14.729Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T03:32:44.583Z",
+      "deadline": "2026-10-08T03:32:44.583Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T03:32:44.583Z"
+    }
+  ],
+  "completed_episodes": [
+    "molo-d2-s1e1"
+  ],
+  "slug_progress": {
+    "molo-d2": "molo-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 2,
+    "Romance": 2
+  },
+  "play_sessions": [
+    "2f4a7f94-5888-4e03-a9e3-ec7d02d4458a",
+    "656c3994-b212-4f80-8bef-989f8de9b9f6"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-22T12:32:23.997Z",
+  "last_play_by_slug": {
+    "molo-d2": "2026-09-22T12:32:23.997Z"
+  },
+  "last_app_open_at": "2026-09-28T07:35:14.729Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-18",
+    "2026-09-22",
+    "2026-09-28"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "083370eb-26d3-46a6-a655-bebc03c5908a",
+    "19c55053-be47-48de-bcec-e39d2a94cfed",
+    "23a35751-2311-4643-b31c-f76b9f651189",
+    "495ca018-94ab-4d0a-84a2-997122c3b9b7",
+    "626ea1cc-13b5-43a7-a2bb-69050a401269",
+    "672d0559-0386-4fcb-aa11-7af76264a5d8",
+    "698f55d7-809e-46d3-b681-d44f4ef11f11",
+    "6cec2a28-e204-4a13-b60e-bd89f5833448",
+    "6f759974-8006-447f-a73b-327ea4aa4e16",
+    "70ff8ca8-dda2-436c-be6f-d96d3cf59f92",
+    "76e88f83-48ef-4aa8-b74d-a3d576a4f688",
+    "7ad0ddb2-cebc-4ff0-ab10-0d6ce0b242d2",
+    "7bff9c8c-80ae-4ff6-ac93-341ac4053687",
+    "871f00c6-2cd3-4173-8e0f-fa60677756fd",
+    "95bf66ce-1406-4fdc-a0a5-07988c1734eb",
+    "a38b5b9d-7ef7-4a3e-9020-5e58e222c34b",
+    "da6da734-d4ba-4419-a83a-04d6dc8fd221",
+    "e4da881a-b757-4d71-855e-d01fc4b648fd",
+    "e6804355-12b8-4b88-95d4-749b313afc5c",
+    "e8505454-f617-4d36-b882-d006f7bc1763",
+    "ef1e9997-95f1-4d43-bb83-096a71313fbc",
+    "f14c7cd7-b5d0-4bb7-8055-0c0a321a4454",
+    "fd777d08-eb94-47d8-82bb-e64fe43f01bf",
+    "ff0aac46-9c0f-4a0b-806b-c86c6f54eccd"
+  ],
+  "updated_at": "2026-10-08T03:32:44.583Z"
+}

@@ -1,0 +1,105 @@
+{
+  "user_id": "U-04297",
+  "profile": {
+    "user_id": "U-04297",
+    "signup_at": "2026-09-03T13:15:19.981Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T11:11:26.851Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-03T13:15:19.981000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-03T13:15:19.981Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-03T13:15:19.981Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-03T13:15:19.981Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-03T13:15:19.981Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-03T13:15:19.981Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d5",
+      "source": "app_setting",
+      "observed_at": "2026-09-23T06:47:54.251Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-03T13:16:00.446Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 1
+  },
+  "play_sessions": [
+    "4afa98ef-c8ba-405d-96c0-0c116a813b8b"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-18T13:17:48.758Z",
+  "last_play_by_slug": {
+    "guko-lorina-d5": "2026-09-18T13:17:48.758Z"
+  },
+  "last_app_open_at": "2026-09-23T06:47:54.251Z",
+  "active_days_ist": [
+    "2026-09-03",
+    "2026-09-12",
+    "2026-09-18",
+    "2026-09-22",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0fc48a9b-5df1-47f5-b829-b7bf8237afdf",
+    "2838538e-47c4-4ba4-bddc-763f08f61282",
+    "64dc8c93-6caf-4c05-8208-8cdbf38eb9d9",
+    "67c124c8-99c3-46fe-b747-b037976ee168",
+    "766f3c0f-d2b9-455a-853b-0fe79da89b70",
+    "842dd011-95d7-4767-853e-401be5c8ef30",
+    "947a2aa0-71ae-48b8-98f7-23160f0b57f2",
+    "a889e349-220f-4db8-bacf-a2f65dd5988d",
+    "ba3a168c-8e2e-43a1-9f99-3520163851fc",
+    "bab7fd24-0930-47b9-bcb7-27ff0022f1c0",
+    "be06f2d3-8a3a-47b8-bbdf-a34de0c96a08",
+    "c0874c7a-7f1c-4394-b983-5446022f6ce6",
+    "ed39586c-6a5e-4208-9e1a-e316ee49965e",
+    "fcb3022d-de46-49df-8bc8-b10b3873a8c5",
+    "ff8cc7d9-7a39-46ba-a017-f093cc50a9ff"
+  ],
+  "updated_at": "2026-09-23T06:47:54.251Z"
+}

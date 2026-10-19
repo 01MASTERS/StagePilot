@@ -1,0 +1,129 @@
+{
+  "user_id": "U-04308",
+  "profile": {
+    "user_id": "U-04308",
+    "signup_at": "2026-09-19T13:49:23.868Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-12T11:52:47.399Z",
+    "plan_ends_at": "2026-10-12T11:52:47.399Z",
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-29T15:13:09.610Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-19T13:49:23.868000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-19T13:49:23.868Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-12T11:52:47.399Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T11:52:47.399Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T11:52:47.399Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T15:01:57.990Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G08",
+      "name": "try_new_release_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T10:10:19.111Z",
+      "deadline": "2026-10-08T10:10:19.111Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "a title released in the 30 days before the goal start",
+      "target_content_slug": null,
+      "target_release_cutoff": "2026-09-01T10:10:19.111Z",
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T10:10:19.111Z"
+    }
+  ],
+  "completed_episodes": [
+    "bagi-baya-d4-s1e1",
+    "hada-maloni-d4-s1e1"
+  ],
+  "slug_progress": {
+    "hada-maloni-d4": "hada-maloni-d4-s1e1",
+    "bagi-baya-d4": "bagi-baya-d4-s1e1"
+  },
+  "genre_plays": {
+    "Romance": 2,
+    "Family": 1
+  },
+  "play_sessions": [
+    "064780d4-c925-4e2a-912e-68ea9d681d77",
+    "5a4793b1-ffcb-4f39-bf49-07d1a2ffd3fb"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-30T14:58:15.228Z",
+  "last_play_by_slug": {
+    "hada-maloni-d4": "2026-09-27T11:54:52.776Z",
+    "bagi-baya-d4": "2026-09-30T14:58:15.228Z"
+  },
+  "last_app_open_at": "2026-09-30T14:56:19.592Z",
+  "active_days_ist": [
+    "2026-09-19",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-27",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "2c2fc110-6339-48f7-9e53-d093c6d689a4",
+    "46de9af9-7d39-4b4d-b875-26001a02edcd",
+    "4c72c361-1e4f-43b5-b547-bfaeea18a506",
+    "4e82b790-6384-409c-a8ac-58170442ef79",
+    "50f9c479-4a3b-4096-9dfc-c28b99935dd6",
+    "565025e6-58bd-40f8-93db-491465638258",
+    "70d666a2-9100-41a5-9c49-bc391d9f61ca",
+    "79413c5b-6bb5-476e-b06c-6105e199a0a9",
+    "832c7819-6cfe-4f48-8db9-82f3c173b2b4",
+    "8516f1e8-75ba-4f35-89f2-dbf74fe34eba",
+    "a1baf1d1-8fb3-4705-a20b-0fbcce29b7b2",
+    "a78af0a6-cd13-4499-a846-0ffc7d0e5956",
+    "b07b505d-9921-46d4-85c0-5a97ab81fa69",
+    "b2cb8ac4-0b44-4743-8d9f-1aba9dbd5c1c",
+    "cb8bc2c5-923e-4c5e-a1d5-7cbbfaf7e410",
+    "cf39d90e-a527-4237-b1c2-df996897f8de",
+    "d25b9616-f315-411f-920e-2aefdd6c78c1",
+    "d4606df9-3e86-4209-abf4-129ab44a17ca",
+    "df71b221-7f81-4f9b-a720-c0915c1166df",
+    "e0bbe44b-f302-4b53-87f0-1f2bbfc0bb3e",
+    "e3b84ddc-0128-4af1-9dd3-9be9ed97c04b",
+    "efa09cb4-b1ec-4fe6-8707-6b637a710895",
+    "f249a820-0c73-4113-b4d1-99a801b6bfe6",
+    "f61e90c5-2205-4241-b43a-fd1e361671d2",
+    "f7696bdc-44e0-4c59-94f2-37f1780bff31",
+    "fc715015-3926-4385-88c3-9439d321e0a4"
+  ],
+  "updated_at": "2026-10-08T10:10:19.111Z"
+}

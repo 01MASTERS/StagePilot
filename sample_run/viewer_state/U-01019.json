@@ -1,0 +1,129 @@
+{
+  "user_id": "U-01019",
+  "profile": {
+    "user_id": "U-01019",
+    "signup_at": "2026-09-09T06:07:47.021Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-09T06:31:13.126Z",
+    "plan_ends_at": "2026-10-09T06:31:13.126Z",
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T19:19:41.370Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-09T06:07:47.021000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-09T06:07:47.021Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-09T06:31:13.126Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-09T06:07:47.021Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T06:07:47.021Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T06:07:47.021Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-16T10:39:23.914Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d5",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-16T08:47:24.369Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "gubava-gihaya-d5-s1e1",
+    "rava-baya-d1-s1e1"
+  ],
+  "slug_progress": {
+    "gubava-gihaya-d5": "gubava-gihaya-d5-s1e1",
+    "rava-baya-d1": "rava-baya-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Drama": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "408a52d9-9f11-4bfb-9b0a-50272bc47913",
+    "d9c9af43-368b-48ef-8be3-74636aab8d3e"
+  ],
+  "total_plays": 2,
+  "total_completes": 2,
+  "last_play_at": "2026-09-16T08:49:00.753Z",
+  "last_play_by_slug": {
+    "gubava-gihaya-d5": "2026-09-09T06:10:33.485Z",
+    "rava-baya-d1": "2026-09-16T08:49:00.753Z"
+  },
+  "last_app_open_at": "2026-09-16T08:47:24.369Z",
+  "active_days_ist": [
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-13",
+    "2026-09-16"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0485bb66-a860-4971-8ad1-4dbddeb26488",
+    "20a64390-0a8e-48d2-9487-e4eabc1b8ad6",
+    "2649b49e-987d-4c0f-9888-189e30ab20a8",
+    "31f6fa9b-d137-41d4-b8e8-a4c80606ea50",
+    "323a5767-869f-494c-9916-82a1260fab4d",
+    "3cbdfedf-8f80-4b20-bc64-63ed8e1af4d6",
+    "42cccb36-96ab-4e31-84b9-a6df89e1d222",
+    "55e509a9-b250-46a5-8a3c-4395bed61c1e",
+    "5c065b38-c622-45bb-85e2-2ce112a8755b",
+    "70641bec-fb54-4022-9938-1e9b72d56a65",
+    "76c16581-112e-4a59-b43c-792700eb7431",
+    "77a76457-4117-4c22-a9ee-b798f81f8024",
+    "7894b962-200c-44ec-a96f-0414cb65919d",
+    "82e7a778-6e08-4a67-93ab-06ab7d196333",
+    "87835e35-408f-4479-975e-4cc2c8c508c8",
+    "8811dc70-afa8-46ea-a241-a9442e96ac9e",
+    "8a74a428-22b4-4e1a-8895-c96cbf765d2f",
+    "992e1199-9509-4601-9551-1ea264960e59",
+    "9b9eb2e1-44d0-4970-b04c-6430ac385627",
+    "9eb813ce-8a02-4b95-9a19-53fda990830f",
+    "aa32456c-7a1a-4518-ae9b-cbd98684c60f",
+    "b149dd7c-ac61-4ff0-a266-770653897e50",
+    "c02019f4-cda5-4f13-89d7-059a51e43e18",
+    "cd0e254c-4856-4eb6-9648-0583b0112a89",
+    "dadd8542-3f4a-439b-aff6-1735be60aa20",
+    "dea6e66c-d462-4b2e-9090-ea0bf3d75a5f",
+    "e24a8437-a609-4ae2-ae4d-55891a18d9d8",
+    "e476aa51-2004-4919-8458-0ebdf743229c",
+    "edadbb59-01da-43ad-bf40-193ebe0ea14e",
+    "f5cf3aba-28c0-4334-babd-bb741e54850f"
+  ],
+  "updated_at": "2026-09-16T10:39:23.914Z"
+}

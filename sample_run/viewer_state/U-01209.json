@@ -1,0 +1,128 @@
+{
+  "user_id": "U-01209",
+  "profile": {
+    "user_id": "U-01209",
+    "signup_at": "2025-10-06T09:03:23.773Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-02T18:26:03.404Z",
+    "plan_ends_at": "2026-10-02T18:26:03.404Z",
+    "preferred_dialect": "d6",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T01:30:25.787Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-10-06T09:03:23.773000+00:00",
+      "source": "profile",
+      "observed_at": "2025-10-06T09:03:23.773Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-02T18:26:03.404Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d6",
+      "source": "profile",
+      "observed_at": "2026-09-02T18:26:03.404Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T18:26:03.404Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T18:26:03.404Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-23T16:50:30.693Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d6",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-23T16:50:27.677Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Comedy": 2,
+    "Romance": 2,
+    "Drama": 1,
+    "Devotional": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "0876b05f-93ff-428f-98a0-10a10a03e80e",
+    "23f228b9-a993-411a-b264-f3656d37b3e8",
+    "6b754796-8464-4f61-8124-e4234bf51d6c",
+    "9b865604-d893-4cc1-924a-8500ed6c8474"
+  ],
+  "total_plays": 4,
+  "total_completes": 0,
+  "last_play_at": "2026-09-21T15:25:29.709Z",
+  "last_play_by_slug": {
+    "yagi-dagi-d6": "2026-09-18T05:51:53.380Z",
+    "vaka-vachu-d6": "2026-09-18T14:44:27.014Z",
+    "rasuya-moni-d6": "2026-09-20T06:43:20.903Z",
+    "piri-jama-d6": "2026-09-21T15:25:29.709Z"
+  },
+  "last_app_open_at": "2026-09-23T16:50:27.677Z",
+  "active_days_ist": [
+    "2026-09-13",
+    "2026-09-18",
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "03a975cc-a223-451e-8981-e92bae97294a",
+    "04b4ac26-2114-417e-accb-3d62db6e1b79",
+    "12586f20-8f90-4caa-8504-cb842e596cff",
+    "1a554956-c00b-47cd-96f0-3cb06829235e",
+    "1fb89768-61ad-4efb-a27e-1c9c6aee02d8",
+    "220bd9a8-fe63-4ebd-a305-3819549b3160",
+    "22f93c57-41a6-4ef4-89ec-27ee502cf612",
+    "29a9e537-aced-4f9c-8ef0-98a5d2cbd35d",
+    "2c642e48-9bce-42e0-ba94-bedbfb277c5b",
+    "40b91445-7fc9-4eac-812f-86b81c912371",
+    "4aef6e8b-0b34-4e10-bdcd-85c6d7d3bc97",
+    "55acbba0-2a92-4d5d-9c10-d55533d93111",
+    "70c876ce-6d56-4609-bf36-1d6dd80d3396",
+    "72be6183-1638-4f10-945f-7c0b325b19b6",
+    "8307e1f2-dc39-4b23-be1b-ef0e995f9d07",
+    "9864a708-f4e1-4377-8ede-75e1112173a0",
+    "98df2ed8-fb19-4ab4-b596-6b03ae8ff3d5",
+    "a99350e2-4083-4656-b78b-12727373a7ef",
+    "b34f6efa-bbd1-49c7-8281-dcac0399e185",
+    "bf3be09e-391a-4d8b-9a04-e4b46853ce63",
+    "c69c14fb-d1db-4c90-8a70-15a5234f641b",
+    "c8100937-36a9-465b-9a74-f7f62dbe5e62",
+    "ca2d5df7-6767-47b5-84db-617b820a783e",
+    "d068609e-8b3b-417e-873a-89938f72c002",
+    "d5f918e6-17e0-45ef-a5b0-432da0afc7d9",
+    "f097d5b5-a7ed-4647-808c-1f055780e90d",
+    "f3f6465d-8763-40df-8f0d-ff3a5bc6096f",
+    "f702b623-74c9-484c-8f08-26394abf2f75"
+  ],
+  "updated_at": "2026-09-23T16:50:30.693Z"
+}

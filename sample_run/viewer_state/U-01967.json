@@ -1,0 +1,110 @@
+{
+  "user_id": "U-01967",
+  "profile": {
+    "user_id": "U-01967",
+    "signup_at": "2025-02-02T03:39:54.028Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T03:14:20.963Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-02T03:39:54.028000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-02T03:39:54.028Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-12T03:06:17.290Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-12T03:06:17.290Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T03:06:17.290Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-12T03:06:17.290Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-19T07:26:37.288Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T04:46:29.729Z",
+      "deadline": "2026-10-08T04:46:29.729Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T04:46:29.729Z"
+    }
+  ],
+  "completed_episodes": [
+    "rigu-dhadi-d2-s1e1"
+  ],
+  "slug_progress": {
+    "rigu-dhadi-d2": "rigu-dhadi-d2-s1e1"
+  },
+  "genre_plays": {
+    "Action": 1,
+    "Comedy": 1
+  },
+  "play_sessions": [
+    "ee1eb9e2-acab-481c-9b53-2e83c8b3ba9c"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-19T07:23:51.405Z",
+  "last_play_by_slug": {
+    "rigu-dhadi-d2": "2026-09-19T07:23:51.405Z"
+  },
+  "last_app_open_at": "2026-09-19T07:23:10.594Z",
+  "active_days_ist": [
+    "2026-09-12",
+    "2026-09-19"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1a7c18d0-edf1-4181-9e62-1d5ca010c80f",
+    "1f820d67-d66c-4b51-8a5c-6b106e8cc401",
+    "20a97237-8022-4d55-8950-0f42eb458359",
+    "39160aff-959b-4885-bfb1-d088d53ec627",
+    "4f18bb36-7a96-42e1-803f-3a5f1f66eb16",
+    "6f18b014-1d7b-4c31-b9bd-c3d36e9eb4e9",
+    "a3019277-ace4-4f62-9fb3-cf33d90fdd8e",
+    "b9333c89-32be-4338-890b-592291a09e8a",
+    "cd42869a-7735-43b7-9373-56aca0870e19"
+  ],
+  "updated_at": "2026-10-08T04:46:29.729Z"
+}

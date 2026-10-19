@@ -1,0 +1,116 @@
+{
+  "user_id": "U-00962",
+  "profile": {
+    "user_id": "U-00962",
+    "signup_at": "2025-05-14T03:25:54.719Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T02:18:07.708Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-14T03:25:54.719000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-14T03:25:54.719Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-05T08:38:32.828Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-05T08:38:32.828Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T08:38:32.828Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-05T08:38:32.828Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-15T17:27:11.944Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "raloja-d1-s1e1"
+  ],
+  "slug_progress": {
+    "raloja-d1": "raloja-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "cd8648d2-325b-4742-84f0-2b54905c5761"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-05T08:41:47.144Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-05T08:41:47.144Z"
+  },
+  "last_app_open_at": "2026-09-15T17:26:54.202Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-13",
+    "2026-09-15"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-06T08:38:31.720000+00:00",
+      "ist_day": "2026-09-06"
+    },
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-14T13:00:13.828000+00:00",
+      "ist_day": "2026-09-14"
+    }
+  ],
+  "idempotency_keys": [
+    "04ff1e3e-1d6f-425e-a921-0b013dfbf02b",
+    "2b79b523-f3cd-4f3d-b3aa-d45160cce147",
+    "2c899439-1300-43c2-9489-86fa1f14b947",
+    "3144efd1-267a-4af8-8201-c4e4b54c4a6d",
+    "36a5169f-36d3-40f3-ad83-7f15e4f77472",
+    "4029895e-318e-4967-81b2-e8798478c5fd",
+    "5c45b13d-2e5d-4ef6-be4d-896844e85fd8",
+    "642d4a2e-b16d-4afb-a7eb-d75fdf4b31c1",
+    "83d667ca-6df4-4929-96a8-ff80884b71e9",
+    "907bcbda-c254-4638-8834-6d9753c2ac53",
+    "9a8721f8-ba7d-4ea6-845e-64c48e746c8d",
+    "9b22e54f-e4fa-46d8-8f1b-aef38f69d308",
+    "c00cbf43-a93e-4715-934d-c6d2196cbcab",
+    "c01ee2f3-c642-4e03-b6b0-a8816201a29f",
+    "edc6a6a7-dbde-4db1-a053-f282e301370c",
+    "f92af58b-c2ae-431a-bd7d-cdaf8f4de4fc"
+  ],
+  "updated_at": "2026-09-15T17:27:11.944Z"
+}

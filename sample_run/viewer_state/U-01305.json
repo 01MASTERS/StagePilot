@@ -1,0 +1,99 @@
+{
+  "user_id": "U-01305",
+  "profile": {
+    "user_id": "U-01305",
+    "signup_at": "2026-09-22T16:22:49.762Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T08:21:46.755Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-22T16:22:49.762000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-22T16:22:49.762Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-22T16:22:49.762Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-22T16:22:49.762Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-22T16:22:49.762Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d6",
+      "source": "app_setting",
+      "observed_at": "2026-09-22T21:20:50.103Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:11:38.347Z",
+      "deadline": "2026-10-08T15:11:38.347Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T15:11:38.347Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Drama": 1
+  },
+  "play_sessions": [
+    "56dec047-fa4d-42cd-81de-6a8ea33b0da8"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-22T20:55:20.875Z",
+  "last_play_by_slug": {
+    "vaka-vachu-d6": "2026-09-22T20:55:20.875Z"
+  },
+  "last_app_open_at": "2026-09-22T20:53:48.733Z",
+  "active_days_ist": [
+    "2026-09-22",
+    "2026-09-23"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "1e710c0b-0372-4c77-97d3-5de1bc24daeb",
+    "1f64e8b2-bd1d-4247-94f5-197dc2dd16ec",
+    "3cd857a4-2f58-4619-b506-8bd5899a4fae",
+    "4d78ccc8-f196-481c-8ca7-a40afa775d3d",
+    "7284c2be-f1c4-4fcf-a6dc-be05df24569f",
+    "77ae10d6-11b6-4568-8fd5-b25abd123336",
+    "8724f2c2-fb3b-4487-871e-e630316120c3",
+    "b497da34-efa4-43ae-af47-6d64bd3ea235",
+    "e1cefe4e-f2f8-4d0e-915b-cd50dd0dd5b3"
+  ],
+  "updated_at": "2026-10-08T15:11:38.347Z"
+}

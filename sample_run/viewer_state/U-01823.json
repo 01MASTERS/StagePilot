@@ -1,0 +1,134 @@
+{
+  "user_id": "U-01823",
+  "profile": {
+    "user_id": "U-01823",
+    "signup_at": "2026-04-02T03:23:17.218Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d3",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "ios",
+    "updated_at": "2026-09-29T07:41:49.900Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-04-02T03:23:17.218000+00:00",
+      "source": "profile",
+      "observed_at": "2026-04-02T03:23:17.218Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:18.054Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d3",
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:18.054Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:18.054Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-16T16:24:18.054Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-20T14:40:56.899Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d2",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-17T10:10:27.441Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T07:13:32.715Z",
+      "deadline": "2026-10-08T07:13:32.715Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T07:13:32.715Z"
+    }
+  ],
+  "completed_episodes": [
+    "bhaja-moguba-d2-s1e1"
+  ],
+  "slug_progress": {
+    "bhaja-moguba-d2": "bhaja-moguba-d2-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 1,
+    "Action": 1,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "1213e383-d6b1-4c8b-b575-0069e6b5d394",
+    "9ea29841-c3cb-459b-8ae2-fdcbd4fec501"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-17T10:13:11.871Z",
+  "last_play_by_slug": {
+    "bhaja-moguba-d2": "2026-09-16T16:25:16.236Z",
+    "molo-d2": "2026-09-17T10:13:11.871Z"
+  },
+  "last_app_open_at": "2026-09-20T14:40:42.026Z",
+  "active_days_ist": [
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-19",
+    "2026-09-20"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "029b42de-4c71-4aa8-9991-3426de22773a",
+    "10fffa56-acd9-4213-91d6-d74f95f82185",
+    "11f1a5c7-4ead-4f4c-be3f-81e21f0c6e07",
+    "13a685b7-6cb7-4c3f-9096-19b820e57e88",
+    "216b8d23-9a85-4aec-b418-683b3933b2d0",
+    "3072ee41-9bd2-4519-a563-c5b0b7dc3d92",
+    "593429d0-988f-4eaf-8e03-0b4ca7af52cb",
+    "5eeff7be-40a9-4ad0-97cf-5bb488e0ca8c",
+    "6fa42ab8-893b-4eaa-8e97-bf5d5dfb3e83",
+    "97ccb7a5-806f-4a96-85d8-435c8fca2eb2",
+    "9c3117b2-1989-4d55-ba17-a7a260bf2e96",
+    "a8543c58-d393-4e3c-9005-edf4d27bb169",
+    "b92d30e9-6e21-4387-8cdc-5276e881baeb",
+    "ccc5971f-64d0-4e6d-b954-1b47aaaae58e",
+    "d3a171c9-1af0-41ba-9cc9-4b40576e1eae",
+    "ec1f8b4e-3a10-444e-ada8-8deee6bec354",
+    "f30a69ae-58e4-48b7-9f34-538991d654ee",
+    "f49c890d-dba5-43fc-8423-2e04ce7de27b",
+    "fa9acc9f-4974-4777-83e6-8f68f2f80792",
+    "fab19dc1-40bd-4b5a-9a4e-9ac7e11f4e56",
+    "fcd726a5-4e89-4d91-b21b-5814c0a30a43",
+    "fdaccbe2-513e-4bd9-8c05-a6c0f9ad8e93"
+  ],
+  "updated_at": "2026-10-08T07:13:32.715Z"
+}

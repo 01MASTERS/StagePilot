@@ -1,0 +1,90 @@
+{
+  "user_id": "U-04258",
+  "profile": {
+    "user_id": "U-04258",
+    "signup_at": "2026-09-29T15:22:42.205Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T10:43:09.577Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-29T15:22:42.205000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-29T15:22:42.205Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-29T15:22:42.205Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-29T15:22:42.205Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-29T15:22:42.205Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T15:44:44.083Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-29T15:22:52.236Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Crime": 1,
+    "Drama": 1
+  },
+  "play_sessions": [
+    "e02b6b27-4a4b-47a5-80fd-35fa34e25dd8"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-29T15:24:14.609Z",
+  "last_play_by_slug": {
+    "lomamo-lonegu-d1": "2026-09-29T15:24:14.609Z"
+  },
+  "last_app_open_at": "2026-09-29T15:22:52.236Z",
+  "active_days_ist": [
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "17876cdc-9357-410f-b855-c050e2089f20",
+    "19dba05a-6088-48dd-9e66-88fe9cb45667",
+    "3d5678d0-9ee7-44ad-a5bb-f5985c1792b4",
+    "46287893-0f29-4486-8604-911ea48efe22",
+    "50d6a2ec-40dc-4415-8051-e5d518f40780",
+    "6e9583b3-3c4b-4482-a56f-df39829a1e30",
+    "a4c83a31-812f-4ca8-bfd0-a4346f1c4ec1",
+    "b3ebeceb-af13-4d2a-ad31-86ed22fc3105",
+    "b82142f5-a712-4f49-8236-aa86b5d2b1a8"
+  ],
+  "updated_at": "2026-09-29T15:44:44.083Z"
+}

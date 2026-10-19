@@ -1,0 +1,119 @@
+{
+  "user_id": "U-00292",
+  "profile": {
+    "user_id": "U-00292",
+    "signup_at": "2025-07-06T07:59:59.389Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T17:40:25.727Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-07-06T07:59:59.389000+00:00",
+      "source": "profile",
+      "observed_at": "2025-07-06T07:59:59.389Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-04T14:49:38.621Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-04T14:49:38.621Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-04T14:49:38.621Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-04T14:49:38.621Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-18T12:16:30.632Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-07T03:58:21.363Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Thriller": 1,
+    "Crime": 1
+  },
+  "play_sessions": [
+    "9658f169-e6c7-4e34-bbf5-8f6650a93840"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-04T14:51:28.203Z",
+  "last_play_by_slug": {
+    "yane-tegi-d3": "2026-09-04T14:51:28.203Z"
+  },
+  "last_app_open_at": "2026-09-18T12:16:26.891Z",
+  "active_days_ist": [
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-07",
+    "2026-09-14",
+    "2026-09-18"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-06T10:09:45.217000+00:00",
+      "ist_day": "2026-09-06"
+    },
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-15T10:27:14.223000+00:00",
+      "ist_day": "2026-09-15"
+    }
+  ],
+  "idempotency_keys": [
+    "191dc28c-f792-4629-80a0-ad5907347d2f",
+    "1f2b7998-c132-4f45-b1b6-40e4f6c4fe20",
+    "258f61bc-4a86-4e75-8f44-0063020464a5",
+    "2698126f-5e5e-42ab-b349-fe9f22080aca",
+    "6bbdbb6f-d0be-4455-a202-d851e9ebaf8d",
+    "6dd79ab6-efdb-40bb-b6db-6f756928a804",
+    "b46dc3b6-d127-4a7e-a949-534fa1024f2e",
+    "b723d64c-269c-4c7f-909b-aaaa852d7001",
+    "ba6256c7-7447-4d39-b837-132a9b13a9c8",
+    "c1b7a9b1-a3bc-40f8-a2c6-95f36d18881a",
+    "d0ba04e5-34db-40ad-8783-1162bca644c1",
+    "d59ed6b7-b3b0-4e9e-9c04-86ba9553f648",
+    "e004ba26-90b6-4e9e-9e92-6b1264116c79",
+    "e56f2faa-2802-46b1-b487-fc0fbb3030b3",
+    "fcbe8217-2dc4-42c7-921f-2e57b14d883d"
+  ],
+  "updated_at": "2026-09-18T12:16:30.632Z"
+}

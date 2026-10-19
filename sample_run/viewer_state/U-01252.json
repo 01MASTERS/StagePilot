@@ -1,0 +1,133 @@
+{
+  "user_id": "U-01252",
+  "profile": {
+    "user_id": "U-01252",
+    "signup_at": "2026-09-12T22:07:47.222Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T08:11:36.252Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-12T22:07:47.222000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-12T22:07:47.222Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-12T22:07:47.222Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-12T22:07:47.222Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-12T22:07:47.222Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T13:43:27.437Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d5",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-23T03:33:38.236Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "lomobha-moni-d3-s1e1",
+    "tepa-lagi-d3-s1e1"
+  ],
+  "slug_progress": {
+    "lomobha-moni-d3": "lomobha-moni-d3-s1e1",
+    "tepa-lagi-d3": "tepa-lagi-d3-s1e1"
+  },
+  "genre_plays": {
+    "Thriller": 2,
+    "Action": 3,
+    "Romance": 1
+  },
+  "play_sessions": [
+    "6b7424d8-36ec-4795-b2fb-22e5c6e05a6f",
+    "7988d709-27fd-44d1-b4ee-5108ea1bb0ad",
+    "8678244a-617e-4186-b712-9c4e4fa0ec07",
+    "f49e8c96-29ba-4895-9366-8292645a33e3"
+  ],
+  "total_plays": 4,
+  "total_completes": 2,
+  "last_play_at": "2026-09-25T06:54:06.394Z",
+  "last_play_by_slug": {
+    "lomobha-moni-d3": "2026-09-25T06:54:06.394Z",
+    "yatite-roloda-d3": "2026-09-18T17:16:06.292Z",
+    "tepa-lagi-d3": "2026-09-23T15:25:22.616Z"
+  },
+  "last_app_open_at": "2026-09-29T13:43:15.093Z",
+  "active_days_ist": [
+    "2026-09-13",
+    "2026-09-18",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-28",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "09aa2ef8-d3fb-46b1-ab55-d5f0d70533df",
+    "0b4d54a6-b780-4a84-a94d-5bc6b93c46b2",
+    "11f1689c-4921-4101-a76d-cb26f7ea32d2",
+    "265554d9-0457-483d-91f9-a2c972b49397",
+    "26ce8946-921b-4c02-a4fb-a757a85108fb",
+    "29e51c1e-dff2-4909-b1e7-ebdfd4557694",
+    "2d7539dd-3449-4e0c-a805-0f4ed31538bd",
+    "3293b6c8-6c98-4103-9951-d1bddbe7a28b",
+    "39059c50-8bbc-4ac3-a4cf-aa9dd7270daa",
+    "3e54a5b1-0e63-409d-ac0c-c25b432a9d9e",
+    "43353b52-4966-4de1-9da3-0d98f9b7f042",
+    "4d871c8c-57d7-4b31-a0b6-4680c83e5ebc",
+    "51bcf37f-3ea0-404d-bcda-2d2b049936cd",
+    "64b3e2da-21f3-48f4-bd2b-bfd987ca9e9e",
+    "6a2dfcc8-9e6a-42ce-8849-09d001ca4298",
+    "70721b51-7613-495e-8f57-c4f7326e0178",
+    "72eeaac6-4dd3-49bc-94fc-340838a22ee5",
+    "8026871a-8516-4ab5-bf6c-83042cf7624a",
+    "850a24b8-c383-4a3d-a6d1-c77b72924fd1",
+    "88e96625-952a-4551-8fe0-fc03b663e2b6",
+    "8de117a4-daf2-4273-8345-9163011874e3",
+    "8e6f5911-fbda-4372-a8c0-99811d9a4605",
+    "905e53b4-cbf3-4468-85fa-96e5b0b5020f",
+    "98035391-607d-4453-a1fe-2bc063ac2e30",
+    "994940e5-bbe4-48bc-aa89-d731b9e01df9",
+    "99b46291-0cef-4c15-a7c5-8e26e5e387a3",
+    "b8a49ad4-b75f-4ca4-8ae3-f4f7c01695fe",
+    "cb71ddf3-5c67-4e86-8194-7c0aa2bfa576",
+    "cf58ea74-c6c8-4ba0-8c3b-95db107a2ce8",
+    "cfb3577f-329e-4245-b6aa-92690ce5220b",
+    "e03f2adc-a529-4734-9fd3-036786f4372a",
+    "e68f783c-ee26-4a67-a6aa-6fe649107b27",
+    "ee51d299-97f0-4f9e-84fc-d0e972d5b2cc",
+    "ee68e289-be66-4d6d-88ac-98cc5e55320f",
+    "f654279e-3e3d-45af-bb18-a24ba13c9cec"
+  ],
+  "updated_at": "2026-09-29T13:43:27.437Z"
+}

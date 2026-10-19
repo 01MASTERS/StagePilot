@@ -1,0 +1,124 @@
+{
+  "user_id": "U-04444",
+  "profile": {
+    "user_id": "U-04444",
+    "signup_at": "2025-05-27T14:33:49.726Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "hin",
+    "notifications_opt_in": false,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T19:09:33.547Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-05-27T14:33:49.726000+00:00",
+      "source": "profile",
+      "observed_at": "2025-05-27T14:33:49.726Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-09T20:24:15.393Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-09T20:24:15.393Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-09T20:24:15.393Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-09T20:24:15.393Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T15:10:47.561Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T12:03:01.260Z",
+      "deadline": "2026-10-08T12:03:01.260Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T12:03:01.260Z"
+    }
+  ],
+  "completed_episodes": [
+    "raloja-d1-s1e1"
+  ],
+  "slug_progress": {
+    "raloja-d1": "raloja-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "29711cf4-4f93-467a-9e3c-c53284ba65b6"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-09T20:25:53.194Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-09T20:25:53.194Z"
+  },
+  "last_app_open_at": "2026-09-30T15:10:16.373Z",
+  "active_days_ist": [
+    "2026-09-10",
+    "2026-09-27",
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "070e6c56-8345-4e74-888c-f2bf45ecdecf",
+    "087d5e04-3c5d-4366-acfd-8f4d7bc77500",
+    "14f4136e-313a-4042-9cb7-aecb0d7b2fb9",
+    "1bb7fa31-04ba-4d1f-8c97-23a55a285724",
+    "2a0de8b2-fbb3-4491-b676-d399cc9ad26e",
+    "2c7ed889-4796-4604-973f-8e57bde05c20",
+    "31bfccb5-0c1e-43b0-9e08-0bcf3fd11aa6",
+    "389ae5c6-e45d-4665-bf13-7bc110755096",
+    "3ae8e5d2-202e-460b-8d76-c99049e8563f",
+    "4966b4d4-86b0-469a-87cc-5df444b41cae",
+    "6d197cff-ee5d-4b42-a882-3ddbaea318f0",
+    "71a87180-1c4e-4dc4-9e09-a3f656b1d390",
+    "74b32f7f-1274-4899-b441-594a23344843",
+    "753b19af-b862-4f7b-b122-53bc0306b138",
+    "816ecc70-bfed-40c0-9f1a-5f19ebc42976",
+    "8624370c-e4f9-4ad7-99b6-b98d68f2158a",
+    "8ab863f5-7b04-4b13-ad61-c9839b69f922",
+    "aae3c82e-e7d5-4c71-b592-bf2afe9d9f4a",
+    "bf4a5b81-dd52-4fe1-a2f7-4abbca34e43d",
+    "cd8a2249-4c2c-428d-bc53-7e645c1b6194",
+    "e7fdb74c-bbda-4593-bad9-6a2b99776452"
+  ],
+  "updated_at": "2026-10-08T12:03:01.260Z"
+}

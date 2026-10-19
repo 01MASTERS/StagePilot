@@ -1,0 +1,93 @@
+{
+  "user_id": "U-00119",
+  "profile": {
+    "user_id": "U-00119",
+    "signup_at": "2024-10-05T20:21:41.141Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T00:42:28.052Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2024-10-05T20:21:41.141000+00:00",
+      "source": "profile",
+      "observed_at": "2024-10-05T20:21:41.141Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "profile",
+      "observed_at": "2026-09-02T18:20:08.231Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T18:20:08.231Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T18:20:08.231Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G06",
+      "name": "reactivate_lapsed_14d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T05:34:21.606Z",
+      "deadline": "2026-10-15T05:34:21.606Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "any paid plan",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-15T05:34:21.606Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Family": 1
+  },
+  "play_sessions": [
+    "89268113-c38d-453c-98fe-784592a913ed"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-24T07:17:47.132Z",
+  "last_play_by_slug": {
+    "dhapipa-gini-d2": "2026-09-24T07:17:47.132Z"
+  },
+  "last_app_open_at": "2026-09-24T08:20:22.829Z",
+  "active_days_ist": [
+    "2026-09-02",
+    "2026-09-24"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "055509af-bc07-44d2-8845-7aad04d6bcff",
+    "1859f0cf-f355-465c-bbd5-9e95c8364137",
+    "55a2d961-4d00-4d2b-8ae4-4d98b3f610e6",
+    "5eeab755-8771-44b1-981f-670e1c42d5ef",
+    "75019055-6eed-44d2-998d-9af403e79547",
+    "7afb55a4-96e9-4182-86df-772aae57a91f",
+    "c8c734cc-33f3-446a-94ec-7ba3d4071aca",
+    "d71b28fe-de9d-480a-834d-a00c3c423526",
+    "daf8d016-4afd-4708-9277-b1d5b7bb9cde"
+  ],
+  "updated_at": "2026-10-15T05:34:21.606Z"
+}

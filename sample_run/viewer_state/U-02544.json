@@ -1,0 +1,106 @@
+{
+  "user_id": "U-02544",
+  "profile": {
+    "user_id": "U-02544",
+    "signup_at": "2026-09-18T15:23:03.009Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "ios",
+    "updated_at": "2026-09-29T05:21:02.979Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-18T15:23:03.009000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-18T15:23:03.009Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-18T15:23:03.009Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-18T15:23:03.009Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-18T15:23:03.009Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d3",
+      "source": "app_setting",
+      "observed_at": "2026-09-22T13:29:10.105Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G05",
+      "name": "first_paid_7d",
+      "status": "FAILED",
+      "started_at": "2026-10-01T15:05:49.860Z",
+      "deadline": "2026-10-08T15:05:49.860Z",
+      "rule_version": "2026-09-30",
+      "success_event": "purchase_completed",
+      "success_condition": "is_trial = false",
+      "target_content_slug": null,
+      "target_release_cutoff": null,
+      "qualifying_event_ids": [],
+      "resolved_at": "2026-10-08T15:05:49.860Z"
+    }
+  ],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {
+    "Crime": 1
+  },
+  "play_sessions": [
+    "d337ee98-f09c-4af1-9373-8f5987e78594"
+  ],
+  "total_plays": 1,
+  "total_completes": 0,
+  "last_play_at": "2026-09-18T15:24:27.722Z",
+  "last_play_by_slug": {
+    "jakasa-dapi-d3": "2026-09-18T15:24:27.722Z"
+  },
+  "last_app_open_at": "2026-09-22T13:28:51.210Z",
+  "active_days_ist": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-22"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "0054c08e-9a6d-4ce7-b993-60d6cae70b9b",
+    "0630426f-0a6c-4325-af66-0e9dfabd60ce",
+    "1d49288a-2dfd-4a52-a467-c5f49fb1a0ce",
+    "2919d14a-8aac-408c-bd06-120b906f9f1b",
+    "3da5fdd1-10f8-4c52-87c8-cbc15716a0d4",
+    "6ff4d4f4-744a-4bbe-8d61-dd2aa6446d0e",
+    "7c33ad1f-1974-43fe-ab28-67b89df7e738",
+    "b438c851-4e99-421b-8f8c-07e796960338",
+    "ba5b5a22-5d7a-4ac1-9981-1e883a6162ef",
+    "d1a2709e-ee50-4a34-9ae0-1185481e6c4a",
+    "db66f835-6fe0-42c1-a348-a92694b0fcda",
+    "db8c9502-1437-4742-b943-f7453fb02ddf",
+    "ddc5da31-54ee-496d-8c58-753f064a4666",
+    "f6e12b22-5c93-4a99-a4eb-38ee6c6967c7",
+    "fe0c36b5-1a4e-4bc3-9fb6-94d92ece391d"
+  ],
+  "updated_at": "2026-10-08T15:05:49.860Z"
+}

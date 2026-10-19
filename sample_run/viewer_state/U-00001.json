@@ -1,0 +1,116 @@
+{
+  "user_id": "U-00001",
+  "profile": {
+    "user_id": "U-00001",
+    "signup_at": "2025-07-10T05:07:08.811Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d4",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:11:00.208Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-07-10T05:07:08.811000+00:00",
+      "source": "profile",
+      "observed_at": "2025-07-10T05:07:08.811Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-02T09:34:06.770Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d4",
+      "source": "profile",
+      "observed_at": "2026-09-02T09:34:06.770Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-02T09:34:06.770Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-02T09:34:06.770Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d4",
+      "source": "app_setting",
+      "observed_at": "2026-09-22T04:11:37.056Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d3",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-22T04:03:16.011Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "tidaka-koni-d4-s1e1"
+  ],
+  "slug_progress": {
+    "tidaka-koni-d4": "tidaka-koni-d4-s1e1"
+  },
+  "genre_plays": {
+    "Crime": 1,
+    "Action": 1
+  },
+  "play_sessions": [
+    "c1003191-25d4-4efd-a4e3-e1340dbefae3"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-02T09:37:12.910Z",
+  "last_play_by_slug": {
+    "tidaka-koni-d4": "2026-09-02T09:37:12.910Z"
+  },
+  "last_app_open_at": "2026-09-22T04:11:04.934Z",
+  "active_days_ist": [
+    "2026-09-02",
+    "2026-09-10",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-22"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "02d85f03-be18-479f-a196-92e533c84b83",
+    "0cddcd13-82ca-41e6-a9b5-bada547e3562",
+    "3c59bc61-c9cf-42fc-8225-438cb1151231",
+    "3d35c493-feac-4b6a-a1e7-7d795b639533",
+    "47e03b85-c6a9-46b8-b838-edb410372427",
+    "7b2bbf8d-9fde-4d2f-b019-9d5bd9c44baa",
+    "7b3e5014-42a7-466e-9f63-633ce21db901",
+    "808b9cec-ec0f-4122-b3f7-4a83af7fc34b",
+    "95bc6165-5d82-47d5-b171-cc963a15b387",
+    "975089bf-bcdd-412c-9646-79026b1d2a4e",
+    "af91924d-f1f0-4ea7-8743-4fee30a785f0",
+    "b61f6720-db5b-44e9-b37d-97c2dec52a9e",
+    "b9dea1c9-cd7f-45a9-8a41-874862270ad4",
+    "c6fe32a1-2583-4216-af63-d91b0d1cca32",
+    "c8668964-434e-4e90-b2aa-94f0e7c9ef03",
+    "d746400a-2410-4836-a1f0-a072779c536d",
+    "d903097f-36d8-4425-9976-fb699a254d6d",
+    "e8aebd2c-e7e0-4ca3-a491-00b126c94a35",
+    "ebb93045-c71c-4866-a97f-6c27b4b7b888",
+    "f038d8a7-5d41-410e-84e0-46a1264a526c",
+    "f895bf78-b555-44a2-b356-6041bd5c4dc8"
+  ],
+  "updated_at": "2026-09-22T04:11:37.056Z"
+}

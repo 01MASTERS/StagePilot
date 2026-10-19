@@ -1,0 +1,120 @@
+{
+  "user_id": "U-03017",
+  "profile": {
+    "user_id": "U-03017",
+    "signup_at": "2026-09-29T02:24:59.625Z",
+    "subscription_status": "active",
+    "plan_started_at": "2026-09-27T00:32:10.049Z",
+    "plan_ends_at": "2026-10-27T00:32:10.049Z",
+    "preferred_dialect": "",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-28T19:27:32.302Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-29T02:24:59.625000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-29T02:24:59.625Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "active",
+      "source": "events",
+      "observed_at": "2026-09-27T00:32:10.049Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-27T00:32:10.049Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-27T00:32:10.049Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-30T11:53:36.890Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [
+    {
+      "goal_id": "G08",
+      "name": "try_new_release_7d",
+      "status": "SUCCEEDED",
+      "started_at": "2026-10-01T02:47:33.299Z",
+      "deadline": "2026-10-08T02:47:33.299Z",
+      "rule_version": "2026-09-30",
+      "success_event": "play_started",
+      "success_condition": "a title released in the 30 days before the goal start",
+      "target_content_slug": null,
+      "target_release_cutoff": "2026-09-01T02:47:33.299Z",
+      "qualifying_event_ids": [
+        "oua-018825"
+      ],
+      "resolved_at": "2026-10-02T17:20:25.000Z"
+    }
+  ],
+  "completed_episodes": [
+    "hama-chudibha-d1-s1e1"
+  ],
+  "slug_progress": {
+    "hama-chudibha-d1": "hama-chudibha-d1-s1e1"
+  },
+  "genre_plays": {
+    "Devotional": 1,
+    "Action": 1,
+    "Comedy": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "5198ca1c-659a-4fa9-9b00-f4dd25d8f78b",
+    "c6bba2fc-ed6f-48e5-b77f-93ac0780469d"
+  ],
+  "total_plays": 2,
+  "total_completes": 1,
+  "last_play_at": "2026-09-29T12:38:21.595Z",
+  "last_play_by_slug": {
+    "raloja-d1": "2026-09-29T02:27:45.428Z",
+    "hama-chudibha-d1": "2026-09-29T12:38:21.595Z"
+  },
+  "last_app_open_at": "2026-09-30T11:53:18.715Z",
+  "active_days_ist": [
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "14aff298-dab7-4ba2-a943-340f626081da",
+    "28152382-4239-4783-9278-134ccb38cb1e",
+    "28fa8f40-042b-4244-b9e7-fde183ab1428",
+    "2d0b7dd8-2e5e-4ee1-81f6-5c3dd29f6639",
+    "39f76d95-275e-43b6-a0a7-d4a64efb9f4a",
+    "540f5ae3-9fc3-440b-9470-c4fa47df0b96",
+    "6575585c-1e52-4d9b-9e2a-36910ef76582",
+    "6d54093f-0bdf-48d3-af13-79b15d34e02c",
+    "7469f4fe-89f0-4c7f-a12a-f69bc03f3d50",
+    "7612b389-15d0-4883-bb40-368e4fb539e7",
+    "8736bba0-2b40-4a87-9357-2558daaaad32",
+    "8a282728-d655-413a-b58c-d38639dde599",
+    "a0f91513-803f-4b3b-9b8b-4af64f9a33d5",
+    "a6362259-61f1-48f3-bd00-9693efb9d0a4",
+    "ca977fc4-7604-4856-96c7-b9d670199b81",
+    "cca2cdad-8b85-4510-b888-5686d646b352",
+    "d026ec06-00d8-455c-a630-67f85ff8a3be",
+    "f2aa8b98-4145-46a3-81cc-5c976cea4fb6",
+    "f73c3b05-0fd7-482a-b607-19c75768d249"
+  ],
+  "updated_at": "2026-10-02T17:20:25.000Z"
+}

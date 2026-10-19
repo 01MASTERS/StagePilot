@@ -1,0 +1,104 @@
+{
+  "user_id": "U-04593",
+  "profile": {
+    "user_id": "U-04593",
+    "signup_at": "2025-07-26T17:51:14.364Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d1",
+    "preferred_language": "en",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T01:48:46.505Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-07-26T17:51:14.364000+00:00",
+      "source": "profile",
+      "observed_at": "2025-07-26T17:51:14.364Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-05T03:27:20.894Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d1",
+      "source": "profile",
+      "observed_at": "2026-09-05T03:27:20.894Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-05T03:27:20.894Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-05T03:27:20.894Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-24T14:25:38.043Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d1",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-24T14:24:56.992Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [],
+  "slug_progress": {},
+  "genre_plays": {},
+  "play_sessions": [],
+  "total_plays": 0,
+  "total_completes": 0,
+  "last_play_at": null,
+  "last_play_by_slug": {},
+  "last_app_open_at": "2026-09-24T14:24:56.992Z",
+  "active_days_ist": [
+    "2026-09-05",
+    "2026-09-11",
+    "2026-09-13",
+    "2026-09-21",
+    "2026-09-24"
+  ],
+  "sent_messages": [
+    {
+      "channel": "push",
+      "action_id": "",
+      "delivered_at": "2026-09-06T08:27:20.640000+00:00",
+      "ist_day": "2026-09-06"
+    }
+  ],
+  "idempotency_keys": [
+    "17e8694a-cd91-477e-a517-ba4a719f6f04",
+    "2c575c48-e7d6-4111-bcf9-ba4cbc81f59c",
+    "4bf601bb-33f5-42ad-ae68-a3f671a2f4d7",
+    "5b0f4a16-47dd-483c-83f8-8e658a153776",
+    "610d847a-fe1e-4fd3-bacd-9e65276730ce",
+    "6af156f4-7b91-4933-a2ef-7d2c12ce9164",
+    "81d119f2-84d7-4e3b-8a1c-abbc276d58ca",
+    "865f9499-05c4-4cc0-a24c-f3c71f940792",
+    "b1a1dbed-6682-4d27-808d-b62d71d110dc",
+    "c121dbc7-b68e-46ab-b0d0-30526504ff8d",
+    "c49c4fae-04bd-4b75-969a-b89cd47473f7",
+    "c858914d-f939-4a7a-b60d-fc6c7af74158",
+    "ff85b2b6-70eb-4c7e-9abd-9480d72a6978"
+  ],
+  "updated_at": "2026-09-24T14:25:38.043Z"
+}

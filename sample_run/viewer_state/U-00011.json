@@ -1,0 +1,131 @@
+{
+  "user_id": "U-00011",
+  "profile": {
+    "user_id": "U-00011",
+    "signup_at": "2025-02-22T20:10:59.319Z",
+    "subscription_status": "never",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d5",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": false,
+    "platform": "android",
+    "updated_at": "2026-09-29T09:53:39.177Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2025-02-22T20:10:59.319000+00:00",
+      "source": "profile",
+      "observed_at": "2025-02-22T20:10:59.319Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "never",
+      "source": "profile",
+      "observed_at": "2026-09-06T16:35:41.687Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d5",
+      "source": "profile",
+      "observed_at": "2026-09-06T16:35:41.687Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-06T16:35:41.687Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": false,
+      "source": "profile",
+      "observed_at": "2026-09-06T16:35:41.687Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d1",
+      "source": "app_setting",
+      "observed_at": "2026-09-29T04:11:38.436Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-18T13:48:41.168Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "hama-chudibha-d1-s1e1"
+  ],
+  "slug_progress": {
+    "hama-chudibha-d1": "hama-chudibha-d1-s1e1"
+  },
+  "genre_plays": {
+    "Drama": 1,
+    "Thriller": 3,
+    "Comedy": 2
+  },
+  "play_sessions": [
+    "598b2c8f-b59c-4746-aa92-2226bb0f70dd",
+    "b2a5cb38-7c49-4ed6-b3aa-832c1ca55fd9",
+    "ea69adb3-8cb7-4f5d-aff2-c704831fae5f"
+  ],
+  "total_plays": 3,
+  "total_completes": 1,
+  "last_play_at": "2026-09-25T08:50:59.236Z",
+  "last_play_by_slug": {
+    "rava-baya-d1": "2026-09-10T20:46:41.439Z",
+    "hama-chudibha-d1": "2026-09-25T08:50:59.236Z"
+  },
+  "last_app_open_at": "2026-09-29T04:11:17.283Z",
+  "active_days_ist": [
+    "2026-09-06",
+    "2026-09-11",
+    "2026-09-16",
+    "2026-09-18",
+    "2026-09-25",
+    "2026-09-29"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "08d70a90-1332-48a2-bd83-d301a669bbbb",
+    "0e9d7894-495b-4565-981b-abcfb9cffd88",
+    "13664d4f-1cd8-4385-bf27-d45b5d650393",
+    "19e84aba-caa7-4f48-b748-0d01f539a3c7",
+    "1fbab7d7-527b-4ce5-bf88-d79726ab9dbe",
+    "267ab41c-5210-4481-a9d8-4089fd21cd18",
+    "340a87fb-61d5-4819-ad71-73ec7df9f6e0",
+    "37856941-b4b5-48c3-ba98-404f6cf51a6d",
+    "468dbeb5-c336-4dd8-8651-306c5d4d55e2",
+    "48e13d8d-d526-48e6-a5b4-3180ad0b7106",
+    "4d962be2-00d5-45e1-9c58-75e0ebbca9ed",
+    "52ab30ba-e745-49e8-a6b6-975c33472f9c",
+    "548c3a1f-3177-4f50-bcd9-64aa51f2cbef",
+    "5ae0b66d-eaf3-441c-8728-4656412e1339",
+    "5bdf3edc-8be4-4f2a-8778-8f5747e2dedd",
+    "61e3fb55-4f2c-4430-9793-89794988e3b3",
+    "72be13ba-0a27-45cd-8ab7-887e499af8c3",
+    "7b1b8bc9-7992-40e1-9b57-fa16e7b5c5ad",
+    "a3480673-59dc-4586-a651-738f25610d61",
+    "a3d41858-c023-4ed2-b955-dc2e5045b2ae",
+    "aaf34f78-c4cf-430c-9429-153388116fbc",
+    "b0b4f913-7854-4540-93c0-6a9052e85988",
+    "c4c403fd-2b2f-46c2-bf64-16ddbaa948b1",
+    "ca6f2370-2c34-4f80-a803-089d3c9e79cc",
+    "d23c4988-41b3-4c18-9ada-39f085885c0d",
+    "d771f030-401b-4984-b5ad-d1af4e872451",
+    "dcc9f919-6762-4bbd-ab29-3db53cc81399",
+    "e7865ad7-49d6-4564-9b27-b569c0b22636",
+    "f6ce6bb8-4843-4d99-8615-f9e35bc1589a",
+    "fd7403c3-2927-461f-a43a-ca94d723f7c8",
+    "ff8e0dff-f7ce-4234-9f16-5addcc7dfd02"
+  ],
+  "updated_at": "2026-09-29T04:11:38.436Z"
+}

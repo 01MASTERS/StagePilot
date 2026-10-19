@@ -1,0 +1,103 @@
+{
+  "user_id": "U-02798",
+  "profile": {
+    "user_id": "U-02798",
+    "signup_at": "2026-09-19T22:31:20.373Z",
+    "subscription_status": "lapsed",
+    "plan_started_at": null,
+    "plan_ends_at": null,
+    "preferred_dialect": "d2",
+    "preferred_language": "hin",
+    "notifications_opt_in": true,
+    "whatsapp_opt_in": true,
+    "platform": "android",
+    "updated_at": "2026-09-28T21:22:34.675Z",
+    "snapshot_at": "2026-09-30T00:00:00.000Z",
+    "is_synthetic": false
+  },
+  "facts": {
+    "signup_at": {
+      "fact_key": "signup_at",
+      "value": "2026-09-19T22:31:20.373000+00:00",
+      "source": "events",
+      "observed_at": "2026-09-19T22:31:20.373Z"
+    },
+    "subscription_status": {
+      "fact_key": "subscription_status",
+      "value": "lapsed",
+      "source": "events",
+      "observed_at": "2026-09-22T17:25:44.110Z"
+    },
+    "preferred_dialect": {
+      "fact_key": "preferred_dialect",
+      "value": "d2",
+      "source": "profile",
+      "observed_at": "2026-09-19T22:31:20.373Z"
+    },
+    "notifications_opt_in": {
+      "fact_key": "notifications_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-19T22:31:20.373Z"
+    },
+    "whatsapp_opt_in": {
+      "fact_key": "whatsapp_opt_in",
+      "value": true,
+      "source": "profile",
+      "observed_at": "2026-09-19T22:31:20.373Z"
+    },
+    "app_dialect": {
+      "fact_key": "app_dialect",
+      "value": "d2",
+      "source": "app_setting",
+      "observed_at": "2026-09-24T14:47:05.040Z"
+    },
+    "campaign_dialect": {
+      "fact_key": "campaign_dialect",
+      "value": "d4",
+      "source": "campaign_deeplink",
+      "observed_at": "2026-09-19T22:31:56.423Z"
+    }
+  },
+  "active_goal": null,
+  "completed_goals": [],
+  "completed_episodes": [
+    "dava-nedi-d2-s1e1"
+  ],
+  "slug_progress": {
+    "dava-nedi-d2": "dava-nedi-d2-s1e1"
+  },
+  "genre_plays": {
+    "Comedy": 1,
+    "Thriller": 1
+  },
+  "play_sessions": [
+    "34ddda7b-1b62-4ed2-9a9e-466f76f1cfe1"
+  ],
+  "total_plays": 1,
+  "total_completes": 1,
+  "last_play_at": "2026-09-19T22:33:46.245Z",
+  "last_play_by_slug": {
+    "dava-nedi-d2": "2026-09-19T22:33:46.245Z"
+  },
+  "last_app_open_at": "2026-09-24T14:47:05.040Z",
+  "active_days_ist": [
+    "2026-09-20",
+    "2026-09-24"
+  ],
+  "sent_messages": [],
+  "idempotency_keys": [
+    "06673a50-40b1-4890-9f73-4a86a3f6239a",
+    "0fa976c4-490d-49dd-b471-aaf3fea73b1e",
+    "22ed9cc0-29f1-4628-9069-b92a17cf20c7",
+    "3aa4f528-7d3d-4340-bfd8-461a9bc5902b",
+    "42816d8b-5812-44d2-8cf1-f36e97a6dc74",
+    "4b42f3f4-fedd-4a0c-8e98-bc184dca389a",
+    "6b71b330-171b-49b1-a1b5-b2531d18c6c3",
+    "ad27003e-75ce-47bf-9145-79e899f7edf3",
+    "d81cc25b-0dee-4677-a2b1-45b15cf583e5",
+    "e59a0d1d-340f-40c5-85c3-6e2485d537f2",
+    "eb7da61a-466f-4c8a-a94f-5e4c779002da"
+  ],
+  "updated_at": "2026-09-24T14:47:05.040Z"
+}
